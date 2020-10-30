@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="entremesesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title>Entremés de la hechicera</title>
+        </titleStmt>
+        <publicationStmt>
+            <p>Información sobre la publicación digital</p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>Cotarelo y Mori, E. (1911). Colección de entremeses. 
+            Extraído de: Colección de entremeses, Vol. II, Universidad de Granada (2000) (pp. 682-685)
+            </p>
+        </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <head>
+                Entremés de la hechicera
+            </head>
+            <castList>
+                <head>Figuras</head>
+                <castItem>
+                    <role xml:id="moha">DOÑA MOHATRA</role>
+                </castItem>
+                <castItem>
+                    <role xml:id="peri">DOÑA PERINOLA</role>
+                </castItem>
+                <castItem>
+                    <role xml:id="badu">BADULAQUE</role>
+                </castItem>
+                <castItem>
+                    <role xml:id="chico">CHICOLIO</role>
+                </castItem>
+                <castItem>
+                    <role xml:id="criado">UN CRIADO</role>
+                </castItem>
+                <castItem>
+                    <role xml:id="algua">UN ALGUACIL</role>
+                </castItem>
+            </castList>
+        </front>
+
+        <body>
+        <div type="entremes">
+
+            <stage type="entrance">
+                <move who="#moha" who="#peri" type="enter">Salen DOÑA MOHATRA y DOÑA PERINOLA</move>, y dicen dentro.
+            </stage>    
+
+            <sp>
+                <speaker>VOCES</speaker>
+                <l>¡Fuego!, ¡fuego!</l>
+            </sp>
+
+            <sp who="#moha">
+                <speaker>MOHATRA</speaker>
+                <l>¡Jesús!; ¿adónde hay fuego?</l>
+            </sp>
+
+            <sp who="#peri">
+                <speaker>PERINOLA</speaker>
+                <l>¿Qué es esto?, ¿qué se quema?</l>
+            </sp>
+
+            <sp who="">
+                <speaker>MOHATRA</speaker>
+                <l>Perinola,</l>
+                <l>no sé lo que es, mas no me dejes sola.</l>
+            </sp>
+
+            <sp who="#peri">
+                <speaker>PERINOLA</speaker>
+                <l>Algún mozo lo ha hecho de tahona,</l>
+                <l>harto de mosto y lleno de tabaco.</l>
+                <l>¡malas mañanas te dé Dios, bellaco!</l>
+            </sp>
+
+            <stage type="entrance">
+                <move who="#chico" type="enter">(Sale CHICOLIO.)</move>
+            </stage> 
+
+
+        </div>
+        </body>
+    </text>
+</TEI>
