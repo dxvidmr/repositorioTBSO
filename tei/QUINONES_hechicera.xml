@@ -48,7 +48,7 @@
         <body>
         <div type="entremes">
 
-            <stage type="entrance">
+            <stage type="entrance location">
                 <move who="#moha" who="#peri" type="enter">Salen DOÑA MOHATRA y DOÑA PERINOLA</move>, y dicen dentro.
             </stage>    
 
@@ -84,7 +84,22 @@
                 <move who="#chico" type="enter">(Sale CHICOLIO.)</move>
             </stage> 
 
+            <sp who="#chico">
+                <speaker>CHICOLIO</speaker>
+                <l>¿Adónde está este fuego socarrado?</l>
+                <l>Gallina, que te atreves a las damas,</l>
+                <l>como si no quemasen más sus llamas:</l>
+                <l>con tu enemiga, borrachón, te embisto;</l>
+                <l>de un jarro de agua has de morir, ¡por Cristo!</l>
+                
+                <stage type="location">(Dentro.)<stage><l>¡Fuego!, ¡fuego!</l>
 
+                <stage type="entrance">
+                    (<move who="#badu" type="enter">Sale BADULAQUE</move> desnudo, en camisa.)
+                </stage>
+        
+        
+        
         </div>
         </body>
     </text>
