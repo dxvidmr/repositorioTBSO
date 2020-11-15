@@ -2,7 +2,7 @@
 
 ### Repositorio de teatro breve del Siglo de Oro
 
-Formato de los textos:
+Formato de los textos
 * XML-TEI
 * TXT: sin acotaciones, listas de personajes, personajes al comienzo de cada intevención y con la ortografía normalizada
 
