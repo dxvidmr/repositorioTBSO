@@ -8,4 +8,6 @@ Repositorio de teatro breve del Siglo de Oro.
 Actualmente el corpus está formado por: 
 * *Entremés famoso de la hechicera*, de Quiñones de Benavente (TEI en proceso, TXT listo)
 
-*Todos los contenidos se comparten con licencia CC BY-NC-SA.*
+
+### Licencia
+Todos los contenidos de este repositorio se comparten con licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
