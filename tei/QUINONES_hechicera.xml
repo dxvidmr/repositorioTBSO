@@ -322,128 +322,184 @@
                 <l>madreselva seré de mis hijuelos.</l>
             </sp>
 
-                BADULAQUE
-                Tente, mujer, y escucha, que yo y todo
-                soy planta y fruta y árbol dese modo.
-                Con quien pide por fuerza los regalos,
-                soy encina que doy el fruto a palos;
-                con quien de veras quiero, amo y adoro,
-                un pino soy a fe, y un pino de oro.
-                Con quien a puro daca, envía, traeme,
-                el rebanarme con crueldad desea,
-                seré melón, pero saldré badea;
-                con quien después de habella regalado,
-                el agradecimiento se me luce,
-                albaricoque soy de cuesco dulce;
-                si empieza a descubrir mis malas tachas,
-                soy cereza...
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>Tente, mujer, y escucha, que yo y todo</l>
+                <l>soy planta y fruta y árbol dese modo.</l>
+                <l>Con quien pide por fuerza los regalos,</l>
+                <l>soy encina que doy el fruto a palos;</l>
+                <l>con quien de veras quiero, amo y adoro,</l>
+                <l>un pino soy a fe, y un pino de oro.</l>
+                <l>Con quien a puro daca, envía, traeme,</l>
+                <l>el rebanarme con crueldad desea,</l>
+                <l>seré melón, pero saldré badea;</l>
+                <l>con quien después de habella regalado,</l>
+                <l>el agradecimiento se me luce,</l>
+                <l>albaricoque soy de cuesco dulce;</l>
+                <l>si empieza a descubrir mis malas tachas,</l>
+                <l part="I">soy cereza...</l>
+            </sp>
 
-                PERINOLA
-                                Pues ¿cómo la acomodas?
+            <sp>
+                <speaker>PERINOLA</speaker>
+                <l part="F">Pues ¿cómo la acomodas?</l>
+            </sp>
 
-                BADULAQUE
-                Que tirando de una salen todas.
-                Con la vieja que el rostro se dibuja,
-                soy fruta blanda, breva o papanduja;
-                con quien sólo en gastar mi fe embaraza,
-                soy buena muestra y salgo calabaza;
-                con la dama encerrada a quien me inclino,
-                soy perita oledera en lo refino;
-                pero con las de trato más humano,
-                tal para cual, soy árbol chabacano.
-                Con quien me ha dado alguna cantonada,
-                lacio naranjo, soy helado, y coso,
-                que resucita con el perro muerto,
-                y si hay buen vino y la ocasión me brinda,
-                déjolo todo y hágome una guinda.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>Que tirando de una salen todas.</l>
+                <l>Con la vieja que el rostro se dibuja,</l>
+                <l>soy fruta blanda, breva o papanduja;</l>
+                <l>con quien sólo en gastar mi fe embaraza,</l>
+                <l>soy buena muestra y salgo calabaza;</l>
+                <l>con la dama encerrada a quien me inclino,</l>
+                <l>soy perita oledera en lo refino;</l>
+                <l>pero con las de trato más humano,</l>
+                <l>tal para cual, soy árbol chabacano.</l>
+                <l>Con quien me ha dado alguna cantonada,</l>
+                <l>lacio naranjo, soy helado, y coso,</l>
+                <l>que resucita con el perro muerto,</l>
+                <l>y si hay buen vino y la ocasión me brinda,</l>
+                <l>déjolo todo y hágome una guinda.</l>
+            </sp>
 
-                MOHATRA
-                Y dígame, ¿qué vino es el más bueno
-                y le sabe mejor?
+            <sp>
+                <speaker>MOHATRA<speaker>
+                <l>Y dígame, ¿qué vino es el más bueno</l>
+                <l part="I">y le sabe mejor?</l>
+            </sp>
 
-                BADULAQUE
-                                ¿Cuál? El ajeno.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l part="F">¿Cuál? El ajeno.</l>
+            </sp>
 
-                CHICOLIO
-                Yo no sé aquesas pullas, Perinola;
-                sólo sé que eres toda una amapola,
-                y que con la hinchazón de aquesas naguas,
-                pareces, cuando el agua en ellas topa,
-                carabela de aviso viento en popa.
+            <sp>
+                <speaker>CHICOLIO</speaker>
+                <l>Yo no sé aquesas pullas, Perinola;</l>
+                <l>sólo sé que eres toda una amapola,</l>
+                <l>y que con la hinchazón de aquesas naguas,</l>
+                <l>pareces, cuando el agua en ellas topa,</l>
+                <l>carabela de aviso viento en popa.</l>
+            </sp>
 
-                BADULAQUE
-                Tú pareces remedio para el pecho,
-                pues los cabellos son azúcar piedra,
-                la cara azúcar blanco, y por más duelos,
-                por bigotes un par de caramelos.
+            <sp> 
+                <speaker>BADULAQUE</speaker>
+                <l>Tú pareces remedio para el pecho,</l>
+                <l>pues los cabellos son azúcar piedra,</l>
+                <l>la cara azúcar blanco, y por más duelos,</l>
+                <l>por bigotes un par de caramelos.</l>
+            </sp>
 
-                CHICOLIO
-                Pues, morcilla de sangre, ¿tú haces cocos?
+            <sp>
+                <speaker>CHICOLIO</speaker>
+                <l>Pues, morcilla de sangre, ¿tú haces cocos?</l>
+            </sp>
 
-                BADULAQUE
-                Pues, relleno de huevos, ¿tengo mocos?
+            <sp> 
+                <speaker>BADULAQUE</speaker>
+                <l>Pues, relleno de huevos, ¿tengo mocos?</l>
+            </sp>
 
-                CHICOLIO
-                ¡Echa mano, gallina!
+            <sp>
+                <speaker>CHICOLIO</speaker>
+                <l part="I">¡Echa mano, gallina!</l>
+            </sp>
 
-                BADULAQUE
-                                    Sí haré, ganso.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l part="F">Sí haré, ganso.</l>
+            </sp>
 
-                CHICOLIO
-                Llévate horro ya desta hurgonada.
+            <sp>
+                <speaker>CHICOLIO</speaker>
+                <l>Llévate horro ya desta hurgonada.</l>
+            </sp>
 
-                BADULAQUE
-                Y tú deste antuvión, panza pelada.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>Y tú deste antuvión, panza pelada.</l>
+            </sp>
 
-                CHICOLIO
-                ¡Afuera, dije!
+            <sp>
+                <speaker>CHICOLIO</speaker>
+                <l part="I">¡Afuera, dije!</l>
+            </sp>
 
-                BADULAQUE
-                                ¡Fuera, no me tengan!
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l part="F">¡Fuera, no me tengan!</l>
+            </sp>
 
-                MOHATRA
-                ¡Fuera, que se matan sin remedio!
+            <sp>
+                <speaker>MOHATRA</speaker>
+                <l>¡Fuera, que se matan sin remedio!</l>
+            </sp>
 
-                BADULAQUE
-                Pues ¡válgante los diablos!, ponte en medio.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>Pues ¡válgante los diablos!, ponte en medio.</l>
+            </sp>
 
-                PERINOLA
-                Quédense para pícaros cuitados,
-                más andrajosos y despedazados
-                que corito en Madrid recién venido,
-                que por no aporreallos me despido.
+            <sp>
+                <speaker>PERINOLA</speaker>
+                <l>Quédense para pícaros cuitados,</l>
+                <l>más andrajosos y despedazados</l>
+                <l>que corito en Madrid recién venido,</l>
+                <l>que por no aporreallos me despido.</l>
+            </sp>
 
-                BADULAQUE
-                ¡Escucha, Perinola!
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>¡Escucha, Perinola!</l>
+            </sp>
 
-                PERINOLA
-                ¡Callen! digo,
-                porque si una razón se les desliza,
-                vendrá a verlos monsieur de la Paliza.
+            <sp>
+                <speaker>PERINOLA</speaker>
+                <l>¡Callen! digo,</l>
+                <l>porque si una razón se les desliza,</l>
+                <l>vendrá a verlos monsieur de la Paliza.</l>
+            </sp>
 
-                CHICOLIO
-                Pulgas lleva en el alma.
+            <sp>
+                <speaker>CHICOLIO</speaker>
+                <l part="I">Pulgas lleva en el alma.</l>
+            </sp>
 
-                BADULAQUE
-                                        Y aun avispas.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l part="I">Y aun avispas.</l>
+            </sp>
 
-                CHICOLIO
-                ¡Guarda, Pablo!
+            <sp>               
+                <speaker>CHICOLIO</speaker>
+                <l part="I">¡Guarda, Pablo!</l>
+            </sp>
 
-                BADULAQUE
-                                ¡Al herrero, que echa chispas!
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l part="I">¡Al herrero, que echa chispas!</l>
+            </sp>
 
-                MOHATRA
-                Escúchame, Badulaque.
+            <sp>
+                <speaker>MOHATRA</speaker>
+                <l>Escúchame, Badulaque.</l>
+            </sp>
 
-                BADULAQUE
-                ¿Qué quieres, doña Embeleco?
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>¿Qué quieres, doña Embeleco?</l>
+            </sp>
 
-                MOHATRA
-                ¿Sabes que soy hechicera?
+            <sp>
+                <speaker>MOHATRA</speaker>
+                <l>¿Sabes que soy hechicera?</l>
+            </sp>
 
-                BADULAQUE
-                Pues no tienes cara dello.
+            <sp>
+                <speaker>BADULAQUE</speaker>
+                <l>Pues no tienes cara dello.</l>
+            </sp>
 
                 MOHATRA
                 Entiéndeseme un poquito,
