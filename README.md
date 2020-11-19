@@ -12,20 +12,19 @@ Formato de los textos
 | *Del Juego del Hombre* | Quiñones de Benavente | TXT |
 | *Don Satisfecho, el moño y la cabellera* | Quiñones de Benavente | TXT |
 | *El barbero* | Quiñones de Benavente | TXT |
-| *Entremés de la hechicera* | Quiñones de Benavente | TXT |
-
-* *Entremés de la ronda*, de Quiñones de Benavente (TXT)
-* *Entremés de lo que pasa en una venta*, de Quiñones de Benavente (TXT)
-* *Entremés de los ladrones y el reloj*, de Quiñones de Benavente (TXT)
-* *Entremés de los maldicientes*, de Quiñones de Benavente (TXT)
-* *Entremés del marión*, de Quiñones de Benavente (TXT)
-* *Entremés del ventero*, de Quiñones de Benavente (TXT)
-* *Entremés famoso de Otáñez y el fariseo*, de Quiñones de Benavente (TXT)
-* *Entremés famoso y nuevo de los sacristanes*, de Quiñones de Benavente (TXT)
-* *Entremés famoso: Los Mariones*, de Quiñones de Benavente (TXT)
-* *Entremés famoso: Pistraco*, de Quiñones de Benavente (TXT)
-* *La Maya. Entremés famoso*, de Quiñones de Benavente (TXT)
-* *Los vocablos*, de Quiñones de Benavente (TXT)
+| *Entremés de la hechicera* | Quiñones de Benavente | TXT, TEI|
+| *Entremés de la ronda* | Quiñones de Benavente | TXT |
+| *Entremés de lo que pasa en una venta* | Quiñones de Benavente | TXT |
+| *Entremés de los ladrones y el reloj* | Quiñones de Benavente | TXT |
+| *Entremés de los maldicientes* | Quiñones de Benavente | TXT |
+| *Entremés del marión* | Quiñones de Benavente | TXT |
+| *Entremés del ventero* | Quiñones de Benavente | TXT |
+| *Entremés famoso de Otáñez y el fariseo* | Quiñones de Benavente | TXT |
+| *Entremés famoso y nuevo de los sacristanes* | Quiñones de Benavente | TXT |
+| *Entremés famoso: Los Mariones* | Quiñones de Benavente | TXT |
+| *Entremés famoso: Pistraco* | Quiñones de Benavente | TXT |
+| *La Maya* | Quiñones de Benavente | TXT |
+| *Los vocablos* | Quiñones de Benavente | TXT |
 
 ### Licencia
 Todos los contenidos de este repositorio se comparten con licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
