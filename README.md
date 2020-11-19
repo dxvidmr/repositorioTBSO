@@ -7,8 +7,10 @@ Formato de los textos
 * TXT: sin acotaciones, listas de personajes, personajes al comienzo de cada intevención y con la ortografía normalizada
 
 ### Obras incluidas en el corpus 
+| Primera columna | Segunda columna | Tercera columna |
+| -- | -- | -- |
 
-| *Del Juego del Hombre* | Quiñones de Benavente | TXT 
+| *Del Juego del Hombre* | Quiñones de Benavente | TXT |
 * *Don Satisfecho, el moño y la cabellera*, de Quiñones de Benavente (TXT)
 * *El barbero*, de Quiñones de Benavente (TXT)
 * *Entremés de la hechicera*, de Quiñones de Benavente (TXT, TEI)
