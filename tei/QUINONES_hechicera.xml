@@ -51,10 +51,10 @@
         </front>
 
         <body>
-            <div type="entremes">
+            <div>
 
                 <stage type="entrance location">
-                    <move who="#moha" type="enter">Salen DOÑA MOHATRA y DOÑA PERINOLA</move>, y dicen dentro. <!-- revisar 2 who -->
+                    <move who="#moha #peri" type="enter"/>Salen DOÑA MOHATRA y DOÑA PERINOLA, y dicen dentro. <!-- revisar 2 who -->
                 </stage>    
 
                 <sp>
@@ -86,7 +86,7 @@
                 </sp>
 
                 <stage type="entrance">
-                    <move who="#chico" type="enter">(Sale CHICOLIO.)</move>
+                    <move who="#chico" type="enter"/>(Sale CHICOLIO.)
                 </stage> 
 
                 <sp who="#chico">
@@ -101,7 +101,7 @@
                 <stage type="location">(Dentro.)<stage><sp><l>¡Fuego!, ¡fuego!</l></sp>
 
                 <stage type="entrance">
-                    (<move who="#badu" type="enter">Sale BADULAQUE</move> desnudo, en camisa.)
+                    (<move who="#badu" type="enter"/>Sale BADULAQUE desnudo, en camisa.)
                 </stage>
 
 
@@ -187,7 +187,9 @@
                     <l>que si no, yo le hiciera...</l>
                 </sp>
 
-                <stage type="entrance"><move who="criado" type="enter">(Sale un CRIADO.)</move></stage>
+                <stage type="entrance">
+                    <move who="criado" type="enter"/>(Sale un CRIADO.)
+                </stage>
 
                 <sp who="criado">
                     <speaker>CRIADO</speaker>   
@@ -682,7 +684,9 @@
                     <l part="F">Porque quiero.</l>
                 </sp>
 
-                <stage><move who="criado" type="enter">(Entra un CRIADO.)</move></stage>
+                <stage>
+                    <move who="criado" type="enter"/>(Entra un CRIADO.)
+                </stage>
 
                 <sp who="criado">
                     <speaker>CRIADO</speaker>
@@ -708,7 +712,9 @@
                     <l>Pues di que toquen a fuego.</l>
                 </sp>
 
-                <stage type="entrance"><move type="enter" who="algua">(Sale un ALGUACIL.)</move></stage>
+                <stage type="entrance">
+                    <move type="enter" who="algua"/>(Sale un ALGUACIL.)
+                </stage>
 
                 <sp who="algua">
                     <speaker>ALGUACIL</speaker>
@@ -725,7 +731,7 @@
 
                 <sp who="algua">
                     <speaker>ALGUACIL</speaker>
-                    <l>Pero ¿qué papel es éste?</l> <stage type="business">(Leyéndolo.)</stage>
+                    <l>Pero ¿qué papel es éste?</l><stage type="business">(Leyéndolo.)</stage>
                 </sp>
 
                 <sp who="#badu">
@@ -778,7 +784,9 @@
                     <l>¡Oiganse! ¿Somos herreros?</l>
                 </sp>
 
-                <stage type="entrance"><move type="enter" who="moha">(Sale DOÑA MOHATRA.)</move></stage>
+                <stage type="entrance">
+                    <move type="enter" who="moha"/>(Sale DOÑA MOHATRA.)
+                </stage>
 
                 <sp who="#moha">
                     <speaker>MOHATRA</speaker>
@@ -884,7 +892,6 @@
                     <l>Porque premio nos llevan</l>
                     <l>pagando en cuartos.</l>
                 </sp>
-            
             
             </div>
         </body>
