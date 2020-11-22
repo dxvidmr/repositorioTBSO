@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+    type="application/xml" 
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title>Entremés famoso: los mariones</title>
+            <author>Luis Quiñones de Benavente</author>
+            <editor>David Merino Recalde</editor>
+        </titleStmt>
+        <publicationStmt>
+            <p>Distribuido bajo la licencia CC BY-NC-SA 4.0</p>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                Cotarelo y Mori, E. (1911). Colección de entremeses. 
+                Extraído de: Colección de entremeses, Vol. II, Universidad de Granada (2000) (pp. 595-598)
+            </bibl>
+        </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+	<text>
+			<front>
+				<head>
+					Entremés famoso: Los Mariones
+					Representóse en Madrid.
+				</head>
+				<castList>
+					<head>Figuras que hablan en él:</head>
+					<castItem>
+						<role xml:id="estef">DON ESTEFANÍO</role>
+					</castItem>
+					<castItem>
+						<role xml:id="quit">DON QUITERIO</role>
+					</castItem>
+					<castItem>
+						<role xml:id="fran">FRANCISCA</role>
+					</castItem>
+					<castItem>
+						<role xml:id="mar">MARÍA</role>
+					</castItem>
+					<castItem>
+						<role xml:id="cat">CATALINA</role>
+					</castItem>
+					<castItem>
+						<role xml:id="madre">LA MADRE DE LOS MARIONES</role>
+					</castItem>
+					<castItem>
+						<role xml:id="musc">DOS MÚSICOS</role>
+					</castItem>
+					<castItem>
+						<role xml:id="criado">UN CRIADO</role>
+					</castItem>
+				</castList>
+			</front>
+
+			<body>
+				<div>			
+		
+					<stage type="entrance">
+						Sale MARÍA por una parte con espada, capa y sombrero, rebozada,
+						y un MÚSICO rebozado, cubierta la guitarra;
+						y por otra parte FRANCISCA de la misma suerte, con otro MÚSICO.
+					</stage>
+					
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l>¡Oh noche de San Juan, alegre noche,</l>
+						<l>en que anda desvelado todo coche!</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l>¡Oh noche de San Juan, alegre y fresca,</l>
+						<l>que en el río das caza más que pesca!</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l>Músico, desabrigue la guitarra,</l>
+						<l>y haciéndola chillar como chicharra,</l>
+						<l>sin templar, sin toser, sin escombrarse,</l>
+						<l>ni aguardar á la súplica ó al ruego,</l>
+						<l>cante un romance, y pagaréle luego.</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l>Músico, ropa fuera al instrumento,</l>
+						<l>y, ahorrando de todo parlamento,</l>
+						<l>de «estoy ronco, cerrado tengo el pecho,</l>
+						<l>no puedo hablar» , achaque que los músicos</l>
+						<l>de contino lo toman por asunto,</l>
+						<l>cante una letra, y pagaréle al punto.</l>
+					</sp>
+
+					<stage>(Canta uno un verso y otro, otro.)</stage>
+
+					<sp>
+						<speaker>MÚSICO PRIMERO</speaker>
+						<l>Noche de San Juan alegre…</l>
+					</sp>
+
+					<sp>	
+						<speaker>MÚSICO SEGUNDO</speaker>
+						<l>Noche alegre de San Juan…</l>
+					</sp>
+
+					<sp>
+						<speaker>MÚSICO PRIMERO</speaker>
+						<l>Que al cantar el brindis haces…</l>
+					</sp>
+
+					<sp>
+						<speaker>MÚSICO SEGUNDO</speaker>
+						<l>Que haces brindis al cantar…</l>
+					</sp>
+
+					<sp>
+						<speaker>MÚSICO PRIMERO</speaker>
+						<l>Si me das favor y ayuda…</l>
+					</sp>
+
+					<sp>
+						<speaker>MÚSICO SEGUNDO</speaker>
+						<l>Si ayuda y favor me das…</l>
+					</sp>
+
+					<sp>
+						<speaker>MÚSICO PRIMERO</speaker>
+						<l>Hoy tendrán mis penas fin…</l>
+					</sp>
+
+					<sp>
+						<speaker>MÚSICO SEGUNDO</speaker>
+						<l>Hoy fin mis penas tendrán.</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l>Para el calor que hace, camarada,</l>
+						<l>esa música va muy aforrada.</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l>Desafórrala tú, ó como te llamas,</l>
+						<l>taba de hembras, ó aprendiz de damas.</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l>Mientes, y mentirás en cuanto dices.</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="I">Y eso, ¿no es aforrar?</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l part="F">De prosa ahorre,</l>
+						<l>si no quiere que así la desaforre.</l>
+					</sp>
+
+					<stage>(Mete mano á la espada.)</stage>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l>Matarte, cuitadilla, es la respuesta.</l>
+						<l>Den, por Dios, para el ánima de aquesta.</l>
+					</sp>
+
+					<stage>(Mete mano á la espada y riñen, y sale CATALINA y pónese en medio.)</stage>
+
+					<sp>
+						<speaker>CATALINA</speaker>
+						<l>¡Ay, amigas!, decid: ¿qué diferencia</l>
+						<l>pone la flor del mundo en competencia?</l>
+						<l part="I">Tened: ¿por qué reñís?</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="F">No es casi nada:</l>
+						<l part="I">por celos es.</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l part="F">Y no sin gran misterio,</l>
+						<l>pues siendo mi respeto don Quiterio,</l>
+						<l part="I">da en pasealle.</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="F">Cese el desafío,</l>
+						<l>que mi respeto es don Estefanío;</l>
+						<l>mas, como son hermanos, acudimos,</l>
+						<l>y á un mismo tiempo música les dimos.</l>
+					</sp>
+
+					<sp>	
+						<speaker>CATALINA</speaker>
+						<l>Ahora bien, un gran susto quiero daros,</l>
+						<l>y es, que hasta su aposento he de llevaros,</l>
+						<l>donde esta noche de San Juan, quejosos</l>
+						<l>de que su madre ha dado en descuidarse,</l>
+						<l>hacen una oración para casarse.</l>
+					</sp>
+
+					<sp>	
+						<speaker>MARÍA</speaker>
+						<l>¡Ay, qué gracia han tenido esos muchachos!</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="I">Vamos, pues, Catalina.</l>
+					</sp>
+
+					<sp>
+						<speaker>CATALINA</speaker>
+						<l part="F">Entrad con tiento,</l>
+						<l>que os tengo de esconder en su aposento.</l>
+					</sp>
+
+					<stage>
+						(Vanse, y salen DON ESTEFANÍO y DON QUITERIO
+						haciendo ademanes de mariones con dos velitas
+						encendidas en las manos.)
+					</stage>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l part="I">¡Ah, don Estefanío!</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l part="F">¡Ah, don Quiterio!</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l>¿Has prevenido el agua, el sahumerio,</l>
+						<l part="I">las hierbas y el altar?</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l part="F">No falta nada.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l part="I">Y di, ¿qué hace señora?</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l part="F">Está acostada.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l>¡Jesús, y con qué susto que me tiene!</l>
+						<l>Mi madre á cada tris pienso que viene.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l>Muy grande atrevimiento es el que hacemos.</l>
+						<l>No nos sienta señora. Ea, recemos.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l part="I">¿Óyenos alguien?</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l part="M">No.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l part="F">Mírelo, amigo.</l>
+					</sp>
+					
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l>Maldita la persona que nos oye.</l>
+					</sp>
+
+					<stage>(Salen las tres mujeres como acechando.)</stage>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l>(¡Qué lástima! ¿Hay tal miedo del chiquito?</l>
+						<l>Palpitándole está el corazoncito.)</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l>Ya somos grandes, don Estefanío,</l>
+						<l>y no de malas caras ni mal brío:</l>
+						<l>no tratan de ponernos en estado,</l>
+						<l>y las damas nos miran con cuidado.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l>¿Con cuidado? Por vida de mi madre,</l>
+						<l>que estando en misa ayer de mañanita,</l>
+						<l>los ojos no quitó una mozalbita</l>
+						<l>de mí, que me causó muy grande enojo.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l>Y ¿no llevabas nada para el ojo?</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l>Azabache llevaba y pan bendito,</l>
+						<l>cristal, tejón, azogue, acero y masa.</l>
+						<l>Híceme sahumar después en casa</l>
+						<l>con hierbas de San Juan, con azabache,</l>
+						<l>Herbatum, carne momia y peonía,</l>
+						<l>sin que pasase viernes, que es mal día,</l>
+						<l part="I">y aun no me aprovechó.</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l part="F">Hay tan malas hembras,</l>
+						<l>que aunque nuestra hermosura las obliga,</l>
+						<l>no son para decir «Dios te bendiga».</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l part="I">(¡Qué donaire que tienen!)</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="F">(Por extremo.)</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l>(Que los he de aojar, Francisca, temo.)</l>
+					</sp>
+					
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="I">(¡Qué caras!)</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l part="M">(¡Qué colores!)</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="F">(¡Qué facciones!)</l>
+					</sp>
+
+					<sp>
+						<speaker>CATALINA</speaker>
+						<l>(Tal tengan la salud los dos rollones.)</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l part="I">(¡Qué adamados!)</l>
+					</sp>
+
+					<sp>
+						<speaker>FRANCISCA</speaker>
+						<l part="M">(¡Qué rizos!)</l>
+					</sp>
+
+					<sp>
+						<speaker>MARÍA</speaker>
+						<l part="F">(Y ¡qué grifos!)</l>
+					</sp>
+
+					<sp>
+						<speaker>CATALINA</speaker>
+						<l>(No he visto ganapanes más jarifos.)</l>
+					</sp>
+
+					<sp>
+						<speaker>DON ESTEFANÍO</speaker>
+						<l part="I">Y ¿cómo es la oración?</l>
+					</sp>
+
+					<sp>
+						<speaker>DON QUITERIO</speaker>
+						<l part="F">De aquesta suerte:</l>
+						<l>«Noche del señor San Juan,</l>
+						<l>donde las toman las dan.</l>
+						<l>Señor San Juan, ponte en medio,</l>
+						<l>porque mi madre me ponga en remedio.»</l>
+						<l>Y dicha aquesta oración,</l>
+						<l>pregunto con devoción:</l>
+						<l>«Pues que yo no me extiendo ni me arrugo,</l>
+						<l part="I">¿con quién me he de casar?»</l>
+					</sp>
+
+					<sp>
+						<speaker>CATALINA</speaker>
+						<l>Con el verdugo.</l>
+					</sp>
+
+					<stage>(Venlas.)</stage>
+
+					DON QUITERIO
+					¡Jesús! ¿Qué es esto?; ¿hay tal atrevimiento?
+					¿Mujeres en mi cuarto á tales horas?
+
+					MARÍA
+					Pues, ¿qué importa, mi bien?
+
+					DON ESTEFANÍO
+												Mucho, señoras.
+					Si señora lo siente, di, Quiterio,
+					no hay sino entrarnos en un monasterio.
+					Por esta mala hembra aquesto pasa.
+					No estaréis una hora más en casa,
+					que sois criada, y basta.
+
+					DON QUITERIO
+											Ella me ha muerto;
+					que fui muy blando en el primer concierto.
+
+					FRANCISCA
+					¡Qué asustados que están!
+
+					DON ESTEFANÍO
+											¿Cómo asustados?
+					Pues, ¿es quien quiera ver á dos barbados
+					tan mancebos, que en toda la semana
+					no se llegan á puerta ni á ventana,
+					á media noche á solas con dos hembras?
+					¿Sabe la vecindad, mal inclinada,
+					que dejó cohecharse la criada?
+					No es burla, que del susto éste, á fe mía
+					pienso que me he de dar alferecía.
+
+					DON QUITERIO
+					¡Pues no!, que de un espanto, de un trabajo,
+					se le puede volver á un hombre el cuajo.
+
+					MARÍA
+					Sosiégate, Quiterio de mi vida,
+					que te quiero por más de mil razones.
+
+					DON QUITERIO
+					Desdichada hermosura, ¿en qué me pones?
+
+					FRANCISCA
+					Estefanío, cese la aspereza.
+
+					DON ESTEFANÍO
+					¡Nunca naciera yo con tal belleza!
+
+					MARÍA
+					Toma aquesta cadena.
+
+					FRANCISCA
+										Tú esta joya.
+
+					MARÍA
+					¿Qué respondes? Aquesto, no lo abona?
+
+					DON QUITERIO
+					Que la dádiva no me desmorona.
+
+					FRANCISCA
+					Y tú, ¿qué dices á lo que te he dado?
+
+					DON ESTEFANÍO
+					Que así me salve Dios, que me he enojado.
+					¡Quite de ahí!; ¡Jesús, con qué venía!
+					Eso délo á una suegra ó á una tía,
+					que no he de recibillo. (Tómala.)
+
+					FRANCISCA
+											Pues, ¿qué es eso?
+
+					DON ESTEFANÍO
+					Por ver si es oro, lo he tomado á peso.
+
+					(Dentro la madre.)
+
+					MADRE.
+					¡Hola, muchachos! ¡Hola, Catalina!
+
+					DON QUITERIO
+					¡Mi madre!; ¡qué trabajo!
+					Agora sí que se me vuelve el cuajo.
+
+					(El CRIADO, dentro.)
+
+					CRIADO.
+					Aquí hay ruido, señora.
+
+					DON ESTEFANÍO
+											En un momento
+					perdimos la ocasión y el casamiento.
+
+					(Salen la MADRE (puede hacerla un hombre) y el CRIADO.)
+
+					MADRE.
+					¿Qué es aquesto?; ¿mujeres en el cuarto
+					de los muchachos? ¡Buena anda mi honra!
+
+					MARÍA
+					Repórtese vusted.
+
+					MADRE.
+									¡Jesús, qué afrenta!
+					Traidores, ¡habéis dado buena cuenta
+					de vosotros! ¿Aquesta es la clausura?
+					La culpa la tengo, cari-raídos,
+					de traer á los dos tan engreídos.
+					Yo os cortaré el cabello, yo, picaños,
+					sin que salgáis á misa en veinte años.
+
+					DON ESTEFANÍO
+					No me perdone Dios, señora madre,
+					si aunque estamos con ellas yo y mi hermano,
+					han llegado á tocarnos ni una mano;
+					porque antes, mirando nuestras famas,
+					han estado las dos como unas damas,
+					y son tan vergonzosas y miradas,
+					que sin hacer con ellas usos nuevos,
+					pueden estar entre diez mil mancebos.
+
+					MADRE.
+					Pues, ¿qué quieren vustedes?
+
+					FRANCISCA
+												Casamiento,
+					sin que nada en el dote se repare.
+
+					MADRE.
+					¿Qué respondéis?
+
+					LOS DOS.
+					(Con reverencia, como mujeres.)
+									Lo que vusted mandare.
+
+					MARÍA
+					Don Quiterio ha de ser esposo mío.
+
+					FRANCISCA
+					Y yo he de ser de don Estefanío.
+
+					DON ESTEFANÍO
+					Queditito, ¡por Dios!, no se declare.
+
+					MADRE.
+					¿Quereislo así?
+
+					LOS DOS.
+					(Con reverencia.)
+									Lo que vusted mandare.
+
+					MADRE.
+					Dense las manos.
+
+					FRANCISCA
+									Y con nuestro padre
+					podrá casarse la señora madre.
+
+					CATALINA
+					¿Y á mí, que concerté este maridaje?
+
+					DON QUITERIO
+					Catalina se case con el paje,
+					pues con la vela nos dejó alumbrados,
+					y doila en dote veinte mil ducados.
+
+					CRIADO.
+					En solo oillo me hacen ya cosquillas.
+
+					DON ESTEFANÍO
+					Y á ti, para alfileres, cuatro villas.
+
+					CATALINA
+					Beso tus manos.
+
+					DON ESTEFANÍO
+									No, no me las beses,
+					que también hay quien dé en los entremeses.
+					Báilese y dése muestras del contento.
+
+					FRANCISCA
+					Vaya una letra al son del instrumento.
+
+					(Hacen un baile, ó baila una sola, con que se da fin.)
+				
+				</div>
+
+			</body>
+
+</TEI>
