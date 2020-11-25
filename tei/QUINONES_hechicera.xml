@@ -54,7 +54,7 @@
             <div>
 
                 <stage type="entrance location">
-                    <move who="#moha #peri" type="enter"/>Salen DOÑA MOHATRA y DOÑA PERINOLA, y dicen dentro. <!-- revisar 2 who -->
+                    <move who="#moha" type="enter"/>Salen DOÑA MOHATRA y <move who="#peri" type="enter"/>DOÑA PERINOLA, y dicen dentro.
                 </stage>    
 
                 <sp>
@@ -893,7 +893,11 @@
                     <l>pagando en cuartos.</l>
                 </sp>
             
+
             </div>
+
         </body>
+
     </text>
+
 </TEI>
