@@ -52,6 +52,11 @@
 					</person>
 				</listPerson>
 			</particDesc>
+			<textClass>
+                <keywords>
+                    <term type="genreTitle">entremés</term>
+                </keywords>
+            </textClass>
 		</profileDesc>
     </teiHeader>
 
