@@ -11,7 +11,7 @@
             <editor>David Merino Recalde</editor>
         </titleStmt>
         <publicationStmt>
-            <p>Distribuido bajo la licencia CC BY-NC-SA 4.0</p>
+            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
         </publicationStmt>
         <sourceDesc>
             <bibl>
@@ -20,6 +20,44 @@
             </bibl>
         </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+					<person xml:id="voces">
+						<persName>VOCES</persName>
+					</person>
+                    <person xml:id="mohatra">
+                        <persName>MOHATRA</persName>
+                    </person>
+                    <person xml:id="perinola">
+                        <persName>PERINOLA</persName>
+                    </person>
+                    <person xml:id="badulaque">
+                        <persName>BADULAQUE</persName>
+                    </person>
+                    <person xml:id="chicolio">
+                        <persName>CHICOLIO</persName>
+                    </person>
+                    <person xml:id="criado">
+                        <persName>CRIADO</persName>
+                    </person>
+                    <person xml:id="alguacil">
+                        <persName>ALGUACIL</persName>
+                    </person>
+                    <person xml:id="todos">
+                        <persName>TODOS</persName>
+                    </person>
+                    <person xml:id="musicos">
+                        <persName>MÚSICOS</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <keywords>
+                    <term type="genreTitle">entremés</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
 
     <text>
@@ -30,22 +68,22 @@
             <castList>
                 <head>Figuras</head>
                 <castItem>
-                    <role xml:id="moha">DOÑA MOHATRA</role>
+                    <role corresp="#mohatratra">DOÑA MOHATRA</role>
                 </castItem>
                 <castItem>
-                    <role xml:id="peri">DOÑA PERINOLA</role>
+                    <role corresp="#perinola">DOÑA PERINOLA</role>
                 </castItem>
                 <castItem>
-                    <role xml:id="badu">BADULAQUE</role>
+                    <role corresp="#badulaque">BADULAQUE</role>
                 </castItem>
                 <castItem>
-                    <role xml:id="chico">CHICOLIO</role>
+                    <role corresp="#chicolio">CHICOLIO</role>
                 </castItem>
                 <castItem>
-                    <role xml:id="criado">UN CRIADO</role>
+                    <role corresp="#criado">UN CRIADO</role>
                 </castItem>
                 <castItem>
-                    <role xml:id="algua">UN ALGUACIL</role>
+                    <role corresp="#alguacil">UN ALGUACIL</role>
                 </castItem>
             </castList>
         </front>
@@ -53,43 +91,43 @@
         <body>
             <div>
 
-                <stage type="entrance location">
-                    <move who="#moha" type="enter"/>Salen DOÑA MOHATRA y <move who="#peri" type="enter"/>DOÑA PERINOLA, y dicen dentro.
+                <stage>
+                    Salen DOÑA MOHATRA y DOÑA PERINOLA, y dicen dentro.
                 </stage>    
 
-                <sp>
+                <sp who="#voces">
                     <speaker>VOCES</speaker>
                     <l>¡Fuego!, ¡fuego!</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>¡Jesús!; ¿adónde hay fuego?</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>
                     <l>¿Qué es esto?, ¿qué se quema?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Perinola,</l>
                     <l>no sé lo que es, mas no me dejes sola.</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>
                     <l>Algún mozo lo ha hecho de tahona,</l>
                     <l>harto de mosto y lleno de tabaco.</l>
                     <l>¡malas mañanas te dé Dios, bellaco!</l>
                 </sp>
 
-                <stage type="entrance">
-                    <move who="#chico" type="enter"/>(Sale CHICOLIO.)
+                <stage>
+                    (Sale CHICOLIO.)
                 </stage> 
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>¿Adónde está este fuego socarrado?</l>
                     <l>Gallina, que te atreves a las damas,</l>
@@ -98,25 +136,25 @@
                     <l>de un jarro de agua has de morir, ¡por Cristo!</l>
                 </sp>
 
-                <stage type="location">(Dentro.)<stage><sp><l>¡Fuego!, ¡fuego!</l></sp>
+                <stage>(Dentro.)<stage><sp><l>¡Fuego!, ¡fuego!</l></sp>
 
-                <stage type="entrance">
-                    (<move who="#badu" type="enter"/>Sale BADULAQUE desnudo, en camisa.)
+                <stage>
+                    (Sale BADULAQUE desnudo, en camisa.)
                 </stage>
 
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Señores de mi vida,</l>
                     <l>¡socorro, que me aso, que me frío!</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>
                     <l>¿Qué Adán es éste?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>                
                     <l>¡Oh fuego de un judío!</l>
                     <l>¿A mí te atreves?; ¿a don Badulaque,</l>
@@ -125,18 +163,18 @@
                     <l>más que vino hipocrás, cristiano viejo?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>   
                     <l>¡Hay tal figura!</l>
                 </sp>
                 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>   
                     <l>Y dígame, ¿es el fuego?</l>
                     <l>en su casa?</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>   
                     <l>No, reina, que yo vivo</l>
                     <l>al corral de la villa dos pasitos,</l>
@@ -150,12 +188,12 @@
                     <l>ruego que me los presten por un hora.</l>
                 </sp>
                 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>   
                     <l>¿Nosotras bragas?</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>   
                     <l>Por Jesús, señoras,</l>
                     <l>¿no puede haber habido en esta casa</l>
@@ -164,31 +202,31 @@
                     <l>¿Es posible que nadie me remedia?</l>
                 </sp>
             
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>   
                     <l>¿No parece ahogado de comedia?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>   
                     <l>Y él ¿qué parece, barbas de miel virgen,</l>
                     <l>retratico de mártir de Inglaterra?</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>   
                     <l>¡Oigan!: pues, ¿tú me apodas, peje-sierra,</l>
                     <l>pegados con engrudo los bigotes?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>   
                     <l>Agradezca que temo unos azotes,</l>
                     <l>que si no, yo le hiciera...</l>
                 </sp>
 
-                <stage type="entrance">
-                    <move who="criado" type="enter"/>(Sale un CRIADO.)
+                <stage>
+                    (Sale un CRIADO.)
                 </stage>
 
                 <sp who="criado">
@@ -198,35 +236,35 @@
                     <l>que ya ha cesado el fuego.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>   
                     <l>Con licencia</l>
                     <l>me arrimo aquí a colgar mi pertenencia.</l>
                 </sp>
                 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>   
                     <l>Mejor fuera colgarte de una higuera,</l>
                     <l>y que allí le sirvieras de espantajo.</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>   
                     <l>¿Oyeme, qué le digo Don Andrajo?;</l>
                     <l>resuélvase a tener conmigo flema.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker> 
                     <l>¿Que me resuelva? Pues ¿soy yo postema?</l>
                 </sp>
                 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker> 
                     <l>Déjale, Chicolio.</l>
                 </sp>
                 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker> 
                     <l>Prenda amada,</l>
                     <l>más que herencia de suegra deseada,</l>
@@ -235,19 +273,19 @@
                     <l>y con más pretensiones que una plaza...</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker> 
                     <l>¿En qué ha de parar esto, si así empieza</l>
                     <l>con más frases y más ponderaciones</l>
                     <l>que un ciego pregonando relaciones?</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker> 
                     <l>En decirle mi amor, que es un abismo.</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker> 
                     <l>Eso no, que pretendo yo lo mismo.</l>
                     <l>Muchacha más graciosa y esperada</l>
@@ -257,18 +295,18 @@
                     <l>que tiene un comisario en día de muestra...</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker> 
                     <l>¿Otro diablo tenemos?</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker> 
                     <l>Con más guardas</l>
                     <l>que una huerta o jardín.</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker> 
                     <l>En eso acierta,</l>
                     <l>porque sepa que soy jardín y huerta,</l>
@@ -309,7 +347,7 @@
                     <l>que el día que amanece, ese me acabo.</l>
                 </sp>
                 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Basta, amiga, no gastes más primores;</l>
                     <l>déjame de barato algunas flores,</l>
@@ -329,7 +367,7 @@
                     <l>madreselva seré de mis hijuelos.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Tente, mujer, y escucha, que yo y todo</l>
                     <l>soy planta y fruta y árbol dese modo.</l>
@@ -347,12 +385,12 @@
                     <l part="I">soy cereza...</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>
                     <l part="F">Pues ¿cómo la acomodas?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Que tirando de una salen todas.</l>
                     <l>Con la vieja que el rostro se dibuja,</l>
@@ -370,18 +408,18 @@
                     <l>déjolo todo y hágome una guinda.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Y dígame, ¿qué vino es el más bueno</l>
                     <l part="I">y le sabe mejor?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">¿Cuál? El ajeno.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>Yo no sé aquesas pullas, Perinola;</l>
                     <l>sólo sé que eres toda una amapola,</l>
@@ -390,7 +428,7 @@
                     <l>carabela de aviso viento en popa.</l>
                 </sp>
 
-                <sp who="#badu"> 
+                <sp who="#badulaque"> 
                     <speaker>BADULAQUE</speaker>
                     <l>Tú pareces remedio para el pecho,</l>
                     <l>pues los cabellos son azúcar piedra,</l>
@@ -398,57 +436,57 @@
                     <l>por bigotes un par de caramelos.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>Pues, morcilla de sangre, ¿tú haces cocos?</l>
                 </sp>
 
-                <sp who="#badu"> 
+                <sp who="#badulaque"> 
                     <speaker>BADULAQUE</speaker>
                     <l>Pues, relleno de huevos, ¿tengo mocos?</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¡Echa mano, gallina!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">Sí haré, ganso.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>Llévate horro ya desta hurgonada.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Y tú deste antuvión, panza pelada.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¡Afuera, dije!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">¡Fuera, no me tengan!</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>¡Fuera, que se matan sin remedio!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Pues ¡válgante los diablos!, ponte en medio.</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>
                     <l>Quédense para pícaros cuitados,</l>
                     <l>más andrajosos y despedazados</l>
@@ -456,59 +494,59 @@
                     <l>que por no aporreallos me despido.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Escucha, Perinola!</l>
                 </sp>
 
-                <sp who="#peri">
+                <sp who="#perinola">
                     <speaker>PERINOLA</speaker>
                     <l>¡Callen! digo,</l>
                     <l>porque si una razón se les desliza,</l>
                     <l>vendrá a verlos monsieur de la Paliza.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">Pulgas lleva en el alma.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="I">Y aun avispas.</l>
                 </sp>
 
-                <sp who="#chico">               
+                <sp who="#chicolio">               
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¡Guarda, Pablo!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="I">¡Al herrero, que echa chispas!</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Escúchame, Badulaque.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¿Qué quieres, doña Embeleco?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>¿Sabes que soy hechicera?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Pues no tienes cara dello.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Entiéndeseme un poquito,</l>
                     <l>de habas, de zahumerios,</l>
@@ -518,13 +556,13 @@
                     <l part="I">se muera por él.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">¡San Telmo!</l>
                     <l>¿Qué dices? ¿Estás borracha?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Toma esta carta, jumento,</l>
                     <l>y dásela que la lea,</l>
@@ -535,57 +573,57 @@
                     <l>porque le hará el mismo efecto.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="I">Y si un hombre fuere...</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l part="F">Hará</l>
                     <l>contigo de amor extremos.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>A ella propia la daré.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Pues espérate, que quiero</l>
                     <l>echar de allí a Chicolio.</l>
-                    <l part="I">Oye, amigo.</l> <stage type="delivery">(A él.)</stage>
+                    <l part="I">Oye, amigo.</l> <stage>(A él.)</stage>
                 </sp> 
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="F">¿Qué tenemos?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>¿No ves la carta que tiene</l>
                     <l part="I">Badulaque?</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="F">Bien la veo.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Procúrasela quitar,</l>
                     <l>que está en ella tu remedio.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¿Cómo?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l part="F">Porque está hechizada</l>
                     <l>con tal virtud, que al momento</l>
@@ -593,99 +631,99 @@
                     <l>te querrá para su dueño.</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>Ya se la voy a quitar.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Con recato y con silencio.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Oh cartica de virtudes!</l>
                     <l>¡Qué de milagros espero</l>
                     <l part="I">que has de hacer!</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="F">Ya que éste es</l>
-                    <stage type="business">(Quítale el papel por detrás.)</stage>
+                    <stage>(Quítale el papel por detrás.)</stage>
                     <l>un mocarro...</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Hombre, ¿qué has hecho?</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>Hurtarte la bendición.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                 <speaker>BADULAQUE</speaker>
                     <l part="I">¡No la leas!</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="F">Ya la leo.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Juro a Dios que está perdido.</l>
                 </sp>
                 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l>¡Mi alma, mi pensamiento!</l>
-                    <stage type="business">(Lee el papel.)</stage>
+                    <stage>(Lee el papel.)</stage>
                     <l part="I">¡Ángel mío!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">¡Hijo de puta!</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¿Dónde huyes?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">¡Al infierno!</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¡Abrázame!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">¡Tente fuera!</l>
                 </sp>
 
-                <sp who="#chico">
+                <sp who="#chicolio">
                     <speaker>CHICOLIO</speaker>
                     <l part="I">¿Por qué callas?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">Porque quiero.</l>
                 </sp>
 
                 <stage>
-                    <move who="criado" type="enter"/>(Entra un CRIADO.)
+                    (Entra un CRIADO.)
                 </stage>
 
                 <sp who="criado">
@@ -694,10 +732,10 @@
                     <l>Es mal pensado y mal hecho.</l>
                     <l>Pero ¿qué papel es éste</l>
                     <l>que han arrojado en el suelo?</l>
-                    <stage type="business">(Lee.)</stage> <l>¡Dueño mío, hermoso y lindo...!</l>
+                    <stage>(Lee.)</stage> <l>¡Dueño mío, hermoso y lindo...!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Otro borracho tenemos!</l>
                 </sp>
@@ -707,66 +745,66 @@
                     <l>¡Que me muero!, ¡que me abraso!</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Pues di que toquen a fuego.</l>
                 </sp>
 
-                <stage type="entrance">
-                    <move type="enter" who="algua"/>(Sale un ALGUACIL.)
+                <stage>
+                    (Sale un ALGUACIL.)
                 </stage>
 
-                <sp who="algua">
+                <sp who="#alguacil">
                     <speaker>ALGUACIL</speaker>
                     <l>Aquí son las cuchilladas.</l>
                     <l>La justicia es, caballeros.</l>
                     <l part="I">¡Téngase!</l>
                 </sp>
                 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">Tenido soy.</l>
                     <l>Ansí se tuviesen ellos.</l>
                 </sp>
 
-                <sp who="algua">
+                <sp who="#alguacil">
                     <speaker>ALGUACIL</speaker>
-                    <l>Pero ¿qué papel es éste?</l><stage type="business">(Leyéndolo.)</stage>
+                    <l>Pero ¿qué papel es éste?</l><stage>(Leyéndolo.)</stage>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Diablo! ¡Perdido va esto!</l>
                     <l>Ya hay un pretendiente más.</l>
                 </sp>
 
-                <sp who="algua">
+                <sp who="#alguacil">
                     <speaker>ALGUACIL</speaker>
                     <l>Ángel bello, a quien el cielo</l>
                     <l>le dio rosas por mejillas...</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="I">¡Díjelo yo!</l>
                 </sp>
 
-                <sp who="algua">
+                <sp who="#alguacil">
                     <speaker>ALGUACIL</speaker>
                     <l part="F">¡Rostro bello!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Malhaya quien me parió!</l>
                 </sp>
 
-                <sp who="algua">
+                <sp who="#alguacil">
                     <speaker>ALGUACIL</speaker>
                     <l>¿Dónde te vas, mi requiebro?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>A la puerta de Alcalá,</l>
                     <l>si esto no tiene remedio.</l>
@@ -774,62 +812,62 @@
                     <l>para estar siguro destos!</l>
                 </sp>
 
-                <sp>
+                <sp who="#todos">
                     <speaker>TODOS</speaker>
                     <l>¡Perinola, Perinola!</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Oiganse! ¿Somos herreros?</l>
                 </sp>
 
-                <stage type="entrance">
-                    <move type="enter" who="moha"/>(Sale DOÑA MOHATRA.)
+                <stage>
+                    (Sale DOÑA MOHATRA.)
                 </stage>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Cesen aquestos hechizos.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¡Ah, traidora! Aquí te tengo.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Sí; mas no a quien imaginas,</l>
                     <l>aunque por ella te ofrezco</l>
                     <l part="I">la mano de esposa.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l part="F">Bien;</l>
                     <l>pero ¿qué hemos de hacer destos?</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Que canten, y quedarán</l>
                     <l>alegres, sanos y buenos.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>¿Sí? Pues manos a la obra.</l>
                 </sp>
 
-                <sp who="#moha">
+                <sp who="#mohatra">
                     <speaker>MOHATRA</speaker>
                     <l>Lo que canten bailaremos.</l>
                 </sp>
 
-                <stage type="setting">(Cantan los MÚSICOS.)</stage>
+                <stage>(Cantan los MÚSICOS.)</stage>
 
-                <sp>
+                <sp who="#musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>Una hechicera</l>
                     <l>que hay en este pueblo,</l>
@@ -857,37 +895,37 @@
                     <l>agradecimiento.</l>
                 </sp>
 
-                <sp>
+                <sp who="musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>¿Cuál hechizo es más fuerte,</l>
                     <l>señor mancebo?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>En las hembras la cara,</l>
                     <l>y en mí el dinero.</l>
                 </sp>
 
-                <sp>
+                <sp who="musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>Si nos dan bien, pagamos</l>
                     <l>cualquiera deuda.</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Pues la que más bien paga,</l>
                     <l>quemada muera.</l>
                 </sp>
 
-                <sp>
+                <sp who="musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>Y ¿por qué merecemos</l>
                     <l>castigo tanto?</l>
                 </sp>
 
-                <sp who="#badu">
+                <sp who="#badulaque">
                     <speaker>BADULAQUE</speaker>
                     <l>Porque premio nos llevan</l>
                     <l>pagando en cuartos.</l>
