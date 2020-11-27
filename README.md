@@ -1,10 +1,10 @@
-# Entremeses Digitales
+# Repositorio de teatro breve del Siglo de Oro
 
-### Repositorio de teatro breve del Siglo de Oro
+Este repositorio forma un proyecto de un investigación personal sobre la aplicación de metodologías cuantitativas y computacionales provenientes de las Humanidades Digitales al teatro breve del Siglo de Oro.
 
-Formato de los textos
-* XML-TEI
-* TXT: sin acotaciones, listas de personajes, personajes al comienzo de cada intevención y con la ortografía normalizada
+### Criterios de edición y formato
+* Todos los textos del corpus se encuentran en formato **TXT**. Estos archivos están preparados para ser utilizados en distintos tipo de análisis, pues han sido eliminadas las acotaciones, títulos, las listas de personajes, los nombres de los personajes al comienzo de cada intervención, y su ortografía ha sido normalizada.
+* Además, están ya marcados en **XML** siguiendo el estándar de la **[Text Encoding Initiative]**(https://tei-c.org/)(TEI). 
 
 ### Obras incluidas en el repositorio 
 | TÍTULO | AUTOR | FORMATO |
@@ -21,7 +21,7 @@ Formato de los textos
 | Entremés del ventero | Quiñones de Benavente | TXT |
 | Entremés famoso de Otáñez y el fariseo | Quiñones de Benavente | TXT |
 | Entremés famoso y nuevo de los sacristanes | Quiñones de Benavente | TXT |
-| Entremés famoso: Los Mariones | Quiñones de Benavente | TXT |
+| Entremés famoso: Los Mariones | Quiñones de Benavente | TXT, TEI |
 | Entremés famoso: Pistraco | Quiñones de Benavente | TXT |
 | La Maya | Quiñones de Benavente | TXT |
 | Los vocablos | Quiñones de Benavente | TXT |
