@@ -1,8 +1,6 @@
 # Notas personales sobre el repositorio
 
 ### Tareas
-* agregar id para personajes que no están en el castlist:
-    * músico primero y segundo en los mariones de QUIN
+* <s>agregar id para personajes que no están en el castlist (list person):</s>
+    * <s>músico primero y segundo, los dos; en los mariones de QUIN</s>
     * <s>todos y músicos en hechicera de QUIN</s>
-* completar <stage> en los mariones de QUIN
-* revisar <move> en la hechicera de QUIN
