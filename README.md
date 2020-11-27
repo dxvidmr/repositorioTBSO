@@ -4,7 +4,7 @@ Este repositorio forma un proyecto de un investigación personal sobre la aplica
 
 ### Criterios de edición y formato
 * Todos los textos del corpus se encuentran en formato **TXT**. Estos archivos están preparados para ser utilizados en distintos tipo de análisis, pues han sido eliminadas las acotaciones, títulos, las listas de personajes, los nombres de los personajes al comienzo de cada intervención, y su ortografía ha sido normalizada.
-* Además, están ya codificados en **XML** siguiendo el estándar de la [Text Encoding Initiative](https://tei-c.org/) (**TEI**). 
+* Además, algunos textos están ya codificados en **XML** siguiendo el estándar de la [Text Encoding Initiative](https://tei-c.org/) (**TEI**). 
 
 ### Obras incluidas en el repositorio 
 | TÍTULO | AUTOR | FORMATO |
