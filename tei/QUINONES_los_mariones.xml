@@ -11,7 +11,7 @@
             <editor>David Merino Recalde</editor>
         </titleStmt>
         <publicationStmt>
-            <p>Distribuido bajo la licencia CC BY-NC-SA 4.0</p>
+            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
         </publicationStmt>
         <sourceDesc>
             <bibl>
@@ -20,6 +20,39 @@
             </bibl>
         </sourceDesc>
         </fileDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<person xml:id="estefanio">
+						<persName>DON ESTEFANÍO</persName>
+					</person>
+					<person xml:id="quiterio">
+						<persName>DON QUITERIO</persName>
+					</person>
+					<person xml:id="francisca">
+						<persName>FRANCISCA</persName>
+					</person>
+					<person xml:id="maria">
+						<persName>MARÍA</persName>
+					</person>
+					<person xml:id="catalina">
+						<persName>CATALIANA</persName>
+					</person>
+					<person xml:id="madre">
+						<persName>MADRE</persName>
+					</person>
+					<person xml:id="musico1">
+						<persName>MÚSICO PRIMERO</persName>
+					</person>
+					<person xml:id="musico2">
+						<persName>MÚSICO SEGUNDO</persName>
+					</person>
+					<person xml:id="criado">
+						<persName>CRIADO</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
     </teiHeader>
 
 	<text>
@@ -31,28 +64,28 @@
 			<castList>
 				<head>Figuras que hablan en él:</head>
 				<castItem>
-					<role xml:id="estef">DON ESTEFANÍO</role>
+					<role corresp="estefanio">DON ESTEFANÍO</role>
 				</castItem>
 				<castItem>
-					<role xml:id="quit">DON QUITERIO</role>
+					<role corresp="quiterio">DON QUITERIO</role>
 				</castItem>
 				<castItem>
-					<role xml:id="fran">FRANCISCA</role>
+					<role corresp="francisca">FRANCISCA</role>
 				</castItem>
 				<castItem>
-					<role xml:id="mar">MARÍA</role>
+					<role corresp="maria">MARÍA</role>
 				</castItem>
 				<castItem>
-					<role xml:id="cat">CATALINA</role>
+					<role corresp="catalina">CATALINA</role>
 				</castItem>
 				<castItem>
-					<role xml:id="madre">LA MADRE DE LOS MARIONES</role>
+					<role corresp="madre">LA MADRE DE LOS MARIONES</role>
 				</castItem>
 				<castItem>
-					<role>DOS MÚSICOS</role> <!--id para músicos-->
+					<role corresp="musico1 musico2">DOS MÚSICOS</role>
 				</castItem>
 				<castItem>
-					<role xml:id="criado">UN CRIADO</role>
+					<role corresp="criado">UN CRIADO</role>
 				</castItem>
 			</castList>
 		</front>
@@ -66,19 +99,19 @@
 					y por otra parte FRANCISCA de la misma suerte, con otro MÚSICO.
 				</stage>
 				
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>¡Oh noche de San Juan, alegre noche,</l>
 					<l>en que anda desvelado todo coche!</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>¡Oh noche de San Juan, alegre y fresca,</l>
 					<l>que en el río das caza más que pesca!</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>Músico, desabrigue la guitarra,</l>
 					<l>y haciéndola chillar como chicharra,</l>
@@ -87,7 +120,7 @@
 					<l>cante un romance, y pagaréle luego.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>Músico, ropa fuera al instrumento,</l>
 					<l>y, ahorrando de todo parlamento,</l>
@@ -99,69 +132,69 @@
 
 				<stage>(Canta uno un verso y otro, otro.)</stage>
 
-				<sp>
+				<sp who="#musico1">
 					<speaker>MÚSICO PRIMERO</speaker>
 					<l>Noche de San Juan alegre…</l>
 				</sp>
 
-				<sp>	
+				<sp who="#musico2">	
 					<speaker>MÚSICO SEGUNDO</speaker>
 					<l>Noche alegre de San Juan…</l>
 				</sp>
 
-				<sp>
+				<sp who="#musico1">
 					<speaker>MÚSICO PRIMERO</speaker>
 					<l>Que al cantar el brindis haces…</l>
 				</sp>
 
-				<sp>
+				<sp who="#musico2">
 					<speaker>MÚSICO SEGUNDO</speaker>
 					<l>Que haces brindis al cantar…</l>
 				</sp>
 
-				<sp>
+				<sp who="#musico1">
 					<speaker>MÚSICO PRIMERO</speaker>
 					<l>Si me das favor y ayuda…</l>
 				</sp>
 
-				<sp>
+				<sp who="#musico2">
 					<speaker>MÚSICO SEGUNDO</speaker>
 					<l>Si ayuda y favor me das…</l>
 				</sp>
 
-				<sp>
+				<sp who="#musico1">
 					<speaker>MÚSICO PRIMERO</speaker>
 					<l>Hoy tendrán mis penas fin…</l>
 				</sp>
 
-				<sp>
+				<sp who="#musico2">
 					<speaker>MÚSICO SEGUNDO</speaker>
 					<l>Hoy fin mis penas tendrán.</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>Para el calor que hace, camarada,</l>
 					<l>esa música va muy aforrada.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>Desafórrala tú, ó como te llamas,</l>
 					<l>taba de hembras, ó aprendiz de damas.</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>Mientes, y mentirás en cuanto dices.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="I">Y eso, ¿no es aforrar?</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="F">De prosa ahorre,</l>
 					<l>si no quiere que así la desaforre.</l>
@@ -169,7 +202,7 @@
 
 				<stage>(Mete mano á la espada.)</stage>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>Matarte, cuitadilla, es la respuesta.</l>
 					<l>Den, por Dios, para el ánima de aquesta.</l>
@@ -177,27 +210,27 @@
 
 				<stage>(Mete mano á la espada y riñen, y sale CATALINA y pónese en medio.)</stage>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l>¡Ay, amigas!, decid: ¿qué diferencia</l>
 					<l>pone la flor del mundo en competencia?</l>
 					<l part="I">Tened: ¿por qué reñís?</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">No es casi nada:</l>
 					<l part="I">por celos es.</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="F">Y no sin gran misterio,</l>
 					<l>pues siendo mi respeto don Quiterio,</l>
 					<l part="I">da en pasealle.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">Cese el desafío,</l>
 					<l>que mi respeto es don Estefanío;</l>
@@ -205,7 +238,7 @@
 					<l>y á un mismo tiempo música les dimos.</l>
 				</sp>
 
-				<sp who="#cat">	
+				<sp who="#catalina">	
 					<speaker>CATALINA</speaker>
 					<l>Ahora bien, un gran susto quiero daros,</l>
 					<l>y es, que hasta su aposento he de llevaros,</l>
@@ -214,17 +247,17 @@
 					<l>hacen una oración para casarse.</l>
 				</sp>
 
-				<sp who="#mar">	
+				<sp who="#maria">	
 					<speaker>MARÍA</speaker>
 					<l>¡Ay, qué gracia han tenido esos muchachos!</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="I">Vamos, pues, Catalina.</l>
 				</sp>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l part="F">Entrad con tiento,</l>
 					<l>que os tengo de esconder en su aposento.</l>
@@ -236,78 +269,78 @@
 					encendidas en las manos.)
 				</stage>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="I">¡Ah, don Estefanío!</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">¡Ah, don Quiterio!</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>¿Has prevenido el agua, el sahumerio,</l>
 					<l part="I">las hierbas y el altar?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">No falta nada.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="I">Y di, ¿qué hace señora?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">Está acostada.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>¡Jesús, y con qué susto que me tiene!</l>
 					<l>Mi madre á cada tris pienso que viene.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Muy grande atrevimiento es el que hacemos.</l>
 					<l>No nos sienta señora. Ea, recemos.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="I">¿Óyenos alguien?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="M">No.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="F">Mírelo, amigo.</l>
 				</sp>
 				
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Maldita la persona que nos oye.</l>
 				</sp>
 
 				<stage>(Salen las tres mujeres como acechando.)</stage>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>(¡Qué lástima! ¿Hay tal miedo del chiquito?</l>
 					<l>Palpitándole está el corazoncito.)</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>Ya somos grandes, don Estefanío,</l>
 					<l>y no de malas caras ni mal brío:</l>
@@ -315,7 +348,7 @@
 					<l>y las damas nos miran con cuidado.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>¿Con cuidado? Por vida de mi madre,</l>
 					<l>que estando en misa ayer de mañanita,</l>
@@ -323,12 +356,12 @@
 					<l>de mí, que me causó muy grande enojo.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>Y ¿no llevabas nada para el ojo?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Azabache llevaba y pan bendito,</l>
 					<l>cristal, tejón, azogue, acero y masa.</l>
@@ -339,49 +372,49 @@
 					<l part="I">y aun no me aprovechó.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="F">Hay tan malas hembras,</l>
 					<l>que aunque nuestra hermosura las obliga,</l>
 					<l>no son para decir «Dios te bendiga».</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="I">(¡Qué donaire que tienen!)</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">(Por extremo.)</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>(Que los he de aojar, Francisca, temo.)</l>
 				</sp>
 				
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="I">(¡Qué caras!)</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="M">(¡Qué colores!)</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">(¡Qué facciones!)</l>
 				</sp>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l>(Tal tengan la salud los dos rollones.)</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="I">(¡Qué adamados!)</l>
 				</sp>
@@ -391,22 +424,22 @@
 					<l part="M">(¡Qué rizos!)</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="F">(Y ¡qué grifos!)</l>
 				</sp>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l>(No he visto ganapanes más jarifos.)</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="I">Y ¿cómo es la oración?</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="F">De aquesta suerte:</l>
 					<l>«Noche del señor San Juan,</l>
@@ -419,25 +452,25 @@
 					<l part="I">¿con quién me he de casar?»</l>
 				</sp>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l part="F">Con el verdugo.</l>
 				</sp>
 
 				<stage>(Venlas.)</stage>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>¡Jesús! ¿Qué es esto?; ¿hay tal atrevimiento?</l>
 					<l>¿Mujeres en mi cuarto á tales horas?</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="I">Pues, ¿qué importa, mi bien?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">Mucho, señoras.</l>
 					<l>Si señora lo siente, di, Quiterio,</l>
@@ -447,18 +480,18 @@
 					<l part="I">que sois criada, y basta.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l part="F">Ella me ha muerto;</l>
 					<l>que fui muy blando en el primer concierto.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="I">¡Qué asustados que están!</l>
 				</sp>
 				
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">¿Cómo asustados?</l>
 					<l>Pues, ¿es quien quiera ver á dos barbados</l>
@@ -471,59 +504,59 @@
 					<l>pienso que me he de dar alferecía.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>¡Pues no!, que de un espanto, de un trabajo,</l>
 					<l>se le puede volver á un hombre el cuajo.</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>Sosiégate, Quiterio de mi vida,</l>
 					<l>que te quiero por más de mil razones.</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>Desdichada hermosura, ¿en qué me pones?</l>
 				</sp>
 
-				<sp who="fran">					
+				<sp who="#francisca">					
 					<speaker>FRANCISCA</speaker>
 					<l>Estefanío, cese la aspereza.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>¡Nunca naciera yo con tal belleza!</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="I">Toma aquesta cadena.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">Tú esta joya.</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l>¿Qué respondes? Aquesto, no lo abona?</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>Que la dádiva no me desmorona.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>Y tú, ¿qué dices á lo que te he dado?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Que así me salve Dios, que me he enojado.</l>
 					<l>¡Quite de ahí!; ¡Jesús, con qué venía!</l>
@@ -533,12 +566,12 @@
 				
 				<stage>(Tómala.)</stage>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">Pues, ¿qué es eso?</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Por ver si es oro, lo he tomado á peso.</l>
 				</sp>
@@ -550,7 +583,7 @@
 					<l>¡Hola, muchachos! ¡Hola, Catalina!</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>¡Mi madre!; ¡qué trabajo!</l>
 					<l>Agora sí que se me vuelve el cuajo.</l>
@@ -563,7 +596,7 @@
 					<l part="I">Aquí hay ruido, señora.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">En un momento</l>
 					<l>perdimos la ocasión y el casamiento.</l>
@@ -577,7 +610,7 @@
 					<l>de los muchachos? ¡Buena anda mi honra!</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<speaker>MARÍA</speaker>
 					<l part="I">Repórtese vusted.</l>
 				</sp>
@@ -593,7 +626,7 @@
 					<l>sin que salgáis á misa en veinte años.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>No me perdone Dios, señora madre,</l>
 					<l>si aunque estamos con ellas yo y mi hermano,</l>
@@ -610,7 +643,7 @@
 					<l part="I">Pues, ¿qué quieren vustedes?</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">Casamiento,</l>
 					<l>sin que nada en el dote se repare.</l>
@@ -621,23 +654,23 @@
 					<l part="I">¿Qué respondéis?</l>
 				</sp>
 
-				<sp>
+				<sp who="#estefanio #quiterio">
 					<speaker>LOS DOS</speaker>
 					<stage>(Con reverencia, como mujeres.)</stage>
 					<l part="F">Lo que vusted mandare.</l>
 				</sp>
 
-				<sp who="#mar">
+				<sp who="#maria">
 					<stage>MARÍA</stage>
 					<l>Don Quiterio ha de ser esposo mío.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>Y yo he de ser de don Estefanío.</l>
 				</sp>
 
-				<sp  who="#estef">
+				<sp  who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Queditito, ¡por Dios!, no se declare.</l>
 				</sp>
@@ -647,7 +680,7 @@
 					<l part="I">¿Quereislo así?</l>
 				</sp>
 
-				<sp>
+				<sp who="#estefanio #quiterio">
 					<speaker>LOS DOS</speaker>
 					<stage>(Con reverencia.)</stage>
 					<l part="F">Lo que vusted mandare.</l>
@@ -658,18 +691,18 @@
 					<l part="I">Dense las manos.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l part="F">Y con nuestro padre</l>
 					<l>podrá casarse la señora madre.</l>
 				</sp>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l>¿Y á mí, que concerté este maridaje?</l>
 				</sp>
 
-				<sp who="#quit">
+				<sp who="#quiterio">
 					<speaker>DON QUITERIO</speaker>
 					<l>Catalina se case con el paje,</l>
 					<l>pues con la vela nos dejó alumbrados,</l>
@@ -681,24 +714,24 @@
 					<l>En solo oillo me hacen ya cosquillas.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l>Y á ti, para alfileres, cuatro villas.</l>
 				</sp>
 
-				<sp who="#cat">
+				<sp who="#catalina">
 					<speaker>CATALINA</speaker>
 					<l part="I">Beso tus manos.</l>
 				</sp>
 
-				<sp who="#estef">
+				<sp who="#estefanio">
 					<speaker>DON ESTEFANÍO</speaker>
 					<l part="F">No, no me las beses,</l>
 					<l>que también hay quien dé en los entremeses.</l>
 					<l>Báilese y dése muestras del contento.</l>
 				</sp>
 
-				<sp who="fran">
+				<sp who="#francisca">
 					<speaker>FRANCISCA</speaker>
 					<l>Vaya una letra al son del instrumento.</l>
 				</sp>
