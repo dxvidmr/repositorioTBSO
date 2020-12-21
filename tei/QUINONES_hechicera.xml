@@ -136,7 +136,7 @@
                     <l>de un jarro de agua has de morir, ¡por Cristo!</l>
                 </sp>
 
-                <stage>(Dentro.)<stage><sp><l>¡Fuego!, ¡fuego!</l></sp>
+                <stage>(Dentro.)</stage><sp who="#badulaque"><l>¡Fuego!, ¡fuego!</l></sp>
 
                 <stage>
                     (Sale BADULAQUE desnudo, en camisa.)
@@ -229,7 +229,7 @@
                     (Sale un CRIADO.)
                 </stage>
 
-                <sp who="criado">
+                <sp who="#criado">
                     <speaker>CRIADO</speaker>   
                     <l>¿Qué es aquesto,</l>
                     <l>señor? Ten de vestir; vístete presto,</l>
@@ -726,7 +726,7 @@
                     (Entra un CRIADO.)
                 </stage>
 
-                <sp who="criado">
+                <sp who="#criado">
                     <speaker>CRIADO</speaker>
                     <l>¿Qué es aquesto, mi señor?</l>
                     <l>Es mal pensado y mal hecho.</l>
@@ -740,7 +740,7 @@
                     <l>¡Otro borracho tenemos!</l>
                 </sp>
 
-                <sp who="criado">
+                <sp who="#criado">
                     <speaker>CRIADO</speaker>
                     <l>¡Que me muero!, ¡que me abraso!</l>
                 </sp>
@@ -895,7 +895,7 @@
                     <l>agradecimiento.</l>
                 </sp>
 
-                <sp who="musicos">
+                <sp who="#musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>¿Cuál hechizo es más fuerte,</l>
                     <l>señor mancebo?</l>
@@ -907,7 +907,7 @@
                     <l>y en mí el dinero.</l>
                 </sp>
 
-                <sp who="musicos">
+                <sp who="#musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>Si nos dan bien, pagamos</l>
                     <l>cualquiera deuda.</l>
@@ -919,7 +919,7 @@
                     <l>quemada muera.</l>
                 </sp>
 
-                <sp who="musicos">
+                <sp who="#musicos">
                     <speaker>MÚSICOS</speaker>
                     <l>Y ¿por qué merecemos</l>
                     <l>castigo tanto?</l>
@@ -931,7 +931,7 @@
                     <l>pagando en cuartos.</l>
                 </sp>
             
-
+             
             </div>
 
         </body>
