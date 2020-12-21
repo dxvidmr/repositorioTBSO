@@ -1,64 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+    type="application/xml" 
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title>Entremés del marión</title>
+            <author>Luis Quiñones de Benavente</author>
+            <editor>David Merino Recalde</editor>
+        </titleStmt>
+        <publicationStmt>
+            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                Cotarelo y Mori, E. (1911). Colección de entremeses, Vol. II, Universidad de Granada (2000) (pp. 722-725)
+            </bibl>
+        </sourceDesc>
+        </fileDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<person xml:id="catalina">
+						<persName>Catalina</persName>
+					</person>
+					<person xml:id="juana">
+						<persName>Juana</persName>
+					</person>
+					<person xml:id="zurrron">
+						<persName>Zurrón</persName>
+					</person>
+					<person xml:id="marion">
+						<persName>Marión</persName>
+					</person>
+					<person xml:id="criada">
+						<persName>Criada</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+			<textClass>
+                <keywords>
+                    <term type="genreTitle">entremés</term>
+                </keywords>
+            </textClass>
+		</profileDesc>
+    </teiHeader>
 
-FIGURAS DÉL:
-CATALINA. 
+
+	<text>
+		<front>
+			<head>
+				Entremés del marión
+			</head>
+			<castList>
+				<head>FIGURAS DÉL:</head>
+				<castItem>
+					<role corresp="#catalina">CATALINA</role>
+				</castItem>
+				<castItem>
+					<role corresp="#juana">JUANA</role>
+				</castItem>
+				<castItem>
+					<role corresp="#zurron">ZURRÓN</role>
+				</castItem>
+				<castItem>
+					<role corresp="#marion">MARIÓN</role>
+				</castItem>
+				<castItem>
+					<role corresp="#criada">UNA CRIADA</role>
+				</castItem>
+				<castItem>
+					<role corresp="#">MÚSICOS</role>
+				</castItem>
+			</castList>
+		</front>
+
+	<body>
+		<div>
+		
+
+			<stage>(Salen CATALINA y JUANA y ZURRÓN)</stage>
+
+			<sp>
+				<speaker>CATALINA</speaker>
+				<l>Vámonos poco á poco, hermana Juana,</l>
+				<l>que es mucha mi razón y más mi cólera,</l>
+				<l>y ya sabéis que no sufro cosquillas.</l>
+			</sp>
+
+			<sp>
+				<speaker>JUANA</speaker>
+				<l>Catalina salgamos de mantillas</l>
+				<l>y no hagas aniñadas necedades,</l>
+				<l>que es afrentar tus muchas Navidades.</l>
+			</sp>
+
+			<sp>
+				<speaker>CATALINA</speaker>
+				<l>¡Ay, que me llama vieja! Pues, ¡menguada!,</l>
+				<l>cree verás deshechos tus engaños.</l>
+				<l>Señores, tengo yo catorce años.</l>
+				<l>Apártate, Zurrón, por vida mía,</l>
+				<l>déjame que lo escriba en un retablo:</l>
+				<l>aetatis suae cuatrocientos años.</l>
+			</sp>
+
+			<sp>
+				<speaker>JUANA</speaker> 
+				<l>Y las mías, morena, ¿son holgonas?</l>
+				<l>pues su poquito tienen de escobonas.</l>
+			</sp>
+
+			<sp>
+				<speaker>ZURRÓN</speaker>
+				<l>Repórtense vuestedes, que entre hermanas</l>
+				<l>parece mal haber comonidades.</l>
+			</sp>
+
+			<sp>
+				<speaker>CATALINA</speaker>
+				<l>¿Á mí que tengo muchas Navidades?</l>
+				<l>¿A la misma niñez, á la hermosura?</l>
+				<l>¡A mí, que cuando salgo por la calle</l>
+				<l>llevo colgando, dando al mundo espanto,</l>
+				<l>un alma en cada punta de mi manto</l>
+				<l>arrojando los cuerpos como cáscaras!</l>
+				<l>Viva te he de comer.</l>
+			</sp>
+			
 JUANA
-ZURRÓN.
-MARIÓN.
-UNA CRIADA.
-MÚSICOS.
-
-(Salen CATALINA y JUANA y ZURRÓN.)
-
-CATALINA.
-Vámonos poco á poco, hermana Juana,
-que es mucha mi razón y más mi cólera,
-y ya sabéis que no sufro cosquillas.
-
-JUANA.
-Catalina salgamos de mantillas
-y no hagas aniñadas necedades,
-que es afrentar tus muchas Navidades.
-
-CATALINA.
-¡Ay, que me llama vieja! Pues, ¡menguada!,
-cree verás deshechos tus engaños.
-Señores, tengo yo catorce años.
-Apártate, Zurrón, por vida mía,
-déjame que lo escriba en un retablo:
-aetatis suae cuatrocientos años.
-
-JUANA. 
-Y las mías, morena, ¿son holgonas?
-pues su poquito tienen de escobonas.
-
-ZURRÓN.
-Repórtense vuestedes, que entre hermanas
-parece mal haber comonidades. 
-
-CATALINA.
-¿Á mí que tengo muchas Navidades?
-¿A la misma niñez, á la hermosura?
-¡A mí, que cuando salgo por la calle
-llevo colgando, dando al mundo espanto,
-un alma en cada punta de mi manto
-arrojando los cuerpos como cáscaras!
-Viva te he de comer.
-
-JUANA.
 					Porque riades.
 
-CATALINA.
+CATALINA
 ¿Á mí, que tengo muchas Navidades?
 
-JUANA.
+JUANA
 ¿Oís, señor?: allí la escuece.
 
-ZURRÓN.
+ZURRÓN
 Oigámonos, señoras:
 ¿estoy aquí por bestia? Sean amigas,
 pues no hay agravio.
 
-CATALINA.
+CATALINA
 					¿Cómo no hay agravio?
 Si me llamara sucia, tonta ó fea,
 azotada, judía ó cualquier cosa,
@@ -66,29 +151,29 @@ cualquier satisfacción me fuera honrosa;
 mas agravio de vieja no se lava
 sino con palos.
 
-ZURRÓN.
+ZURRÓN
 				Peor está que estaba.
 Hagamos, digo, estas amistades.
 
-CATALINA.
+CATALINA
 ¿A mí, que tengo muchas Navidades?
 
-JUANA.
+JUANA
 ¡Dalle que dalle!
 
-ZURRÓN.
+ZURRÓN
 				Aqueste torbellino
 ¿por qué se levantó?
 
-JUANA.
+JUANA
 					Porque mi hermana
 quiere un mozo que quiero.
 
-ZURRÓN.
+ZURRÓN
 						¡Lindo cuento!
 ¿Y quién es él?
 
-CATALINA.
+CATALINA
 				Zurrón, estame atento.
 Hay en este lugar un mozalbito
 en sus acciones tan afeminado
@@ -99,76 +184,76 @@ pica de manos blancas y me agrada
 por aqueste camino, y aquí á Juana
 también le cayó en gracia.
 
-ZURRÓN.
+ZURRÓN
 						¿Y es su nombre?
 
-CATALINA.
+CATALINA
 Marión.
 
-ZURRÓN.
+ZURRÓN
 	¡Marión!
 
-JUANA.
+JUANA
 		¿De qué es la risa?
 
-ZURRÓN.
+ZURRÓN
 Mejor es que le llamen doña Luisa.
 ¡Miren aquí qué gusto de doncellas!
 ¡Marión! Bercebú cargue con ellas.
 
-JUANA.
+JUANA
 Ahora bien, por volver por nuestro gusto
 le has de ver.
 
-ZURRÓN.
+ZURRÓN
 		Vamos, pues, que yo prometo
 de acomodar aquestas amistades.
 
-CATALINA.
+CATALINA
 Menos aquello de las Navidades.
 
-JUANA.
+JUANA
 ¡Ya escampa!
 
-ZURRÓN.
+ZURRÓN
 		Y si á ninguna se inclinase
 yo os dejaré vengadas.
 
-JUANA.
+JUANA
 			Eso pido.
 Esta es la casa.
 
-CATALINA.
+CATALINA
 		Llama sin ruido.
 
-JUANA.
+JUANA
 ¡Ah de casa!
 
 (Asómase una criada.)
 
-CRIADA.
+CRIADA
 		¿Quién es?
 
-CATALINA.
+CATALINA
 				Señora hermosa,
 al señor Marión.
 
-CRIADA.
+CRIADA
 		¡Lindo recado!
 No, hay que aguardar, que aun no está tocado.
 
-ZURRÓN.
+ZURRÓN
 Pues, ¿tócase?
 
-CRIADA.
+CRIADA
 		¡Qué lindo majadero!
 En sólo las haldillas del sombrero
 más que si se tocara se detiene.
 
-ZURRÓN.
+ZURRÓN
 ¡Donoso Marión!
 
-CRIADA.
+CRIADA
 		Pero ya viene.
 
 (Vase y sale MARIÓN.)
@@ -181,14 +266,14 @@ y dos melindrositas! Paso, paso.
 ¡Jesús eterno y qué terrible caso!
 Pues ¡bonito soy yo para esas cosas!
 
-CATALINA.
+CATALINA
 Señor mío, ¿por qué tantos desdenes?
 
 MARIÓN.
 Quita de ahí, friona, con qué vienes.
 ¡Amiguito soy yo de atrevimientos!
 
-JUANA.
+JUANA
 Oiga vuested un par de casamientos.
 MARIÓN.
 ¿Hay tal descompostura, en mi presencia?
@@ -197,7 +282,7 @@ que venían muy sesgas y mirladas,
 que es para mi humor muy buen despacho.
 ¡Casamentico! ¿Estaba yo borracho?
 
-CATALINA.
+CATALINA
 ¡Qué bellas manos tiene!
 Hermana, ¿no parecen naterones?
 
@@ -207,7 +292,7 @@ Solían… pero no sé que me diga;
 claro está que ha de entrar mal ojo en ellas,
 que de antes se mataban para vellas.
 
-JUANA.
+JUANA
 ¿Y á esto del casamiento qué responde?
 
 MARIÓN.
@@ -219,7 +304,7 @@ cuanto más ellas. ¡Con qué vienen!
 De sólo oillo mentar me da zollipo:
 ¡Jesús, qué susto! Dios se lo perdone.
 
-CATALINA.
+CATALINA
 Pues no tiene remedio, hay consejo,
 que queremos las dos tomar estado.
 ¿Qué le parece aquel galán letrado?
@@ -234,7 +319,7 @@ riéndose sin gana por mostrallos,
 y si hacéis una gala en nombre suyo
 y pedís para algunos adherentes.
 
-JUANA.
+JUANA
 ¡Donosa cosa si por vida mía!
 Es mejor el galán de la otra noche.
 
@@ -251,7 +336,7 @@ yo prometo una misa á San Antonio.
 
 (Sale una tapada.)
 
-[ZURRÓN.]
+[ZURRÓN]
 Este sí que es galán y no vinagres
 sin cuenta ni razón.
 
@@ -260,7 +345,7 @@ sin cuenta ni razón.
 ¿Tapadas en mi casa? ¡Lindo aliño!
 Medraremos por cierto.
 
-CATALINA.
+CATALINA
 				Cumpla, hermano,
 que conmigo muy tarde lo comienza.
 
@@ -268,7 +353,7 @@ MARIÓN.
 ¡Jesús y qué terrible desvergüenza!
 ¿Por mí había de venir? (Abrázalo.)
 
-JUANA.
+JUANA
 			No sino al alba.
 
 MARIÓN.
@@ -281,7 +366,7 @@ Descubre, acaba ya.
 
 (Descúbrese ZURRÓN y da á MARIÓN con un paño de harina.)
 
-ZURRÓN.
+ZURRÓN
 			No me lo mande.
 
 MARIÓN.
@@ -296,18 +381,18 @@ que me pudiera dar alferecía.
 No acabo de volver: ¡qué impertinencia!
 Muy de veras lo digo en mi conciencia.
 
-CATALINA.
+CATALINA
 Ahora bien, quitémosle este miedo
 con una letra y baile.
 
-JUANA.
+JUANA
 			Que se haga.
 
 MARIÓN.
 ¡Jesús eterno, qué enfadosa paga!
 Como ese baile, yo no quiero.
 
-ZURRÓN.
+ZURRÓN
 					Calle.
 Oiga esta letra y este alegre tono.
 
@@ -332,7 +417,7 @@ con gracia y primor
 esta letra alegre
 y este alegre son.
 
-JUANA.
+JUANA
 ¡Socorro, socorro presto,
 que á la casa del amor
 interés ha puesto fuego
@@ -391,3 +476,11 @@ El cometa que llaman
 poco dinero
 amenaza abundancia
 de perros muertos.
+
+			</div>
+	
+		</body>
+
+	</text>
+
+</TEI>
