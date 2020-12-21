@@ -69,28 +69,28 @@
 			<castList>
 				<head>Figuras que hablan en él:</head>
 				<castItem>
-					<role corresp="estefanio">DON ESTEFANÍO</role>
+					<role corresp="#estefanio">DON ESTEFANÍO</role>
 				</castItem>
 				<castItem>
-					<role corresp="quiterio">DON QUITERIO</role>
+					<role corresp="#quiterio">DON QUITERIO</role>
 				</castItem>
 				<castItem>
-					<role corresp="francisca">FRANCISCA</role>
+					<role corresp="#francisca">FRANCISCA</role>
 				</castItem>
 				<castItem>
-					<role corresp="maria">MARÍA</role>
+					<role corresp="#maria">MARÍA</role>
 				</castItem>
 				<castItem>
-					<role corresp="catalina">CATALINA</role>
+					<role corresp="#catalina">CATALINA</role>
 				</castItem>
 				<castItem>
-					<role corresp="madre">LA MADRE DE LOS MARIONES</role>
+					<role corresp="#madre">LA MADRE DE LOS MARIONES</role>
 				</castItem>
 				<castItem>
-					<role corresp="musico1 musico2">DOS MÚSICOS</role>
+					<role corresp="#musico1 #musico2">DOS MÚSICOS</role>
 				</castItem>
 				<castItem>
-					<role corresp="criado">UN CRIADO</role>
+					<role corresp="#criado">UN CRIADO</role>
 				</castItem>
 			</castList>
 		</front>
