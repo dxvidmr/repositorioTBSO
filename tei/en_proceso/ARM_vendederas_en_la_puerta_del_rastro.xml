@@ -1,17 +1,66 @@
-ENTREMÉS DE LAS VENDEDERAS EN LA PUERTA DEL RASTRO
-AUTOR: GIL LÓPEZ DE ARMESTO
-EDICIÓN: Huerta Calvo, J. y Gómez Sánchez-Ferrer, G. (????) Sainetes y entremeses representados y cantados de Gil López de Armesto. CORTBE.
-Estraído de http://betawebs.net/corpus-lopez-armesto/?q=node/77
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+    type="application/xml" 
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title>Entremés de las vendederas en la puerta del Rastro</title>
+            <author>Gil López de Armesto</author>
+            <editor>Pamela Gionco</editor>
+        </titleStmt>
+        <publicationStmt>
+            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                Huerta Calvo, J. y Gómez Sánchez-Ferrer, G. (????) Sainetes y entremeses representados y cantados de Gil López de Armesto.
+            </bibl>
+        </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="Mujer1">
+                        <persName>Una Mujer que vende manos y cuajares</persName>
+                    </person>
+                    <person xml:id="Mujer2">
+                        <persName>Otra que vende morcillas</persName>
+                    </person>
+                    <person xml:id="Estudiante">
+                        <persName>Un Estudiante gorrón</persName>
+                    </person>
+                    <person xml:id="Soldado">
+                        <persName>Un Soldado</persName>
+                    </person>
+                    <person xml:id="Dueña">
+                        <persName>Una Dueña</persName>
+                    </person>
+                    <person xml:id="Escudero">
+                        <persName>Otáñez, Escudero</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <keywords>
+                    <term type="genreTitle">entremés</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
 
 
 PERSONAS
 
-Una Mujer que vende manos y cuajares
-Otra que vende morcillas
-Un Estudiante gorrón
-Un Soldado
-Una Dueña
-Otáñez, Escudero
+
+
+
+
+
+
 
 ----------------------------------------------------
 
