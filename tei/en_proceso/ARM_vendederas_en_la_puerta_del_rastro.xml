@@ -22,22 +22,22 @@
         <profileDesc>
             <particDesc>
                 <listPerson>
-                    <person xml:id="Mujer1">
+                    <person xml:id="mujer1">
                         <persName>Una Mujer que vende manos y cuajares</persName>
                     </person>
-                    <person xml:id="Mujer2">
+                    <person xml:id="mujer2">
                         <persName>Otra que vende morcillas</persName>
                     </person>
-                    <person xml:id="Estudiante">
+                    <person xml:id="estudiante">
                         <persName>Un Estudiante gorrón</persName>
                     </person>
-                    <person xml:id="Soldado">
+                    <person xml:id="soldado">
                         <persName>Un Soldado</persName>
                     </person>
-                    <person xml:id="Dueña">
+                    <person xml:id="dueña">
                         <persName>Una Dueña</persName>
                     </person>
-                    <person xml:id="Escudero">
+                    <person xml:id="escudero">
                         <persName>Otáñez, Escudero</persName>
                     </person>
                 </listPerson>
@@ -49,20 +49,36 @@
             </textClass>
         </profileDesc>
     </teiHeader>
+    
+    <text>
+    <front>
+            <head>
+                Entremés de las vendederas en la puerta del Rastro
+            </head>
+            <castList>
+                <head>Figuras</head>
+                <castItem>
+                    <role corresp="#mujer1">MUJER UNO</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#mujer2">MUJER DOS</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#estudiante">ESTUDIANTE</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#soldado">UN SOLDADO</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#duena">UNA DUEÑA</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#escudero">OTÁÑEZ, ESCUDERO</role>
+                </castItem>
+            </castList>
+        </front>
 
-
-
-
-PERSONAS
-
-
-
-
-
-
-
-
-----------------------------------------------------
+<body>
 
 (Sale la que vende manos y cuajares con una cesta y canta.)
 
@@ -463,3 +479,9 @@ Muy fácil es esa,
 siendo en el Rastro.
 
 (Repiten bailando y dase fin.)
+
+</body>
+
+</text>
+
+</TEI>
