@@ -82,14 +82,13 @@
 
 <stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
 
-MUJER UNO
-
-<l>Manos y cuajares vendo,</l>
-
-y en esta puerta del Rastro,
-aunque vendiendo los pelo,
-a vender no me doy manos.
-Lleven cuajares los que
+<sp>
+     <speaker>MUJER UNO</speaker>
+     <l>Manos y cuajares vendo,</l>
+     <l>y en esta puerta del Rastro,</l>
+     <l>aunque vendiendo los pelo,</l>
+     <l>a vender no me doy manos.</l>
+     <l>Lleven cuajares los que</l>
 al carnero no han hallado
 costilla porque no tienen
 costilla para comprarlo.
@@ -98,7 +97,7 @@ y manos a millares,
 pobretes presumidos,
 que aunque estéis mal comidos,
 con un palillo armados,
-engañarnos queréis siendo engañados.
+engañarnos queréis siendo engañados.</sp>
 
 (Pónese con su cesta a un lado del tablado. Sale la que vende morcillas, con otra cesta, y canta.) 
 
