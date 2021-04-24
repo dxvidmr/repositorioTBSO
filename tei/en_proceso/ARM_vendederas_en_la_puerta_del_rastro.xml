@@ -83,42 +83,44 @@
 <stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
 
 <sp>
-     <speaker>MUJER UNO</speaker>
-     <l>Manos y cuajares vendo,</l>
-     <l>y en esta puerta del Rastro,</l>
-     <l>aunque vendiendo los pelo,</l>
-     <l>a vender no me doy manos.</l>
-     <l>Lleven cuajares los que</l>
-     <l>al carnero no han hallado</l>
-     <l>costilla porque no tienen</l>
-     <l>costilla para comprarlo.</l>
-     <l>Venid, llevad cuajares</l>
-     <l>y manos a millares,</l>
-     <l>pobretes presumidos,</l>
-     <l>que aunque estéis mal comidos,</l>
-     <l>con un palillo armados,</l>
-     <l>engañarnos queréis siendo engañados.</l>
-     </sp>
+    <speaker>MUJER UNO</speaker>
+    <l>Manos y cuajares vendo,</l>
+    <l>y en esta puerta del Rastro,</l>
+    <l>aunque vendiendo los pelo,</l>
+    <l>a vender no me doy manos.</l>
+    <l>Lleven cuajares los que</l>
+    <l>al carnero no han hallado</l>
+    <l>costilla porque no tienen</l>
+    <l>costilla para comprarlo.</l>
+    <l>Venid, llevad cuajares</l>
+    <l>y manos a millares,</l>
+    <l>pobretes presumidos,</l>
+    <l>que aunque estéis mal comidos,</l>
+    <l>con un palillo armados,</l>
+    <l>engañarnos queréis siendo engañados.</l>
+</sp>
 
 <stage>(Pónese con su cesta a un lado del tablado. Sale la que vende morcillas, con otra cesta, y canta.)</stage> 
 
-MUJER DOS
-Morcillas vendo famosas,
-gentilhombres del trabajo,
-que todo un caldero de agua
-en lavarlas he gastado.
-De sangre castiza son,
-yo lo tengo averiguado,
-que el albéitar me juró
-que es de castizos caballos.
-Venid, llegad, bribones,
-que, en no siendo gorrones,
-la sangre de un rocín
-os sabe a francolín
-y las sucias cosillas
-decís que son especia en mis morcillas.
+<sp>
+    <speaker>MUJER DOS</speaker>
+    <l>Morcillas vendo famosas,</l>
+    <l>gentilhombres del trabajo,</l>
+    <l>que todo un caldero de agua</l>
+    <l>en lavarlas he gastado.</l>
+    <l>De sangre castiza son,</l>
+    <l>yo lo tengo averiguado,</l>
+    <l>que el albéitar me juró</l>
+    <l>que es de castizos caballos.</l>
+    <l>Venid, llegad, bribones,</l>
+    <l>que, en no siendo gorrones,</l>
+    <l>la sangre de un rocín</l>
+    <l>os sabe a francolín</l>
+    <l>y las sucias cosillas</l>
+    <l>decís que son especia en mis morcillas.</l>
+</sp>
 
-(Pone la cesta junto a la de la primera.) 
+<stage>(Pone la cesta junto a la de la primera.) </stage>
 
 MUJER UNO
 Hágase allá con su cesta.
