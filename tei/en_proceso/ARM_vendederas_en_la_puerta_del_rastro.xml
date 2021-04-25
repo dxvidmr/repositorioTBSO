@@ -156,48 +156,72 @@
             <l>que está muy diestra en pelar.</l>
         </sp>
         
-MUJER UNO
-A mí no me ladran perros.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>A mí no me ladran perros.</l>
+        </sp>
 
-MUJER DOS
-Dice usted mucha verdad
-porque, si son perros muertos,
-¿cómo la pueden ladrar?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Dice usted mucha verdad</l>
+            <l>porque, si son perros muertos,</l>
+            <l>¿cómo la pueden ladrar?</l>
+        </sp>
 
-MUJER UNO
-Lo tuyo me dices, tonta,
-ese es adagio vulgar,
-que yo en los antes de amor
-recojo mi pegujar.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Lo tuyo me dices, tonta,</l>
+            <l>ese es adagio vulgar,</l>
+            <l>que yo en los antes de amor</l>
+            <l>recojo mi pegujar.</l>
+        </sp>
+        
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Hace bien que, si no usara</l>
 
-MUJER DOS
-Hace bien que, si no usara
-antes desa habelidad,
-y a los postres esperara,
-no hallara ni para un pan.
+<!-- no habria que normalizar la linea siguiente?-->
+            <l>antes desa habelidad,</l>
+            <l>y a los postres esperara,</l>
+            <l>no hallara ni para un pan.</l>
+        </sp>
 
-MUJER UNO
-Mientes y si me levanto...
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Mientes y si me levanto...</l>
+        </sp>
 
-MUJER DOS
-Gentil pavana, ¿qué hará?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Gentil pavana, ¿qué hará?</l>
+        </sp>
 
-MUJER UNO
-Te pelaré esa cabeza.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Te pelaré esa cabeza.</l>
+        </sp>
 
-MUJER DOS
-Pies sabe pelar y aun mal.
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Pies sabe pelar y aun mal.</l>
+        </sp>
 
-MUJER UNO
-Arañarete esa cara.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Arañarete esa cara.</l>
+        </sp>
 
-MUJER DOS
-Por uñas no quedará,
-pues de carneros y suyas
-se compone su caudal.
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Por uñas no quedará,</l>
+            <l>pues de carneros y suyas</l>
+            <l>se compone su caudal.</l>
+        </sp>
 
-MUJER UNO
-Porque viene gente callo.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Porque viene gente callo.</l>
+        </sp>
 
 MUJER DOS
 ¡Oh, qué escusa tan venial!
@@ -494,8 +518,7 @@ siendo en el Rastro.
 
 (Repiten bailando y dase fin.)
 
-	</div>
-
+</div>
 </body>
 
 </text>
