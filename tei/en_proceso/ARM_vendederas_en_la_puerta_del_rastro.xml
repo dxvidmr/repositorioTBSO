@@ -50,7 +50,7 @@
         </profileDesc>
     </teiHeader>
     
-    <text>
+<text>
     <front>
             <head>
                 Entremés de las vendederas en la puerta del Rastro
@@ -77,73 +77,85 @@
                 </castItem>
             </castList>
         </front>
+        
+        <body>
+        <div>
+        
+        <stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
+        
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Manos y cuajares vendo,</l>
+            <l>y en esta puerta del Rastro,</l>
+            <l>aunque vendiendo los pelo,</l>
+            <l>a vender no me doy manos.</l>
+            <l>Lleven cuajares los que</l>
+            <l>al carnero no han hallado</l>
+            <l>costilla porque no tienen</l>
+            <l>costilla para comprarlo.</l>
+            <l>Venid, llevad cuajares</l>
+            <l>y manos a millares,</l>
+            <l>pobretes presumidos,</l>
+            <l>que aunque estéis mal comidos,</l>
+            <l>con un palillo armados,</l>
+            <l>engañarnos queréis siendo engañados.</l>
+        </sp>
+        
+        <stage>(Pónese con su cesta a un lado del tablado. Sale la que vende morcillas, con otra cesta, y canta.)</stage> 
+        
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Morcillas vendo famosas,</l>
+            <l>gentilhombres del trabajo,</l>
+            <l>que todo un caldero de agua</l>
+            <l>en lavarlas he gastado.</l>
+            <l>De sangre castiza son,</l>
+            <l>yo lo tengo averiguado,</l>
+            <l>que el albéitar me juró</l>
+            <l>que es de castizos caballos.</l>
+            <l>Venid, llegad, bribones,</l>
+            <l>que, en no siendo gorrones,</l>
+            <l>la sangre de un rocín</l>
+            <l>os sabe a francolín</l>
+            <l>y las sucias cosillas</l>
+            <l>decís que son especia en mis morcillas.</l>
+        </sp>
+        
+        <stage>(Pone la cesta junto a la de la primera.) </stage>
+        
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Hágase allá con su cesta.</l>
+        </sp>
 
-<body>
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Ella es la de hágase allá.</l>
+            <l part="I">¡Qué grosera!</l>
+        </sp>
 
-<stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l part="F">Sus morcillas,</l>
+        </sp>
 
-<sp>
-    <speaker>MUJER UNO</speaker>
-    <l>Manos y cuajares vendo,</l>
-    <l>y en esta puerta del Rastro,</l>
-    <l>aunque vendiendo los pelo,</l>
-    <l>a vender no me doy manos.</l>
-    <l>Lleven cuajares los que</l>
-    <l>al carnero no han hallado</l>
-    <l>costilla porque no tienen</l>
-    <l>costilla para comprarlo.</l>
-    <l>Venid, llevad cuajares</l>
-    <l>y manos a millares,</l>
-    <l>pobretes presumidos,</l>
-    <l>que aunque estéis mal comidos,</l>
-    <l>con un palillo armados,</l>
-    <l>engañarnos queréis siendo engañados.</l>
-</sp>
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>¿Estarán mejor sus manos?</l>
+        </sp>
 
-<stage>(Pónese con su cesta a un lado del tablado. Sale la que vende morcillas, con otra cesta, y canta.)</stage> 
+        <sp who="#mujer1">        
+            <speaker>MUJER UNO</speaker>
+            <l>Por lo limpio, claro está,</l>
+            <l part="I">y por peladas.</l>
+        </sp>
 
-<sp>
-    <speaker>MUJER DOS</speaker>
-    <l>Morcillas vendo famosas,</l>
-    <l>gentilhombres del trabajo,</l>
-    <l>que todo un caldero de agua</l>
-    <l>en lavarlas he gastado.</l>
-    <l>De sangre castiza son,</l>
-    <l>yo lo tengo averiguado,</l>
-    <l>que el albéitar me juró</l>
-    <l>que es de castizos caballos.</l>
-    <l>Venid, llegad, bribones,</l>
-    <l>que, en no siendo gorrones,</l>
-    <l>la sangre de un rocín</l>
-    <l>os sabe a francolín</l>
-    <l>y las sucias cosillas</l>
-    <l>decís que son especia en mis morcillas.</l>
-</sp>
-
-<stage>(Pone la cesta junto a la de la primera.) </stage>
-
-MUJER UNO
-Hágase allá con su cesta.
-
-MUJER DOS
-Ella es la de hágase allá.
-¡Qué grosera!
-
-MUJER UNO
-              Sus morcillas,
-cierto es que no lo serán.
-
-MUJER DOS
-¿Estarán mejor sus manos?
-
-MUJER UNO
-Por lo limpio, claro está,
-y por peladas.
-
-MUJER DOS
-              Es cierto
-que está muy diestra en pelar.
-
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l part="F">Es cierto</l>
+            <l>que está muy diestra en pelar.</l>
+        </sp>
+        
 MUJER UNO
 A mí no me ladran perros.
 
@@ -481,6 +493,8 @@ Muy fácil es esa,
 siendo en el Rastro.
 
 (Repiten bailando y dase fin.)
+
+	</div>
 
 </body>
 
