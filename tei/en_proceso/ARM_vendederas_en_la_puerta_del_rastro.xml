@@ -79,6 +79,7 @@
         </front>
         
         <body>
+        
         <div>
         
         <stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
@@ -180,7 +181,7 @@
             <speaker>MUJER DOS</speaker>
             <l>Hace bien que, si no usara</l>
 
-<!-- no habria que normalizar la linea siguiente?-->
+<!-- ¿normalizar la linea siguiente?-->
             <l>antes desa habelidad,</l>
             <l>y a los postres esperara,</l>
             <l>no hallara ni para un pan.</l>
@@ -223,90 +224,128 @@
             <l>Porque viene gente callo.</l>
         </sp>
 
-MUJER DOS
-¡Oh, qué escusa tan venial!
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
 
-MUJER UNO
-No llame a mis parroquianos,
-que juzgo la pesará.
+<!-- ¿normalizar la linea siguiente?-->
+            <l>¡Oh, qué escusa tan venial!</l>
+        </sp>
 
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>No llame a mis parroquianos,</l>
+            <l>que juzgo la pesará.</l>
+        </sp>
 
-MUJER DOS
-¿Mucho?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l part="I">¿Mucho?</l>
+        </sp>
 
-MUJER UNO
-        Y remucho.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l part="M">Y remucho.</l>
+        </sp>
 
-MUJER DOS
-                    Con eso,
-muy buen despacho tendrá
-mi hacienda.
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l part="F">Con eso,</l>
+            <l>muy buen despacho tendrá</l>
+            <l part="I"> mi hacienda.</l>
+        </sp>
 
-MUJER UNO
-            ¿Por qué lo dice?
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l part="F">¿Por qué lo dice?</l>
+        </sp>
 
-MUJER DOS
-Porque lo digo y no más.
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Porque lo digo y no más.</l>
+        </sp>
 
-MUJER UNO
-Razón de cabo de escuadra.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Razón de cabo de escuadra.</l>
+        </sp>
 
-MUJER DOS
-Dale bola y preguntar,
-porque ¿son sus parroquianos
-cuantos en Madrid están?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Dale bola y preguntar,</l>
+            <l>porque ¿son sus parroquianos</l>
+            <l>cuantos en Madrid están?</l>
+        </sp>
 
-(Cantan lo de abajo empezando la primera dama como está anotado.) 
+<stage>(Cantan lo de abajo empezando la primera dama como está anotado.) </stage>
 
-(Canta la primera.)
+<stage>(Canta la primera.)</stage>
 
-Manos y cuajares
-lleven a millares.
+        <sp who="#mujer1">
+            <l>Manos y cuajares</l>
+            <l>lleven a millares.</l>
+        </sp>
 
-(Canta la segunda.)
+<stage>(Canta la segunda.)</stage>
 
-Lleven mis morcillas
-a las Maravillas.
+        <sp who="#mujer1">
+            <l>Lleven mis morcillas</l>
+            <l>a las Maravillas.</l>
+        </sp>
 
-(Sale el Estudiante como que oye cantar.)
+<stage>(Sale el Estudiante como que oye cantar.)</stage>
 
-ESTUDIANTE
-A las Maravillas dice
-esta que se han de llevar
-sus morcillas, lejos es;
-pero alguna me dará.
-Aquí tiene un quídam pauper
-que esa cesta cargará
-y en las mismas Maravillas
-las morcillas la pondrá.
+        <sp who="#estudiante">
+            <speaker>ESTUDIANTE</speaker>
+            <l>A las Maravillas dice</l>
+            <l>esta que se han de llevar</l>
+            <l>sus morcillas, lejos es;</l>
+            <l>pero alguna me dará.</l>
+            <l>Aquí tiene un quídam pauper</l>
+            <l>que esa cesta cargará</l>
+            <l>y en las mismas Maravillas</l>
+            <l>las morcillas la pondrá.</l>
+        </sp>
 
-MUJER DOS
-¿Todas?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l part="I">¿Todas?</l>
+        </sp>
 
-ESTUDIANTE
-        Y aun dos mil que hubiera.
+        <sp who="#estudiante">
+            <speaker>ESTUDIANTE</speaker>
+            <l part="F">Y aun dos mil que hubiera.</l>
+        </sp>
 
-MUJER DOS
-¡Brava venta! ¿Cuál está
-la vecina mi señora?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>¡Brava venta! ¿Cuál está</l>
+            <l>la vecina mi señora?</l>
+        </sp>
 
-MUJER UNO
-Venda y calle.
+        <sp who="#mujer1"> 
+            <speaker>MUJER UNO</speaker>
+            <l part="I">Venda y calle.</l>
+        </sp>
 
-MUJER DOS
-                Venderán.
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l part="F">Venderán.</l>
+        </sp>
 
-(Sale un Soldado ridículo por el lado donde están las manos y cuajares.) 
+<stage>(Sale un Soldado ridículo por el lado donde están las manos y cuajares.) </stage>
 
-SOLDADO
-Si a millares los cuajares
-y manos se han de llevar,
-aquí tiene usted, mi reina,
-quien todos los llevará.
-En la calle de León
-mi contaduría está,
-adonde en muy breve rato
-todas se las sumarán.
+        <sp who="#soldado">
+            <speaker>SOLDADO</speaker>
+            <l>Si a millares los cuajares</l>
+            <l>y manos se han de llevar,</l>
+            <l>aquí tiene usted, mi reina,</l>
+            <l>quien todos los llevará.</l>
+            <l>En la calle de León</l>
+            <l>mi contaduría está,</l>
+            <l>adonde en muy breve rato</l>
+            <l>todas se las sumarán.</l>
+        </sp>
+
 
 MUJER UNO
 ¿Todas?
@@ -519,6 +558,7 @@ siendo en el Rastro.
 (Repiten bailando y dase fin.)
 
 </div>
+
 </body>
 
 </text>
