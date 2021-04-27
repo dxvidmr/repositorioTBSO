@@ -34,7 +34,8 @@
                     <person xml:id="soldado">
                         <persName>Un Soldado</persName>
                     </person>
-                    <person xml:id="dueña">
+                    <person xml:id="duena">
+                     <!-- uso "duena" porque la ñ no es "apta"-->
                         <persName>Una Dueña</persName>
                     </person>
                     <person xml:id="escudero">
@@ -384,40 +385,54 @@
 
 <stage>(Sale la Dueña, y Otáñez, escudero.)</stage>
 
-DUEÑA
-Ande, Otáñez, que es pesado.
-Ya no sabe acompañar.
+        <sp who="#duena">
+            <speaker>DUEÑA</speaker>
+            <l>Ande, Otáñez, que es pesado.</l>
+            <l>Ya no sabe acompañar.</l>
+        </sp>
 
-OTÁÑEZ
-Si ha dos horas que salimos
-de misa de San Millán
-y al Rastro vamos llegando,
-¿qué más prisa me he de dar?
-Y las piernas me rehílan
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+            <l>Si ha dos horas que salimos</l>
+            <l>de misa de San Millán</l>
+            <l>y al Rastro vamos llegando,</l>
+            <l>¿qué más prisa me he de dar?</l>
+            <l>Y las piernas me rehílan</l>
+            <!-- aquí hay una línea libre... falta texto?-->
+            <l>del cansancio, ¿hay cosa tal?</l>
+        </sp>
 
-del cansancio, ¿hay cosa tal?
+        <sp who="#duena">
+            <speaker>DUEÑA</speaker>
+            <l>Lléguese a aquesas mujeres</l>
+            <l> y pregunte si tendrán</l>
+            <l>un poco de hígado blanco.</l>
+        </sp>
 
-DUEÑA
-Lléguese a aquesas mujeres
-y pregunte si tendrán
-un poco de hígado blanco.
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+            <l part="I">¿Hígado qué?</l>
+        </sp>
 
-OTÁÑEZ
-¿Hígado qué?
-
-DUEÑA
+        <sp who="#duena">
+            <speaker>DUEÑA</speaker>
             <l part="F">Gran patán,</l>
-hígado blanco le digo.
+            <l>hígado blanco le digo.</l>
+        </sp>
 
+<sp>
 OTÁÑEZ
 Lléguelo usté a preguntar,
 que me huele a chilindrina
 y estas damas del porcal,
 como ellas huelen tan bien,
 lo olerán y me darán.
+</sp>
 
+<sp>
 DUEÑA
 Llegue, no sea majadero.
+</sp>
 
 OTÁÑEZ
 Ello por su cuenta va;
