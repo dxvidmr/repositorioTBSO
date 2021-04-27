@@ -346,30 +346,43 @@
             <l>todas se las sumarán.</l>
         </sp>
 
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l part="I">¿Todas?</l>
+        </sp>
 
-MUJER UNO
-¿Todas?
+        <sp>
+            <speaker>SOLDADO</speaker>
+            <l part="F">Y aun dos mil que hubiera.</l>
+        </sp>
 
-SOLDADO
-        Y aun dos mil que hubiera.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>¡Brava venta! ¿Cuál está</l>
+            <l>la vecina, mi señora?</l>
+        </sp>
 
-MUJER UNO
-¡Brava venta! ¿Cuál está
-la vecina, mi señora?
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l part="I">Venda y calle.</l>
+        </sp>
 
-MUJER DOS
-Venda y calle.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l part="F">Venderán.</l>
+        </sp>
 
-MUJER UNO
-              Venderán.
+        <sp who="#mujer2">
+            <speaker>MUJER DOS</speaker>
+            <l>Ya sabe que soy un diablo.</l>
+        </sp>
 
-MUJER DOS
-Ya sabe que soy un diablo.
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Yo soy dos, que es uno más.</l>
+        </sp>
 
-MUJER UNO
-Yo soy dos, que es uno más.
-
-(Sale la Dueña, y Otáñez, escudero.)
+<stage>(Sale la Dueña, y Otáñez, escudero.)</stage>
 
 DUEÑA
 Ande, Otáñez, que es pesado.
@@ -393,7 +406,7 @@ OTÁÑEZ
 ¿Hígado qué?
 
 DUEÑA
-            Gran patán,
+            <l part="F">Gran patán,</l>
 hígado blanco le digo.
 
 OTÁÑEZ
@@ -449,7 +462,7 @@ Mi vecina le tendrá,
 que es ahigadada.
 
 MUJER DOS
-                  Ya he dicho
+                 <l part="F">Ya he dicho</l>
 que llaman santo al callar.
 
 (Llégase a la de las morcillas.)
@@ -458,14 +471,14 @@ OTÁÑEZ
 ¿Tendrá usted hígado?
 
 MUJER DOS
-                      Tengo.
+                      <l part="F">Tengo.</l>
 
 OTÁÑEZ
 Eso sí, pese a mi mal;
 blanco, digo.
 
 MUJER DOS
-              Y colorado,
+              <l part="F">Y colorado,</l>
 negro y azul; ¿quiere más?
 Y llévese ahora del negro
 y vuelva mañana acá.
@@ -490,7 +503,7 @@ Tome.
 (Dale con una mano de carnero.) 
 
 OTÁÑEZ
-      Paso, niña mía,
+      <l part="F">Paso, niña mía,</L>
 que no lo dije por tal.
 
 
@@ -541,7 +554,8 @@ SOLDADO
 ¿Yéndonos?
 
 OTÁÑEZ
-          No, porque es ya
+          <l part="F">No, porque es ya</l>
+
 de tabla la seguidilla
 para poderle acabar.
 
