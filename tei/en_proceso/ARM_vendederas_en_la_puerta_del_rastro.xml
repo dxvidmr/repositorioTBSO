@@ -420,171 +420,230 @@
             <l>hígado blanco le digo.</l>
         </sp>
 
-<sp>
-OTÁÑEZ
-Lléguelo usté a preguntar,
-que me huele a chilindrina
-y estas damas del porcal,
-como ellas huelen tan bien,
-lo olerán y me darán.
-</sp>
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+            <l>Lléguelo usté a preguntar,</l>
+            <l>que me huele a chilindrina</l>
+            <l>y estas damas del porcal,</l>
+            <l>como ellas huelen tan bien,</l>
+            <l>lo olerán y me darán.</l>
+        </sp>
+
+        <sp who="duena">
+            <speaker>DUEÑA</speaker>
+            <l>Llegue, no sea majadero.</l>
+        </sp>
+
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+            <l>Ello por su cuenta va;</l>
+            <l>digo: ¿y es hígado blanco,</l>
+            <l>si bien me quiero acordar,</l>
+            <l>lo que yo llamo criadillas?</l>
+        </sp>
+
+        <sp who="#duena">
+            <speaker>DUEÑA</speaker>
+            <l>Sí, ¡qué hombre tan trivial!</l>
+        </sp>
+
+<stage>(Llégase a la que vende las manos.)</stage>
+
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+            <l>Guarde Dios a vuesarced.</l>
+        </sp>
+
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Si algo me quiere comprar,</l>
+            <l>ya están mis manos vendidas.</l>
+        </sp>
+
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+<!-- ¿normalizar la linea siguiente?-->
+            <l>¿Y dese modo que están?</l>
+        </sp>
+
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Yo digo las de la cesta,</l>
+            <l>Rodrigo, y no el de Vivar.</l>
+        </sp>
+
+        <sp who="#escudero">
+            <speaker>OTÁÑEZ</speaker>
+            <!-- ¿normalizar la linea siguiente?-->
+            <l>¡Oh!, pues si fueran esotras,</l>
+            <l>¿dónde se hallará caudal?</l>
+        </sp>
+
+        <sp who="#mujer1">
+            <speaker>MUJER UNO</speaker>
+            <l>Buenos chicolios gasta;</l>
+            <l>hágase el menguado atrás.</l>
+        </sp>
 
 <sp>
-DUEÑA
-Llegue, no sea majadero.
-</sp>
-
-OTÁÑEZ
-Ello por su cuenta va;
-digo: ¿y es hígado blanco,
-si bien me quiero acordar,
-lo que yo llamo criadillas?
-
-DUEÑA
-Sí, ¡qué hombre tan trivial!
-
-(Llégase a la que vende las manos.)
-
-OTÁÑEZ
-Guarde Dios a vuesarced.
-
-MUJER UNO
-Si algo me quiere comprar,
-ya están mis manos vendidas.
-
-OTÁÑEZ
-¿Y dese modo que están?
-
-MUJER UNO
-Yo digo las de la cesta,
-Rodrigo, y no el de Vivar.
-
-OTÁÑEZ
-¡Oh!, pues si fueran esotras,
-¿dónde se hallará caudal?
-
-MUJER UNO
-Buenos chicolios gasta;
-hágase el menguado atrás.
-
 OTÁÑEZ
 Un hígado blanco pido,
 que a usted se le pagará
 aun a más de la postura.
+</sp>
 
+<sp>
 MUJER UNO
 Mi vecina le tendrá,
 que es ahigadada.
+</sp>
 
+<sp>
 MUJER DOS
                  <l part="F">Ya he dicho</l>
 que llaman santo al callar.
+</sp>
 
-(Llégase a la de las morcillas.)
+<stage>(Llégase a la de las morcillas.)</stage>
 
+<sp>
 OTÁÑEZ
 ¿Tendrá usted hígado?
+</sp>
 
+<sp>
 MUJER DOS
                       <l part="F">Tengo.</l>
+</sp>
 
+<sp>
 OTÁÑEZ
 Eso sí, pese a mi mal;
 blanco, digo.
+</sp>
 
+<sp>
 MUJER DOS
               <l part="F">Y colorado,</l>
 negro y azul; ¿quiere más?
 Y llévese ahora del negro
 y vuelva mañana acá.
+</sp>
 
-(Dale con una morcilla en la cara.)
+<stage>(Dale con una morcilla en la cara.)</stage>
 
+<sp>
 OTÁÑEZ
 Eso es mucha porquería.
-
+</sp>
+<sp>
 MUJER DOS
 Si es morcilla, claro está.
+</sp>
 
-(Llégase a la de las manos.)
+<stage>(Llégase a la de las manos.)</stage>
 
+<sp>
 OTÁÑEZ
 Présteme usted una mano
 con que me pueda vengar.
+</sp>
 
+<sp>
 MUJER UNO
 Tome.
+</sp>
 
-(Dale con una mano de carnero.) 
+<stage>(Dale con una mano de carnero.) </stage>
 
+<sp>
 OTÁÑEZ
       <l part="F">Paso, niña mía,</L>
 que no lo dije por tal.
+</sp>
 
-
+<sp>
 DUEÑA
 ¿A mi escudero, picañas?
-
+</sp>
+<sp>
 MUJER UNO
 Hágase la dueña allá,
 que si me enfado, mis manos
 la sabrán bien manotear.
-
+</sp>
+<sp>
 DUEÑA
 Yo haré a mi primo, el portero,
 que aquí en el repeso está,
 que os ponga en un palo.
-
+</sp>
+<sp>
 MUJER DOS
 Y es de linaje que lo hará
-
+</sp>
+<sp>
 SOLDADO
+<!-- ¿normalizar la linea siguiente?-->
 Repórtense, ¿qué es aquesto?
 ¿Que estoy aquí no verán?
-
+</sp>
+<sp>
 ESTUDIANTE
 Va de arredro, dueña injerta
 en el mismo Satanás.
-
+</sp>
+<sp>
 OTÁÑEZ
 Denla ustedes una tunda,
 que Otáñez ayudará.
-
+</sp>
+<sp>
 SOLDADO
 Ea, sosiéguense todos;
 reinas mías, no haya más,
 porque en día tan alegre
 no ha de haber ningún pesar.
-
+</sp>
+<sp>
 MUJER UNO
+<!-- ¿normalizar la linea siguiente?-->
 Aparte, seor tornillero.
-
+</sp>
+<sp>
 MUJER DOS
 Quite, pájaro Tornay.
-
+</sp>
+<sp>
 ESTUDIANTE
 Demos fin al entremés.
-
+</sp>
+<sp>
 SOLDADO
 ¿Yéndonos?
-
+</sp>
+<sp>
 OTÁÑEZ
           <l part="F">No, porque es ya</l>
 
 de tabla la seguidilla
 para poderle acabar.
+</sp>
 
-(Canta Otáñez.)
+<stage>(Canta Otáñez.)</stage>
 
+<sp>
 OTÁÑEZ
 No haya más, niñas mías,
 dense las manos.
-
+</sp>
+<sp>
 MUJER UNO
 Muy fácil es esa,
 siendo en el Rastro.
+</sp>
 
-(Repiten bailando y dase fin.)
+<stage>(Repiten bailando y dase fin.)</stage>
 
 </div>
 
