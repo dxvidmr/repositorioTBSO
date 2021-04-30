@@ -51,8 +51,8 @@
         </profileDesc>
     </teiHeader>
     
-<text>
-    <front>
+    <text>
+        <front>
             <head>
                 Entremés de las vendederas en la puerta del Rastro
             </head>
@@ -81,574 +81,585 @@
         
         <body>
         
-        <div>
-        
-        <stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
-        
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Manos y cuajares vendo,</l>
-            <l>y en esta puerta del Rastro,</l>
-            <l>aunque vendiendo los pelo,</l>
-            <l>a vender no me doy manos.</l>
-            <l>Lleven cuajares los que</l>
-            <l>al carnero no han hallado</l>
-            <l>costilla porque no tienen</l>
-            <l>costilla para comprarlo.</l>
-            <l>Venid, llevad cuajares</l>
-            <l>y manos a millares,</l>
-            <l>pobretes presumidos,</l>
-            <l>que aunque estéis mal comidos,</l>
-            <l>con un palillo armados,</l>
-            <l>engañarnos queréis siendo engañados.</l>
-        </sp>
-        
-        <stage>(Pónese con su cesta a un lado del tablado. Sale la que vende morcillas, con otra cesta, y canta.)</stage> 
-        
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Morcillas vendo famosas,</l>
-            <l>gentilhombres del trabajo,</l>
-            <l>que todo un caldero de agua</l>
-            <l>en lavarlas he gastado.</l>
-            <l>De sangre castiza son,</l>
-            <l>yo lo tengo averiguado,</l>
-            <l>que el albéitar me juró</l>
-            <l>que es de castizos caballos.</l>
-            <l>Venid, llegad, bribones,</l>
-            <l>que, en no siendo gorrones,</l>
-            <l>la sangre de un rocín</l>
-            <l>os sabe a francolín</l>
-            <l>y las sucias cosillas</l>
-            <l>decís que son especia en mis morcillas.</l>
-        </sp>
-        
-        <stage>(Pone la cesta junto a la de la primera.) </stage>
-        
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Hágase allá con su cesta.</l>
-        </sp>
+            <div>
+            
+            <stage>(Sale la que vende manos y cuajares con una cesta y canta.)</stage>
+            
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Manos y cuajares vendo,</l>
+                <l>y en esta puerta del Rastro,</l>
+                <l>aunque vendiendo los pelo,</l>
+                <l>a vender no me doy manos.</l>
+                <l>Lleven cuajares los que</l>
+                <l>al carnero no han hallado</l>
+                <l>costilla porque no tienen</l>
+                <l>costilla para comprarlo.</l>
+                <l>Venid, llevad cuajares</l>
+                <l>y manos a millares,</l>
+                <l>pobretes presumidos,</l>
+                <l>que aunque estéis mal comidos,</l>
+                <l>con un palillo armados,</l>
+                <l>engañarnos queréis siendo engañados.</l>
+            </sp>
+            
+            <stage>(Pónese con su cesta a un lado del tablado. Sale la que vende morcillas, con otra cesta, y canta.)</stage> 
+            
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Morcillas vendo famosas,</l>
+                <l>gentilhombres del trabajo,</l>
+                <l>que todo un caldero de agua</l>
+                <l>en lavarlas he gastado.</l>
+                <l>De sangre castiza son,</l>
+                <l>yo lo tengo averiguado,</l>
+                <l>que el albéitar me juró</l>
+                <l>que es de castizos caballos.</l>
+                <l>Venid, llegad, bribones,</l>
+                <l>que, en no siendo gorrones,</l>
+                <l>la sangre de un rocín</l>
+                <l>os sabe a francolín</l>
+                <l>y las sucias cosillas</l>
+                <l>decís que son especia en mis morcillas.</l>
+            </sp>
+            
+            <stage>(Pone la cesta junto a la de la primera.) </stage>
+            
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Hágase allá con su cesta.</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Ella es la de hágase allá.</l>
-            <l part="I">¡Qué grosera!</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Ella es la de hágase allá.</l>
+                <l part="I">¡Qué grosera!</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l part="F">Sus morcillas,</l>
-        </sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l part="F">Sus morcillas,</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>¿Estarán mejor sus manos?</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>¿Estarán mejor sus manos?</l>
+            </sp>
 
-        <sp who="#mujer1">        
-            <speaker>MUJER UNO</speaker>
-            <l>Por lo limpio, claro está,</l>
-            <l part="I">y por peladas.</l>
-        </sp>
+            <sp who="#mujer1">        
+                <speaker>MUJER UNO</speaker>
+                <l>Por lo limpio, claro está,</l>
+                <l part="I">y por peladas.</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l part="F">Es cierto</l>
-            <l>que está muy diestra en pelar.</l>
-        </sp>
-        
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>A mí no me ladran perros.</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="F">Es cierto</l>
+                <l>que está muy diestra en pelar.</l>
+            </sp>
+            
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>A mí no me ladran perros.</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Dice usted mucha verdad</l>
-            <l>porque, si son perros muertos,</l>
-            <l>¿cómo la pueden ladrar?</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Dice usted mucha verdad</l>
+                <l>porque, si son perros muertos,</l>
+                <l>¿cómo la pueden ladrar?</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Lo tuyo me dices, tonta,</l>
-            <l>ese es adagio vulgar,</l>
-            <l>que yo en los antes de amor</l>
-            <l>recojo mi pegujar.</l>
-        </sp>
-        
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Hace bien que, si no usara</l>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Lo tuyo me dices, tonta,</l>
+                <l>ese es adagio vulgar,</l>
+                <l>que yo en los antes de amor</l>
+                <l>recojo mi pegujar.</l>
+            </sp>
+            
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Hace bien que, si no usara</l>
+                <!-- ¿normalizar la linea siguiente?-->
+                <l>antes desa habelidad,</l>
+                <l>y a los postres esperara,</l>
+                <l>no hallara ni para un pan.</l>
+            </sp>
 
-<!-- ¿normalizar la linea siguiente?-->
-            <l>antes desa habelidad,</l>
-            <l>y a los postres esperara,</l>
-            <l>no hallara ni para un pan.</l>
-        </sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Mientes y si me levanto...</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Mientes y si me levanto...</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Gentil pavana, ¿qué hará?</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Gentil pavana, ¿qué hará?</l>
-        </sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Te pelaré esa cabeza.</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Te pelaré esa cabeza.</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Pies sabe pelar y aun mal.</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Pies sabe pelar y aun mal.</l>
-        </sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Arañarete esa cara.</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Arañarete esa cara.</l>
-        </sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Por uñas no quedará,</l>
+                <l>pues de carneros y suyas</l>
+                <l>se compone su caudal.</l>
+            </sp>
 
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Por uñas no quedará,</l>
-            <l>pues de carneros y suyas</l>
-            <l>se compone su caudal.</l>
-        </sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Porque viene gente callo.</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Porque viene gente callo.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-
-<!-- ¿normalizar la linea siguiente?-->
-            <l>¡Oh, qué escusa tan venial!</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>No llame a mis parroquianos,</l>
-            <l>que juzgo la pesará.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l part="I">¿Mucho?</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l part="M">Y remucho.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l part="F">Con eso,</l>
-            <l>muy buen despacho tendrá</l>
-            <l part="I"> mi hacienda.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l part="F">¿Por qué lo dice?</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Porque lo digo y no más.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Razón de cabo de escuadra.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Dale bola y preguntar,</l>
-            <l>porque ¿son sus parroquianos</l>
-            <l>cuantos en Madrid están?</l>
-        </sp>
-
-<stage>(Cantan lo de abajo empezando la primera dama como está anotado.) </stage>
-
-<stage>(Canta la primera.)</stage>
-
-        <sp who="#mujer1">
-            <l>Manos y cuajares</l>
-            <l>lleven a millares.</l>
-        </sp>
-
-<stage>(Canta la segunda.)</stage>
-
-        <sp who="#mujer1">
-            <l>Lleven mis morcillas</l>
-            <l>a las Maravillas.</l>
-        </sp>
-
-<stage>(Sale el Estudiante como que oye cantar.)</stage>
-
-        <sp who="#estudiante">
-            <speaker>ESTUDIANTE</speaker>
-            <l>A las Maravillas dice</l>
-            <l>esta que se han de llevar</l>
-            <l>sus morcillas, lejos es;</l>
-            <l>pero alguna me dará.</l>
-            <l>Aquí tiene un quídam pauper</l>
-            <l>que esa cesta cargará</l>
-            <l>y en las mismas Maravillas</l>
-            <l>las morcillas la pondrá.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l part="I">¿Todas?</l>
-        </sp>
-
-        <sp who="#estudiante">
-            <speaker>ESTUDIANTE</speaker>
-            <l part="F">Y aun dos mil que hubiera.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>¡Brava venta! ¿Cuál está</l>
-            <l>la vecina mi señora?</l>
-        </sp>
-
-        <sp who="#mujer1"> 
-            <speaker>MUJER UNO</speaker>
-            <l part="I">Venda y calle.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l part="F">Venderán.</l>
-        </sp>
-
-<stage>(Sale un Soldado ridículo por el lado donde están las manos y cuajares.) </stage>
-
-        <sp who="#soldado">
-            <speaker>SOLDADO</speaker>
-            <l>Si a millares los cuajares</l>
-            <l>y manos se han de llevar,</l>
-            <l>aquí tiene usted, mi reina,</l>
-            <l>quien todos los llevará.</l>
-            <l>En la calle de León</l>
-            <l>mi contaduría está,</l>
-            <l>adonde en muy breve rato</l>
-            <l>todas se las sumarán.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l part="I">¿Todas?</l>
-        </sp>
-
-        <sp>
-            <speaker>SOLDADO</speaker>
-            <l part="F">Y aun dos mil que hubiera.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>¡Brava venta! ¿Cuál está</l>
-            <l>la vecina, mi señora?</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l part="I">Venda y calle.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l part="F">Venderán.</l>
-        </sp>
-
-        <sp who="#mujer2">
-            <speaker>MUJER DOS</speaker>
-            <l>Ya sabe que soy un diablo.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Yo soy dos, que es uno más.</l>
-        </sp>
-
-<stage>(Sale la Dueña, y Otáñez, escudero.)</stage>
-
-        <sp who="#duena">
-            <speaker>DUEÑA</speaker>
-            <l>Ande, Otáñez, que es pesado.</l>
-            <l>Ya no sabe acompañar.</l>
-        </sp>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
-            <l>Si ha dos horas que salimos</l>
-            <l>de misa de San Millán</l>
-            <l>y al Rastro vamos llegando,</l>
-            <l>¿qué más prisa me he de dar?</l>
-            <l>Y las piernas me rehílan</l>
-            <!-- aquí hay una línea libre... falta texto?-->
-            <l>del cansancio, ¿hay cosa tal?</l>
-        </sp>
-
-        <sp who="#duena">
-            <speaker>DUEÑA</speaker>
-            <l>Lléguese a aquesas mujeres</l>
-            <l> y pregunte si tendrán</l>
-            <l>un poco de hígado blanco.</l>
-        </sp>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
-            <l part="I">¿Hígado qué?</l>
-        </sp>
-
-        <sp who="#duena">
-            <speaker>DUEÑA</speaker>
-            <l part="F">Gran patán,</l>
-            <l>hígado blanco le digo.</l>
-        </sp>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
-            <l>Lléguelo usté a preguntar,</l>
-            <l>que me huele a chilindrina</l>
-            <l>y estas damas del porcal,</l>
-            <l>como ellas huelen tan bien,</l>
-            <l>lo olerán y me darán.</l>
-        </sp>
-
-        <sp who="duena">
-            <speaker>DUEÑA</speaker>
-            <l>Llegue, no sea majadero.</l>
-        </sp>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
-            <l>Ello por su cuenta va;</l>
-            <l>digo: ¿y es hígado blanco,</l>
-            <l>si bien me quiero acordar,</l>
-            <l>lo que yo llamo criadillas?</l>
-        </sp>
-
-        <sp who="#duena">
-            <speaker>DUEÑA</speaker>
-            <l>Sí, ¡qué hombre tan trivial!</l>
-        </sp>
-
-<stage>(Llégase a la que vende las manos.)</stage>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
-            <l>Guarde Dios a vuesarced.</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Si algo me quiere comprar,</l>
-            <l>ya están mis manos vendidas.</l>
-        </sp>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
-<!-- ¿normalizar la linea siguiente?-->
-            <l>¿Y dese modo que están?</l>
-        </sp>
-
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Yo digo las de la cesta,</l>
-            <l>Rodrigo, y no el de Vivar.</l>
-        </sp>
-
-        <sp who="#escudero">
-            <speaker>OTÁÑEZ</speaker>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
             <!-- ¿normalizar la linea siguiente?-->
-            <l>¡Oh!, pues si fueran esotras,</l>
-            <l>¿dónde se hallará caudal?</l>
-        </sp>
+                <l>¡Oh, qué escusa tan venial!</l>
+            </sp>
 
-        <sp who="#mujer1">
-            <speaker>MUJER UNO</speaker>
-            <l>Buenos chicolios gasta;</l>
-            <l>hágase el menguado atrás.</l>
-        </sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>No llame a mis parroquianos,</l>
+                <l>que juzgo la pesará.</l>
+            </sp>
 
-<sp>
-OTÁÑEZ
-Un hígado blanco pido,
-que a usted se le pagará
-aun a más de la postura.
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="I">¿Mucho?</l>
+            </sp>
 
-<sp>
-MUJER UNO
-Mi vecina le tendrá,
-que es ahigadada.
-</sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l part="M">Y remucho.</l>
+            </sp>
 
-<sp>
-MUJER DOS
-                 <l part="F">Ya he dicho</l>
-que llaman santo al callar.
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="F">Con eso,</l>
+                <l>muy buen despacho tendrá</l>
+                <l part="I"> mi hacienda.</l>
+            </sp>
 
-<stage>(Llégase a la de las morcillas.)</stage>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l part="F">¿Por qué lo dice?</l>
+            </sp>
 
-<sp>
-OTÁÑEZ
-¿Tendrá usted hígado?
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Porque lo digo y no más.</l>
+            </sp>
 
-<sp>
-MUJER DOS
-                      <l part="F">Tengo.</l>
-</sp>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Razón de cabo de escuadra.</l>
+            </sp>
 
-<sp>
-OTÁÑEZ
-Eso sí, pese a mi mal;
-blanco, digo.
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Dale bola y preguntar,</l>
+                <l>porque ¿son sus parroquianos</l>
+                <l>cuantos en Madrid están?</l>
+            </sp>
 
-<sp>
-MUJER DOS
-              <l part="F">Y colorado,</l>
-negro y azul; ¿quiere más?
-Y llévese ahora del negro
-y vuelva mañana acá.
-</sp>
+            <stage>(Cantan lo de abajo empezando la primera dama como está anotado.) </stage>
 
-<stage>(Dale con una morcilla en la cara.)</stage>
+            <stage>(Canta la primera.)</stage>
 
-<sp>
-OTÁÑEZ
-Eso es mucha porquería.
-</sp>
-<sp>
-MUJER DOS
-Si es morcilla, claro está.
-</sp>
+            <sp who="#mujer1">
+                <l>Manos y cuajares</l>
+                <l>lleven a millares.</l>
+            </sp>
 
-<stage>(Llégase a la de las manos.)</stage>
+            <stage>(Canta la segunda.)</stage>
 
-<sp>
-OTÁÑEZ
-Présteme usted una mano
-con que me pueda vengar.
-</sp>
+            <sp who="#mujer1">
+                <l>Lleven mis morcillas</l>
+                <l>a las Maravillas.</l>
+            </sp>
 
-<sp>
-MUJER UNO
-Tome.
-</sp>
+            <stage>(Sale el Estudiante como que oye cantar.)</stage>
 
-<stage>(Dale con una mano de carnero.) </stage>
+            <sp who="#estudiante">
+                <speaker>ESTUDIANTE</speaker>
+                <l>A las Maravillas dice</l>
+                <l>esta que se han de llevar</l>
+                <l>sus morcillas, lejos es;</l>
+                <l>pero alguna me dará.</l>
+                <l>Aquí tiene un quídam pauper</l>
+                <l>que esa cesta cargará</l>
+                <l>y en las mismas Maravillas</l>
+                <l>las morcillas la pondrá.</l>
+            </sp>
 
-<sp>
-OTÁÑEZ
-      <l part="F">Paso, niña mía,</L>
-que no lo dije por tal.
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="I">¿Todas?</l>
+            </sp>
 
-<sp>
-DUEÑA
-¿A mi escudero, picañas?
-</sp>
-<sp>
-MUJER UNO
-Hágase la dueña allá,
-que si me enfado, mis manos
-la sabrán bien manotear.
-</sp>
-<sp>
-DUEÑA
-Yo haré a mi primo, el portero,
-que aquí en el repeso está,
-que os ponga en un palo.
-</sp>
-<sp>
-MUJER DOS
-Y es de linaje que lo hará
-</sp>
-<sp>
-SOLDADO
-<!-- ¿normalizar la linea siguiente?-->
-Repórtense, ¿qué es aquesto?
-¿Que estoy aquí no verán?
-</sp>
-<sp>
-ESTUDIANTE
-Va de arredro, dueña injerta
-en el mismo Satanás.
-</sp>
-<sp>
-OTÁÑEZ
-Denla ustedes una tunda,
-que Otáñez ayudará.
-</sp>
-<sp>
-SOLDADO
-Ea, sosiéguense todos;
-reinas mías, no haya más,
-porque en día tan alegre
-no ha de haber ningún pesar.
-</sp>
-<sp>
-MUJER UNO
-<!-- ¿normalizar la linea siguiente?-->
-Aparte, seor tornillero.
-</sp>
-<sp>
-MUJER DOS
-Quite, pájaro Tornay.
-</sp>
-<sp>
-ESTUDIANTE
-Demos fin al entremés.
-</sp>
-<sp>
-SOLDADO
-¿Yéndonos?
-</sp>
-<sp>
-OTÁÑEZ
-          <l part="F">No, porque es ya</l>
+            <sp who="#estudiante">
+                <speaker>ESTUDIANTE</speaker>
+                <l part="F">Y aun dos mil que hubiera.</l>
+            </sp>
 
-de tabla la seguidilla
-para poderle acabar.
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>¡Brava venta! ¿Cuál está</l>
+                <l>la vecina mi señora?</l>
+            </sp>
 
-<stage>(Canta Otáñez.)</stage>
+            <sp who="#mujer1"> 
+                <speaker>MUJER UNO</speaker>
+                <l part="I">Venda y calle.</l>
+            </sp>
 
-<sp>
-OTÁÑEZ
-No haya más, niñas mías,
-dense las manos.
-</sp>
-<sp>
-MUJER UNO
-Muy fácil es esa,
-siendo en el Rastro.
-</sp>
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="F">Venderán.</l>
+            </sp>
 
-<stage>(Repiten bailando y dase fin.)</stage>
+            <stage>(Sale un Soldado ridículo por el lado donde están las manos y cuajares.) </stage>
 
-</div>
+            <sp who="#soldado">
+                <speaker>SOLDADO</speaker>
+                <l>Si a millares los cuajares</l>
+                <l>y manos se han de llevar,</l>
+                <l>aquí tiene usted, mi reina,</l>
+                <l>quien todos los llevará.</l>
+                <l>En la calle de León</l>
+                <l>mi contaduría está,</l>
+                <l>adonde en muy breve rato</l>
+                <l>todas se las sumarán.</l>
+            </sp>
 
-</body>
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l part="I">¿Todas?</l>
+            </sp>
 
-</text>
+            <sp>
+                <speaker>SOLDADO</speaker>
+                <l part="F">Y aun dos mil que hubiera.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>¡Brava venta! ¿Cuál está</l>
+                <l>la vecina, mi señora?</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="I">Venda y calle.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l part="F">Venderán.</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Ya sabe que soy un diablo.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Yo soy dos, que es uno más.</l>
+            </sp>
+
+            <stage>(Sale la Dueña, y Otáñez, escudero.)</stage>
+
+            <sp who="#duena">
+                <speaker>DUEÑA</speaker>
+                <l>Ande, Otáñez, que es pesado.</l>
+                <l>Ya no sabe acompañar.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Si ha dos horas que salimos</l>
+                <l>de misa de San Millán</l>
+                <l>y al Rastro vamos llegando,</l>
+                <l>¿qué más prisa me he de dar?</l>
+                <l>Y las piernas me rehílan</l>
+                <!-- aquí hay una línea libre... falta texto?-->
+                <l>del cansancio, ¿hay cosa tal?</l>
+            </sp>
+
+            <sp who="#duena">
+                <speaker>DUEÑA</speaker>
+                <l>Lléguese a aquesas mujeres</l>
+                <l> y pregunte si tendrán</l>
+                <l>un poco de hígado blanco.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l part="I">¿Hígado qué?</l>
+            </sp>
+
+            <sp who="#duena">
+                <speaker>DUEÑA</speaker>
+                <l part="F">Gran patán,</l>
+                <l>hígado blanco le digo.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Lléguelo usté a preguntar,</l>
+                <l>que me huele a chilindrina</l>
+                <l>y estas damas del porcal,</l>
+                <l>como ellas huelen tan bien,</l>
+                <l>lo olerán y me darán.</l>
+            </sp>
+
+            <sp who="duena">
+                <speaker>DUEÑA</speaker>
+                <l>Llegue, no sea majadero.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Ello por su cuenta va;</l>
+                <l>digo: ¿y es hígado blanco,</l>
+                <l>si bien me quiero acordar,</l>
+                <l>lo que yo llamo criadillas?</l>
+            </sp>
+
+            <sp who="#duena">
+                <speaker>DUEÑA</speaker>
+                <l>Sí, ¡qué hombre tan trivial!</l>
+            </sp>
+
+            <stage>(Llégase a la que vende las manos.)</stage>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Guarde Dios a vuesarced.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Si algo me quiere comprar,</l>
+                <l>ya están mis manos vendidas.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+            <!-- ¿normalizar la linea siguiente?-->
+                <l>¿Y dese modo que están?</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Yo digo las de la cesta,</l>
+                <l>Rodrigo, y no el de Vivar.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <!-- ¿normalizar la linea siguiente?-->
+                <l>¡Oh!, pues si fueran esotras,</l>
+                <l>¿dónde se hallará caudal?</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Buenos chicolios gasta;</l>
+                <l>hágase el menguado atrás.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Un hígado blanco pido,</l>
+                <l>que a usted se le pagará</l>
+                <l>aun a más de la postura.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Mi vecina le tendrá,</l>
+                <l part="I">que es ahigadada.</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="F">Ya he dicho</l>
+                <l>que llaman santo al callar.</l>
+            </sp>
+
+            <stage>(Llégase a la de las morcillas.)</stage>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l part="I">¿Tendrá usted hígado?</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="F">Tengo.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Eso sí, pese a mi mal;</l>
+                <l part="I">blanco, digo.</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l part="F">Y colorado,</l>
+                <l>negro y azul; ¿quiere más?</l>
+                <l>Y llévese ahora del negro</l>
+                <l>y vuelva mañana acá.</l>
+            </sp>
+
+            <stage>(Dale con una morcilla en la cara.)</stage>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Eso es mucha porquería.</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Si es morcilla, claro está.</l>
+            </sp>
+
+            <stage>(Llégase a la de las manos.)</stage>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Présteme usted una mano</l>
+                <l>con que me pueda vengar.</l>
+            </sp>
+
+            <sp who="#mujer1"> 
+                <speaker>MUJER UNO</speaker>
+                <l part="I">Tome.</l>
+            </sp>
+
+            <stage>(Dale con una mano de carnero.) </stage>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l part="F">Paso, niña mía,</l>
+                <l>que no lo dije por tal.</l>
+            </sp>
+
+            <sp who="#duena">
+                <speaker>DUEÑA</speaker>
+                <l>¿A mi escudero, picañas?</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Hágase la dueña allá,</l>
+                <l>que si me enfado, mis manos</l>
+                <l>la sabrán bien manotear.</l>
+            </sp>
+
+            <sp who="#duena">
+                <speaker>DUEÑA</speaker>
+                <l>Yo haré a mi primo, el portero,</l>
+                <l>que aquí en el repeso está,</l>
+                <l>que os ponga en un palo.</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Y es de linaje que lo hará</l>
+            </sp>
+
+            <sp who="#soldado">
+                <speaker>SOLDADO</speaker>
+                <!-- ¿normalizar la linea siguiente?-->
+                <l>Repórtense, ¿qué es aquesto?</l>
+                <l>¿Que estoy aquí no verán?</l>
+            </sp>
+
+            <sp who="#estudiante">
+                <speaker>ESTUDIANTE</speaker>
+                <l>Va de arredro, dueña injerta</l>
+                <l>en el mismo Satanás.</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>Denla ustedes una tunda,</l>
+                <l>que Otáñez ayudará.</l>
+            </sp>
+
+            <sp who="#soldado">
+                <speaker>SOLDADO</speaker>
+                <l>Ea, sosiéguense todos;</l>
+                <l>reinas mías, no haya más,</l>
+                <l>porque en día tan alegre</l>
+                <l>no ha de haber ningún pesar.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <!-- ¿normalizar la linea siguiente?-->
+                <l>Aparte, seor tornillero.</l>
+            </sp>
+
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
+                <l>Quite, pájaro Tornay.</l>
+            </sp>
+
+            <sp who="#estudiante">
+                <speaker>ESTUDIANTE</speaker>
+                <l>Demos fin al entremés.</l>
+            </sp>
+
+            <sp who="#soldado">
+                <speaker>SOLDADO</speaker>
+                <l part="I">¿Yéndonos?</l>
+            </sp>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l part="F">No, porque es ya</l>
+                <l>de tabla la seguidilla</l>
+                <l>para poderle acabar.</l>
+            </sp>
+
+            <stage>(Canta Otáñez.)</stage>
+
+            <sp who="#escudero">
+                <speaker>OTÁÑEZ</speaker>
+                <l>No haya más, niñas mías,</l>
+                <l>dense las manos.</l>
+            </sp>
+
+            <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
+                <l>Muy fácil es esa,</l>
+                <l>siendo en el Rastro.</l>
+            </sp>
+
+            <stage>(Repiten bailando y dase fin.)</stage>
+
+            </div>
+
+        </body>
+
+    </text>
 
 </TEI>
