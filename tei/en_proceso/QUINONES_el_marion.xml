@@ -82,21 +82,21 @@
 
 			<stage>(Salen CATALINA y JUANA y ZURRÓN)</stage>
 
-			<sp>
+			<sp who="#catalina">
 				<speaker>CATALINA</speaker>
-				<l>Vámonos poco á poco, hermana Juana,</l>
+				<l>Vámonos poco a poco, hermana Juana,</l>
 				<l>que es mucha mi razón y más mi cólera,</l>
 				<l>y ya sabéis que no sufro cosquillas.</l>
 			</sp>
 
-			<sp>
+			<sp who="#juana">
 				<speaker>JUANA</speaker>
 				<l>Catalina salgamos de mantillas</l>
 				<l>y no hagas aniñadas necedades,</l>
 				<l>que es afrentar tus muchas Navidades.</l>
 			</sp>
 
-			<sp>
+			<sp who="#catalina">
 				<speaker>CATALINA</speaker>
 				<l>¡Ay, que me llama vieja! Pues, ¡menguada!,</l>
 				<l>cree verás deshechos tus engaños.</l>
@@ -106,376 +106,505 @@
 				<l>aetatis suae cuatrocientos años.</l>
 			</sp>
 
-			<sp>
+			<sp who="#juana">
 				<speaker>JUANA</speaker> 
 				<l>Y las mías, morena, ¿son holgonas?</l>
 				<l>pues su poquito tienen de escobonas.</l>
 			</sp>
 
-			<sp>
+			<sp who="#zurron">
 				<speaker>ZURRÓN</speaker>
 				<l>Repórtense vuestedes, que entre hermanas</l>
 				<l>parece mal haber comonidades.</l>
 			</sp>
 
-			<sp>
+			<sp who="#catalina">
 				<speaker>CATALINA</speaker>
-				<l>¿Á mí que tengo muchas Navidades?</l>
-				<l>¿A la misma niñez, á la hermosura?</l>
+				<l>¿A mí que tengo muchas Navidades?</l>
+				<l>¿A la misma niñez, a la hermosura?</l>
 				<l>¡A mí, que cuando salgo por la calle</l>
 				<l>llevo colgando, dando al mundo espanto,</l>
 				<l>un alma en cada punta de mi manto</l>
 				<l>arrojando los cuerpos como cáscaras!</l>
-				<l>Viva te he de comer.</l>
+				<l part="I">Viva te he de comer.</l>
 			</sp>
 			
-JUANA
-					Porque riades.
-
-CATALINA
-¿Á mí, que tengo muchas Navidades?
-
-JUANA
-¿Oís, señor?: allí la escuece.
-
-ZURRÓN
-Oigámonos, señoras:
-¿estoy aquí por bestia? Sean amigas,
-pues no hay agravio.
-
-CATALINA
-					¿Cómo no hay agravio?
-Si me llamara sucia, tonta ó fea,
-azotada, judía ó cualquier cosa,
-cualquier satisfacción me fuera honrosa;
-mas agravio de vieja no se lava
-sino con palos.
-
-ZURRÓN
-				Peor está que estaba.
-Hagamos, digo, estas amistades.
-
-CATALINA
-¿A mí, que tengo muchas Navidades?
-
-JUANA
-¡Dalle que dalle!
-
-ZURRÓN
-				Aqueste torbellino
-¿por qué se levantó?
-
-JUANA
-					Porque mi hermana
-quiere un mozo que quiero.
-
-ZURRÓN
-						¡Lindo cuento!
-¿Y quién es él?
-
-CATALINA
-				Zurrón, estame atento.
-Hay en este lugar un mozalbito
-en sus acciones tan afeminado
-que en parecer mujer pone el cuidado.
-Hácenos á las dos dos mil desdenes;
-habla con sonsonete y reverencia;
-pica de manos blancas y me agrada
-por aqueste camino, y aquí á Juana
-también le cayó en gracia.
-
-ZURRÓN
-						¿Y es su nombre?
-
-CATALINA
-Marión.
-
-ZURRÓN
-	¡Marión!
-
-JUANA
-		¿De qué es la risa?
-
-ZURRÓN
-Mejor es que le llamen doña Luisa.
-¡Miren aquí qué gusto de doncellas!
-¡Marión! Bercebú cargue con ellas.
-
-JUANA
-Ahora bien, por volver por nuestro gusto
-le has de ver.
-
-ZURRÓN
-		Vamos, pues, que yo prometo
-de acomodar aquestas amistades.
-
-CATALINA
-Menos aquello de las Navidades.
-
-JUANA
-¡Ya escampa!
-
-ZURRÓN
-		Y si á ninguna se inclinase
-yo os dejaré vengadas.
-
-JUANA
-			Eso pido.
-Esta es la casa.
-
-CATALINA
-		Llama sin ruido.
-
-JUANA
-¡Ah de casa!
-
-(Asómase una criada.)
-
-CRIADA
-		¿Quién es?
-
-CATALINA
-				Señora hermosa,
-al señor Marión.
-
-CRIADA
-		¡Lindo recado!
-No, hay que aguardar, que aun no está tocado.
-
-ZURRÓN
-Pues, ¿tócase?
-
-CRIADA
-		¡Qué lindo majadero!
-En sólo las haldillas del sombrero
-más que si se tocara se detiene.
-
-ZURRÓN
-¡Donoso Marión!
-
-CRIADA
-		Pero ya viene.
-
-(Vase y sale MARIÓN.)
-
-MARIÓN.
-¡Jesús, qué pelotera y tabahola!
-En verdad que entendí que era otra cosa.
-¡Miren, pues, quién llamaba sino un hombre
-y dos melindrositas! Paso, paso.
-¡Jesús eterno y qué terrible caso!
-Pues ¡bonito soy yo para esas cosas!
-
-CATALINA
-Señor mío, ¿por qué tantos desdenes?
-
-MARIÓN.
-Quita de ahí, friona, con qué vienes.
-¡Amiguito soy yo de atrevimientos!
-
-JUANA
-Oiga vuested un par de casamientos.
-MARIÓN.
-¿Hay tal descompostura, en mi presencia?
-¡Miren agora con la impertinencia
-que venían muy sesgas y mirladas,
-que es para mi humor muy buen despacho.
-¡Casamentico! ¿Estaba yo borracho?
-
-CATALINA
-¡Qué bellas manos tiene!
-Hermana, ¿no parecen naterones?
-
-MARIÓN.
-¡Callen por Dios!; están hechas tizones.
-Solían… pero no sé que me diga;
-claro está que ha de entrar mal ojo en ellas,
-que de antes se mataban para vellas.
-
-JUANA
-¿Y á esto del casamiento qué responde?
-
-MARIÓN.
-¡Jesús eterno y qué disparatazo! 
-¿A mí me habrá de ver nadie desnudo?
-Apostaré que luego me muriera.
-No lo alcanzó en diez años una tía,
-cuanto más ellas. ¡Con qué vienen!
-De sólo oillo mentar me da zollipo:
-¡Jesús, qué susto! Dios se lo perdone.
-
-CATALINA
-Pues no tiene remedio, hay consejo,
-que queremos las dos tomar estado.
-¿Qué le parece aquel galán letrado?
-
-MARIÓN.
-¡Jesús y qué enfadoso! No le mientes,
-que es hombre que pretende por los dientes.
-Gasta coral, sangre de drago, búcaros,
-raíces de nogal y piedra pómiz,
-excusando el comer por no ensuciallos,
-riéndose sin gana por mostrallos,
-y si hacéis una gala en nombre suyo
-y pedís para algunos adherentes.
-
-JUANA
-¡Donosa cosa si por vida mía!
-Es mejor el galán de la otra noche.
-
-MARIÓN.
-Aun aquese parece cosa justa,
-que es tan galán que siempre trae en la mano
-el sombrero á pesar de la mollera
-por no desordenar rizo y cadera.
-Trae contados los pelos del bigote.
-Cayósele uno estándolos peinando
-y un día entero andúvole buscando
-diciendo: si le hallo, en testimonio
-yo prometo una misa á San Antonio.
-
-(Sale una tapada.)
-
-[ZURRÓN]
-Este sí que es galán y no vinagres
-sin cuenta ni razón.
-
-[MARIÓN.]
-			¡Jesús eterno!
-¿Tapadas en mi casa? ¡Lindo aliño!
-Medraremos por cierto.
-
-CATALINA
-				Cumpla, hermano,
-que conmigo muy tarde lo comienza.
-
-MARIÓN.
-¡Jesús y qué terrible desvergüenza!
-¿Por mí había de venir? (Abrázalo.)
-
-JUANA
-			No sino al alba.
-
-MARIÓN.
-Espérate y veremos. ¡Ay, amiga,
-qué bizarra que estás! Dios te bendiga,
-alza el paramento: ¿por qué te tapas?
-¿Descubres al primer tapón zurrapas?
-Guárdenos Dios de gente melindrosa.
-Descubre, acaba ya.
-
-(Descúbrese ZURRÓN y da á MARIÓN con un paño de harina.)
-
-ZURRÓN
-			No me lo mande.
-
-MARIÓN.
-¡Jesús eterno, qué frialdad tan grande!
-¡Con la gracia que viene el tamañito!
-¿Soy pez, que me enharina para frito?
-¡Qué bobería! Sólo por su gusto
-se me volviera el cuajo con el susto.
-¡Medráramos muy bien por vida mía!;
-que me pudiera dar alferecía.
-¡Qué malas burlas! Quite con los diablos.
-No acabo de volver: ¡qué impertinencia!
-Muy de veras lo digo en mi conciencia.
-
-CATALINA
-Ahora bien, quitémosle este miedo
-con una letra y baile.
-
-JUANA
-			Que se haga.
-
-MARIÓN.
-¡Jesús eterno, qué enfadosa paga!
-Como ese baile, yo no quiero.
-
-ZURRÓN
-					Calle.
-Oiga esta letra y este alegre tono.
-
-MARIÓN.
-Si bailan bien, la burla les perdono.
-
-(Cantan.)
-Éranse dos niñas
-bellas como el sol,
-con ojuelos negros
-blancos del amor,
-y érase un mocito
-que su corazón
-rinde por despojos
-á una de las dos.
-Érase otra moza
-cuya condición
-á dos mancebitos
-trata con rigor.
-Todos van bailando
-con gracia y primor
-esta letra alegre
-y este alegre son.
-
-JUANA
-¡Socorro, socorro presto,
-que á la casa del amor
-interés ha puesto fuego
-con poderosa traición!
-¡Fuego, fuego, señores,
-toquen á fuego,
-que se abrasa la casa,
-del niño ciego,
-y en lugar de centellas
-saltan dineros!
-Toquen á fuego,
-¡socorro presto!
-
-SOLO.
-¡Que se abrasa la casa!
-
-TODOS.
-Toquen, toquen á fuego.
-
-SOLO.
-Que de límite pasa.
-
-TODOS.
-Toquen.
-
-SOLO.
-Qué interés lo ha causado.
-
-TODOS.
-Toquen.
-
-SOLO.
-Que el amor ha acabado.
-
-TODOS.
-Toquen. ¡Fuego, fuego!, etc.
-Este pronóstico escuche,
-que declara los efectos
-de una maligna cometa
-vista en el signo de hierro.
-
-SOLO.
-El pronóstico nuevo,
-señoras mozas,
-desde año en que estamos
-¿quién no le compra?
-Será el año estéril
-de pastelones,
-por criarse marrajos
-todos los hombres,
-y aunque seca denota
-la primavera
-mejoría promete
-con flores nuevas.
-El cometa que llaman
-poco dinero
-amenaza abundancia
-de perros muertos.
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="F">Porque riades.</l>
+			</sp>
+
+			<sp who="#catalina"> 
+				<speaker>CATALINA</speaker>
+				<l>¿A mí, que tengo muchas Navidades?</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l>¿Oís, señor?: allí la escuece.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l>Oigámonos, señoras:</l>
+				<l>¿estoy aquí por bestia? Sean amigas,</l>
+				<l part="I">pues no hay agravio.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l part="F">¿Cómo no hay agravio?</l>
+				<l>Si me llamara sucia, tonta ó fea,</l>
+				<l>azotada, judía ó cualquier cosa,</l>
+				<l>cualquier satisfacción me fuera honrosa;</l>
+				<l>mas agravio de vieja no se lava</l>
+				<l part="I">sino con palos.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">Peor está que estaba.</l>
+				<l>Hagamos, digo, estas amistades.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l>¿A mí, que tengo muchas Navidades?</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="I">¡Dalle que dalle!</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">Aqueste torbellino</l>
+				<l part="I">¿por qué se levantó?</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="F">Porque mi hermana</l>
+				<l part="I">quiere un mozo que quiero.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">¡Lindo cuento!</l>
+				<l part="I">¿Y quién es él?</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l part="F">Zurrón, estame atento.</l>
+				<l>Hay en este lugar un mozalbito</l>
+				<l>en sus acciones tan afeminado</l>
+				<l>que en parecer mujer pone el cuidado.</l>
+				<l>Hácenos a las dos dos mil desdenes;</l>
+				<l>habla con sonsonete y reverencia;</l>
+				<l>pica de manos blancas y me agrada</l>
+				<l>por aqueste camino, y aquí a Juana</l>
+				<l part="I">también le cayó en gracia.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">¿Y es su nombre?</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l part="I">Marión.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="M">¡Marión!</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="F">¿De qué es la risa?</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l>Mejor es que le llamen doña Luisa.</l>
+				<l>¡Miren aquí qué gusto de doncellas!</l>
+				<l>¡Marión! Bercebú cargue con ellas.</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l>Ahora bien, por volver por nuestro gusto</l>
+				<l part="I">le has de ver.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">Vamos, pues, que yo prometo</l>
+				<l>de acomodar aquestas amistades.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l>Menos aquello de las Navidades.</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="I">¡Ya escampa!</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">Y si a ninguna se inclinase</l>
+				<l part="I">yo os dejaré vengadas.</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="F">Eso pido.</l>
+				<l part="I">Esta es la casa.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l part="F">Llama sin ruido.</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="I">¡Ah de casa!</l>
+			</sp>
+
+			<stage>(Asómase una criada.)</stage>
+			
+			<sp who="#criada">
+				<speaker>CRIADA</speaker>
+				<l part="M">¿Quién es?</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l part="F">Señora hermosa,</l>
+				<l part="I">al señor Marión.</l>
+			</sp>
+
+			<sp who="#criada">
+				<speaker>CRIADA</speaker>
+				<l part="F">¡Lindo recado!</l>
+				<l>No, hay que aguardar, que aun no está tocado.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="I">Pues, ¿tócase?</l>
+			</sp>
+			
+			<sp who="#criada">
+				<speaker>CRIADA</speaker>
+				<l part="F">¡Qué lindo majadero!</l>
+				<l>En sólo las haldillas del sombrero</l>
+				<l>más que si se tocara se detiene.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="I">¡Donoso Marión!</l>
+			</sp>
+
+			<sp who="#criada">
+				<speaker>CRIADA</speaker>
+				<l part="F">Pero ya viene.</l>
+			</sp>
+
+			<stage>(Vase y sale MARIÓN.)</stage>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Jesús, qué pelotera y tabahola!</l>
+				<l>En verdad que entendí que era otra cosa.</l>
+				<l>¡Miren, pues, quién llamaba sino un hombre</l>
+				<l>y dos melindrositas! Paso, paso.</l>
+				<l>¡Jesús eterno y qué terrible caso!</l>
+				<l>Pues ¡bonito soy yo para esas cosas!</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l>Señor mío, ¿por qué tantos desdenes?</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>Quita de ahí, friona, con qué vienes.</l>
+				<l>¡Amiguito soy yo de atrevimientos!</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l>Oiga vuested un par de casamientos.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¿Hay tal descompostura, en mi presencia?</l>
+				<l>¡Miren agora con la impertinencia</l>
+				<l>que venían muy sesgas y mirladas,</l>
+				<l>que es para mi humor muy buen despacho.</l>
+				<l>¡Casamentico! ¿Estaba yo borracho?</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l>¡Qué bellas manos tiene!</l>
+				<l>Hermana, ¿no parecen naterones?</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Callen por Dios!; están hechas tizones.</l>
+				<l>Solían… pero no sé que me diga;</l>
+				<l>claro está que ha de entrar mal ojo en ellas,</l>
+				<l>que de antes se mataban para vellas.</l>
+			</sp>
+			
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l>¿Y a esto del casamiento qué responde?</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Jesús eterno y qué disparatazo! </l>
+				<l>¿A mí me habrá de ver nadie desnudo?</l>
+				<l>Apostaré que luego me muriera.</l>
+				<l>No lo alcanzó en diez años una tía,</l>
+				<l>cuanto más ellas. ¡Con qué vienen!</l>
+				<l>De sólo oillo mentar me da zollipo:</l>
+				<l>¡Jesús, qué susto! Dios se lo perdone.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l>Pues no tiene remedio, hay consejo,</l>
+				<l>que queremos las dos tomar estado.</l>
+				<l>¿Qué le parece aquel galán letrado?</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Jesús y qué enfadoso! No le mientes,</l>
+				<l>que es hombre que pretende por los dientes.</l>
+				<l>Gasta coral, sangre de drago, búcaros,</l>
+				<l>raíces de nogal y piedra pómiz,</l>
+				<l>excusando el comer por no ensuciallos,</l>
+				<l>riéndose sin gana por mostrallos,</l>
+				<l>y si hacéis una gala en nombre suyo</l>
+				<l>y pedís para algunos adherentes.</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l>¡Donosa cosa si por vida mía!</l>
+				<l>Es mejor el galán de la otra noche.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>Aun aquese parece cosa justa,</l>
+				<l>que es tan galán que siempre trae en la mano</l>
+				<l>el sombrero a pesar de la mollera</l>
+				<l>por no desordenar rizo y cadera.</l>
+				<l>Trae contados los pelos del bigote.</l>
+				<l>Cayósele uno estándolos peinando</l>
+				<l>y un día entero andúvole buscando</l>
+				<l>diciendo: si le hallo, en testimonio</l>
+				<l>yo prometo una misa a San Antonio.</l>
+			</sp>
+
+			<stage>(Sale una tapada.)</stage>
+
+			<sp who="#zurron">
+				<speaker>[ZURRÓN]</speaker>
+				<l>Este sí que es galán y no vinagres</l>
+				<l part="I">sin cuenta ni razón.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>[MARIÓN]</speaker>
+				<l part="F">¡Jesús eterno!</l>
+				<l>¿Tapadas en mi casa? ¡Lindo aliño!</l>
+				<l part="I">Medraremos por cierto.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l part="F">Cumpla, hermano,</l>
+				<l>que conmigo muy tarde lo comienza.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Jesús y qué terrible desvergüenza!</l>
+				<l part="I">¿Por mí había de venir?</l> <stage>(Abrázalo.)</stage>
+			</sp>
+			
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="F">No sino al alba.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>Espérate y veremos. ¡Ay, amiga,</l>
+				<l>qué bizarra que estás! Dios te bendiga,</l>
+				<l>alza el paramento: ¿por qué te tapas?</l>
+				<l>¿Descubres al primer tapón zurrapas?</l>
+				<l>Guárdenos Dios de gente melindrosa.</l>
+				<l part="I">Descubre, acaba ya.</l>
+			</sp>
+
+			<stage>(Descúbrese ZURRÓN y da a MARIÓN con un paño de harina.)</stage>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">No me lo mande.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Jesús eterno, qué frialdad tan grande!</l>
+				<l>¡Con la gracia que viene el tamañito!</l>
+				<l>¿Soy pez, que me enharina para frito?</l>
+				<l>¡Qué bobería! Sólo por su gusto</l>
+				<l>se me volviera el cuajo con el susto.</l>
+				<l>¡Medráramos muy bien por vida mía!;</l>
+				<l>que me pudiera dar alferecía.</l>
+				<l>¡Qué malas burlas! Quite con los diablos.</l>
+				<l>No acabo de volver: ¡qué impertinencia!</l>
+				<l>Muy de veras lo digo en mi conciencia.</l>
+			</sp>
+
+			<sp who="#catalina">
+				<speaker>CATALINA</speaker>
+				<l>Ahora bien, quitémosle este miedo</l>
+				<l part="I">con una letra y baile.</l>
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				<l part="F">Que se haga.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>¡Jesús eterno, qué enfadosa paga!</l>
+				<l part="I">Como ese baile, yo no quiero.</l>
+			</sp>
+
+			<sp who="#zurron">
+				<speaker>ZURRÓN</speaker>
+				<l part="F">Calle.</l>
+				<l>Oiga esta letra y este alegre tono.</l>
+			</sp>
+
+			<sp who="#marion">
+				<speaker>MARIÓN</speaker>
+				<l>Si bailan bien, la burla les perdono.</l>
+			</sp>
+
+				(Cantan.)
+				Éranse dos niñas
+				bellas como el sol,
+				con ojuelos negros
+				blancos del amor,
+				y érase un mocito
+				que su corazón
+				rinde por despojos
+				á una de las dos.
+				Érase otra moza
+				cuya condición
+				á dos mancebitos
+				trata con rigor.
+				Todos van bailando
+				con gracia y primor
+				esta letra alegre
+				y este alegre son.
+			</sp>
+
+			<sp who="#juana">
+				<speaker>JUANA</speaker>
+				¡Socorro, socorro presto,
+				que a la casa del amor
+				interés ha puesto fuego
+				con poderosa traición!
+				¡Fuego, fuego, señores,
+				toquen a fuego,
+				que se abrasa la casa,
+				del niño ciego,
+				y en lugar de centellas
+				saltan dineros!
+				Toquen a fuego,
+				¡socorro presto!
+			</sp>
+
+				SOLO
+				¡Que se abrasa la casa!
+			</sp>
+
+				TODOS
+				Toquen, toquen a fuego.
+			</sp>
+
+				SOLO
+				Que de límite pasa.
+			</sp>
+
+				TODOS
+				Toquen.
+			</sp>
+
+				SOLO
+				Qué interés lo ha causado.
+			</sp>
+
+				TODOS
+				Toquen.
+			</sp>
+
+				SOLO
+				Que el amor ha acabado.
+			</sp>
+
+				TODOS
+				Toquen. ¡Fuego, fuego!, etc.
+				Este pronóstico escuche,
+				que declara los efectos
+				de una maligna cometa
+				vista en el signo de hierro.
+			</sp>
+
+				SOLO
+				El pronóstico nuevo,
+				señoras mozas,
+				desde año en que estamos
+				¿quién no le compra?
+				Será el año estéril
+				de pastelones,
+				por criarse marrajos
+				todos los hombres,
+				y aunque seca denota
+				la primavera
+				mejoría promete
+				con flores nuevas.
+				El cometa que llaman
+				poco dinero
+				amenaza abundancia
+				de perros muertos.
+			</sp>
 
 			</div>
 	
