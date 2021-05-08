@@ -16,7 +16,7 @@
         <sourceDesc>
             <bibl>
                 <!-- revisar referencia bibliográfica -->
-                Huerta Calvo, J. y Gómez Sánchez-Ferrer, G. (????) Sainetes y entremeses representados y cantados de Gil López de Armesto.
+                Huerta Calvo, J. y Gómez Sánchez-Ferrer, G. (s.f.) Sainetes y entremeses representados y cantados de Gil López de Armesto.
             </bibl>
         </sourceDesc>
         </fileDesc>
@@ -36,7 +36,6 @@
                         <persName>Un Soldado</persName>
                     </person>
                     <person xml:id="duena">
-                     <!-- uso "duena" porque la ñ no es "apta"-->
                         <persName>Una Dueña</persName>
                     </person>
                     <person xml:id="escudero">
@@ -182,7 +181,6 @@
             <sp who="#mujer2">
                 <speaker>MUJER DOS</speaker>
                 <l>Hace bien que, si no usara</l>
-                <!-- ¿normalizar la linea siguiente?-->
                 <l>antes desa habelidad,</l>
                 <l>y a los postres esperara,</l>
                 <l>no hallara ni para un pan.</l>
@@ -227,7 +225,6 @@
 
             <sp who="#mujer2">
                 <speaker>MUJER DOS</speaker>
-            <!-- ¿normalizar la linea siguiente?-->
                 <l>¡Oh, qué escusa tan venial!</l>
             </sp>
 
@@ -281,13 +278,15 @@
             <stage>(Canta la primera.)</stage>
 
             <sp who="#mujer1">
+                <speaker>MUJER UNO</speaker>
                 <l>Manos y cuajares</l>
                 <l>lleven a millares.</l>
             </sp>
 
             <stage>(Canta la segunda.)</stage>
 
-            <sp who="#mujer1">
+            <sp who="#mujer2">
+                <speaker>MUJER DOS</speaker>
                 <l>Lleven mis morcillas</l>
                 <l>a las Maravillas.</l>
             </sp>
@@ -351,7 +350,7 @@
                 <l part="I">¿Todas?</l>
             </sp>
 
-            <sp>
+            <sp who="#soldado">
                 <speaker>SOLDADO</speaker>
                 <l part="F">Y aun dos mil que hubiera.</l>
             </sp>
@@ -461,7 +460,6 @@
 
             <sp who="#escudero">
                 <speaker>OTÁÑEZ</speaker>
-            <!-- ¿normalizar la linea siguiente?-->
                 <l>¿Y dese modo que están?</l>
             </sp>
 
@@ -473,7 +471,6 @@
 
             <sp who="#escudero">
                 <speaker>OTÁÑEZ</speaker>
-                <!-- ¿normalizar la linea siguiente?-->
                 <l>¡Oh!, pues si fueran esotras,</l>
                 <l>¿dónde se hallará caudal?</l>
             </sp>
@@ -588,7 +585,6 @@
 
             <sp who="#soldado">
                 <speaker>SOLDADO</speaker>
-                <!-- ¿normalizar la linea siguiente?-->
                 <l>Repórtense, ¿qué es aquesto?</l>
                 <l>¿Que estoy aquí no verán?</l>
             </sp>
@@ -615,7 +611,6 @@
 
             <sp who="#mujer1">
                 <speaker>MUJER UNO</speaker>
-                <!-- ¿normalizar la linea siguiente?-->
                 <l>Aparte, seor tornillero.</l>
             </sp>
 
