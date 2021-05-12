@@ -516,94 +516,104 @@
 				<l>Si bailan bien, la burla les perdono.</l>
 			</sp>
 
-				(Cantan.)
-				Éranse dos niñas
-				bellas como el sol,
-				con ojuelos negros
-				blancos del amor,
-				y érase un mocito
-				que su corazón
-				rinde por despojos
-				á una de las dos.
-				Érase otra moza
-				cuya condición
-				á dos mancebitos
-				trata con rigor.
-				Todos van bailando
-				con gracia y primor
-				esta letra alegre
-				y este alegre son.
+			<sp>
+			<stage>(Cantan.)</stage>
+				<l>Éranse dos niñas</l>
+				<l>bellas como el sol,</l>
+				<l>con ojuelos negros</l>
+				<l>blancos del amor,</l>
+				<l>y érase un mocito</l>
+				<l>que su corazón</l>
+				<l>rinde por despojos</l>
+				<l>a una de las dos.</l>
+				<l>Érase otra moza</l>
+				<l>cuya condición</l>
+				<l>a dos mancebitos</l>
+				<l>trata con rigor.</l>
+				<l>Todos van bailando</l>
+				<l>con gracia y primor</l>
+				<l>esta letra alegre</l>
+				<l>y este alegre son.</l>
 			</sp>
 
 			<sp who="#juana">
 				<speaker>JUANA</speaker>
-				¡Socorro, socorro presto,
-				que a la casa del amor
-				interés ha puesto fuego
-				con poderosa traición!
-				¡Fuego, fuego, señores,
-				toquen a fuego,
-				que se abrasa la casa,
-				del niño ciego,
-				y en lugar de centellas
-				saltan dineros!
-				Toquen a fuego,
-				¡socorro presto!
+				<l>¡Socorro, socorro presto,</l>
+				<l>que a la casa del amor</l>
+				<l>interés ha puesto fuego</l>
+				<l>con poderosa traición!</l>
+				<l>¡Fuego, fuego, señores,</l>
+				<l>toquen a fuego,</l>
+				<l>que se abrasa la casa,</l>
+				<l>del niño ciego,</l>
+				<l>y en lugar de centellas</l>
+				<l>saltan dineros!</l>
+				<l>Toquen a fuego,</l>
+				<l>¡socorro presto!</l>
+			</sp>
+			
+			<sp>
+				<speaker>SOLO</speaker>
+				<l>¡Que se abrasa la casa!</l>
 			</sp>
 
-				SOLO
-				¡Que se abrasa la casa!
+			<sp>
+				<speaker>TODOS</speaker>
+				<l>Toquen, toquen a fuego.</l>
 			</sp>
 
-				TODOS
-				Toquen, toquen a fuego.
+			<sp>
+				<speaker>SOLO</speaker>
+				<l>Que de límite pasa.</l>
 			</sp>
 
-				SOLO
-				Que de límite pasa.
+			<sp>
+				<speaker>TODOS</speaker>
+				<l>Toquen.</l>
 			</sp>
 
-				TODOS
-				Toquen.
+			<sp>
+				<speaker>SOLO</speaker>
+				<l>Qué interés lo ha causado.</l>
 			</sp>
 
-				SOLO
-				Qué interés lo ha causado.
+			<sp>
+				<speaker>TODOS</speaker>
+				<l>Toquen.</l>
 			</sp>
 
-				TODOS
-				Toquen.
+			<sp>
+				<speaker>SOLO</speaker>
+				<l>Que el amor ha acabado.</l>
 			</sp>
 
-				SOLO
-				Que el amor ha acabado.
+			<sp>
+				<speaker>TODOS</speaker>
+				<l>Toquen. ¡Fuego, fuego!, etc.</l>
+				<l>Este pronóstico escuche,</l>
+				<l>que declara los efectos</l>
+				<l>de una maligna cometa</l>
+				<l>vista en el signo de hierro.</l>
 			</sp>
 
-				TODOS
-				Toquen. ¡Fuego, fuego!, etc.
-				Este pronóstico escuche,
-				que declara los efectos
-				de una maligna cometa
-				vista en el signo de hierro.
-			</sp>
-
-				SOLO
-				El pronóstico nuevo,
-				señoras mozas,
-				desde año en que estamos
-				¿quién no le compra?
-				Será el año estéril
-				de pastelones,
-				por criarse marrajos
-				todos los hombres,
-				y aunque seca denota
-				la primavera
-				mejoría promete
-				con flores nuevas.
-				El cometa que llaman
-				poco dinero
-				amenaza abundancia
-				de perros muertos.
+			<sp>
+				<speaker>SOLO</speaker>
+				<l>El pronóstico nuevo,</l>
+				<l>señoras mozas,</l>
+				<l>desde año en que estamos</l>
+				<l>¿quién no le compra?</l>
+				<l>Será el año estéril</l>
+				<l>de pastelones,</l>
+				<l>por criarse marrajos</l>
+				<l>todos los hombres,</l>
+				<l>y aunque seca denota</l>
+				<l>la primavera</l>
+				<l>mejoría promete</l>
+				<l>con flores nuevas.</l>
+				<l>El cometa que llaman</l>
+				<l>poco dinero</l>
+				<l>amenaza abundancia</l>
+				<l>de perros muertos.</l>
 			</sp>
 
 			</div>
