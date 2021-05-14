@@ -38,7 +38,7 @@
                     <person xml:id="duena">
                         <persName>Una Dueña</persName>
                     </person>
-                    <person xml:id="escudero">
+                    <person xml:id="otanez">
                         <persName>Otáñez, Escudero</persName>
                     </person>
                 </listPerson>
@@ -74,7 +74,7 @@
                     <role corresp="#duena">UNA DUEÑA</role>
                 </castItem>
                 <castItem>
-                    <role corresp="#escudero">OTÁÑEZ, ESCUDERO</role>
+                    <role corresp="#otanez">OTÁÑEZ, ESCUDERO</role>
                 </castItem>
             </castList>
         </front>
@@ -278,7 +278,6 @@
             <stage>(Canta la primera.)</stage>
 
             <sp who="#mujer1">
-                <speaker>MUJER UNO</speaker>
                 <l>Manos y cuajares</l>
                 <l>lleven a millares.</l>
             </sp>
@@ -286,7 +285,6 @@
             <stage>(Canta la segunda.)</stage>
 
             <sp who="#mujer2">
-                <speaker>MUJER DOS</speaker>
                 <l>Lleven mis morcillas</l>
                 <l>a las Maravillas.</l>
             </sp>
@@ -389,7 +387,7 @@
                 <l>Ya no sabe acompañar.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Si ha dos horas que salimos</l>
                 <l>de misa de San Millán</l>
@@ -407,7 +405,7 @@
                 <l>un poco de hígado blanco.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l part="I">¿Hígado qué?</l>
             </sp>
@@ -418,7 +416,7 @@
                 <l>hígado blanco le digo.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Lléguelo usté a preguntar,</l>
                 <l>que me huele a chilindrina</l>
@@ -432,7 +430,7 @@
                 <l>Llegue, no sea majadero.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Ello por su cuenta va;</l>
                 <l>digo: ¿y es hígado blanco,</l>
@@ -447,7 +445,7 @@
 
             <stage>(Llégase a la que vende las manos.)</stage>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Guarde Dios a vuesarced.</l>
             </sp>
@@ -458,7 +456,7 @@
                 <l>ya están mis manos vendidas.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>¿Y dese modo que están?</l>
             </sp>
@@ -469,7 +467,7 @@
                 <l>Rodrigo, y no el de Vivar.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>¡Oh!, pues si fueran esotras,</l>
                 <l>¿dónde se hallará caudal?</l>
@@ -481,7 +479,7 @@
                 <l>hágase el menguado atrás.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Un hígado blanco pido,</l>
                 <l>que a usted se le pagará</l>
@@ -502,7 +500,7 @@
 
             <stage>(Llégase a la de las morcillas.)</stage>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l part="I">¿Tendrá usted hígado?</l>
             </sp>
@@ -512,7 +510,7 @@
                 <l part="F">Tengo.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Eso sí, pese a mi mal;</l>
                 <l part="I">blanco, digo.</l>
@@ -528,7 +526,7 @@
 
             <stage>(Dale con una morcilla en la cara.)</stage>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Eso es mucha porquería.</l>
             </sp>
@@ -540,7 +538,7 @@
 
             <stage>(Llégase a la de las manos.)</stage>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Présteme usted una mano</l>
                 <l>con que me pueda vengar.</l>
@@ -553,7 +551,7 @@
 
             <stage>(Dale con una mano de carnero.) </stage>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l part="F">Paso, niña mía,</l>
                 <l>que no lo dije por tal.</l>
@@ -595,7 +593,7 @@
                 <l>en el mismo Satanás.</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>Denla ustedes una tunda,</l>
                 <l>que Otáñez ayudará.</l>
@@ -629,7 +627,7 @@
                 <l part="I">¿Yéndonos?</l>
             </sp>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l part="F">No, porque es ya</l>
                 <l>de tabla la seguidilla</l>
@@ -638,7 +636,7 @@
 
             <stage>(Canta Otáñez.)</stage>
 
-            <sp who="#escudero">
+            <sp who="#otanez">
                 <speaker>OTÁÑEZ</speaker>
                 <l>No haya más, niñas mías,</l>
                 <l>dense las manos.</l>
