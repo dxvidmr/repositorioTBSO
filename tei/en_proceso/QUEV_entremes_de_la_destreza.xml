@@ -63,34 +63,34 @@
     
             <stage>Salen MARI PITORRA y la CHILLONA, emplazándose en el tablado. Echa el manto por debajo del brazo como capa, y la PITORRA hace con él un rebozo a zurdas.</stage>
 
-            <sp who="pitorra">
+            <sp who="#pitorra">
                 <speaker>PITORRA.</speaker>
                 <l>Arrojamiento tienes de muchacho.</l>
             </sp>
 
-            <sp who="chillona">
+            <sp who="#chillona">
                 <speaker>CHILLONA.</speaker>
                 <l>Yo soy hombre y mujer y marimacho.</l>
             </sp>
             
-            <sp who="pitorra">
+            <sp who="#pitorra">
                 <speaker>PITORRA.</speaker>
                 <l>¿Inclinada a las armas?</l>
             </sp>
 
-            <sp who="chilona">
+            <sp who="#chilona">
                 <speaker>CHILLONA.</speaker>
                 <l>Tanto cuanto.</l>
                 <l>¿No has oído nombrar a la Chillona?</l>
             </sp>
 
-            <sp who="pitorra">
+            <sp who="#pitorra">
                 <speaker>PITORRA.</speaker>
                 <l>Ya, ya; eres magnífica persona,</l>
                 <l>famosa esgrimidora.</l>
             </sp>
 
-            <sp who="chillona">
+            <sp who="#chillona">
                 <speaker>CHILLONA.</speaker>
                 <l>El natural alabo,</l>
                 <l>pues las de puño en un cerrojo clavo;</l>
@@ -102,33 +102,38 @@
                 <l>y pretendo saber la verdadera.</l>
             </sp>
 
-            <sp who="pitorra"> 
+            <sp who="#pitorra"> 
                 <speaker>PITORRA.</speaker>
                 <l>Colérica pareces.</l>
             </sp>
 
-            
-            CHILLONA.
-            Yo soylo, soylo mucho.
+            <sp who="#chillona">            
+                <speaker>CHILLONA.</speaker>
+                <l>Yo soylo, soylo mucho.</l>
+            </sp>
 
-            PITORRA.
-            Es para la destreza pestilencia,
-            pues por cualquiera cosa
-            se te subirá el humo a las narices.
-            Dícenme que es Morales gran maestro.
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Es para la destreza pestilencia,</l>
+                <l>pues por cualquiera cosa</l>
+                <l>se te subirá el humo a las narices.</l>
+                <l>Dícenme que es Morales gran maestro.</l>
+            </sp>
 
-            CHILLONA.
-            El maestro mayor es hoy Morales,
-            que todo lo deshace y lo derrueca
-            jugando con su niña de muñeca.
-            Y aunque es Morales la destreza mesma,
-            tiene malos reveses la cuaresma.
-            Isabel Ana es toda juego limpio,
-            y con ella y con Robles se me acuerda
-            que hiere con el arco y con la cuerda,
-            y Treviño es un rayo
-            aunque riñe lo más como lacayo.
-            Jusepa...
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>El maestro mayor es hoy Morales,</l>
+                <l>que todo lo deshace y lo derrueca</l>
+                <l>jugando con su niña de muñeca.</l>
+                <l>Y aunque es Morales la destreza mesma,</l>
+                <l>tiene malos reveses la cuaresma.</l>
+                <l>Isabel Ana es toda juego limpio,</l>
+                <l>y con ella y con Robles se me acuerda</l>
+                <l>que hiere con el arco y con la cuerda,</l>
+                <l>y Treviño es un rayo</l>
+                <l>aunque riñe lo más como lacayo.</l>
+                <l>Jusepa...</l>
+            </sp> 
 
             PITORRA.
             Es la infalible:
