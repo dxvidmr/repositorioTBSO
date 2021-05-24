@@ -289,71 +289,80 @@
                 <l>que todo esotro es ángulo salvaje.</l>
                 <l>El toque, Pitorra</l>
             </sp>
+            
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Ha de ser toque franco.</l>
+            </sp>
+            
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Que sólo el franco toque.</l>
+            </sp>
 
-            PITORRA.
-            Ha de ser toque franco.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Podréis servir de pestes a San Roque.</l>
+                <l>La conclusión, que llaman treta rara,</l>
+                <l>se hace desta manera</l>
+                <!-- noramala??-->
+                <l>-atiendan noramala,</l>
+                <l>que les daré, por Cristo, dos hurgones-:</l>
+                <l>vase a la espada abriendo ángulo agudo,</l>
+                <l>se ocupa con el cuerpo deste modo</l>
+                <l>y, el brazo bien tendido,</l>
+                <l>tomar la guarnición para un vestido.</l>
+            </sp> 
 
-            CHILLONA.
-            Que sólo el franco toque.
+            <sp who="#vicenta">
+                <speaker>VICENTA.</speaker>
+                <l>Entradas y salidas en el juego</l>
+                <l>es lo más importante</l>
+                <l>en los esgrimidores.</l>
+                <l>De los arrendadores</l>
+                <l>que juegan solamente esas heridas</l>
+                <l>aprenderéis entradas y salidas.</l>
+                <l>Oíd, aparadores alto y bajo</l>
+                <l>que de alforjas servís a los corrales</l>
+                <l>donde lleva sus tratos infernales;</l>
+                <l>vieja, que estás tapada</l>
+                <l>con tu boca de abrojo</l>
+                <l>y esgrimes calavera de medio ojo</l>
+                <l>cuando entre las dos yemas de los dedos,</l>
+                <l>con que te tapas, de pellizco cubres</l>
+                <l>la turbamulta de años y de otubres;</l>
+                <l>si en ocasión te vieres, echa mano,</l>
+                <l>ase a una buida,</l>
+                <l>pues que todas las viejas</l>
+                <l>tenéis hijas de ganchos con guedejas,</l>
+                <l>y para el que se os llega,</l>
+                <l>tenéis en la armería</l>
+                <l>contra bolsas ariscas</l>
+                <l>chicotas ginoviscas</l>
+                <l>que, del primero bote</l>
+                <l>de un mayorazgo hacen un jigote.</l>
+                <l>Y tú, vieja maldita que lo ordenas,</l>
+                <l>eres hoja de comes y de cenas.</l>
+                <l>Para heridas de tomo</l>
+                <l>son mejores las pícaras de lomo,</l>
+                <l>aunque en otras empresas</l>
+                <l>valen más las muchachas de tus mesas.</l>
+                <l>También jugando juego de floreado</l>
+                <l>en fruta y ramilletes</l>
+                <l>llevan la madrugona los pobretes,</l>
+                <l>porque ya mosquetera de soplillo</l>
+                <l>no se repara en nada</l>
+                <l>después que anda por las dos Castillas</l>
+                <l>adobar monos como adobar sillas,</l>
+                <l>y en fardos se pregonan por las calles,</l>
+                <l>como antes esteras,</l>
+                <l>mercapiernas, colmillos, cabelleras,</l>
+                <l>y, a modo de vinagre,</l>
+                <l>por sufrir los barrancos y corcovas,</l>
+                <l>hay quien pregone petos por arrobas.</l>
+            </sp> 
 
-            MADRE.
-            Podréis servir de pestes a San Roque.
-            La conclusión, que llaman treta rara,
-            se hace desta manera
-            -atiendan noramala,
-            que les daré, por Cristo, dos hurgones-:
-            vase a la espada abriendo ángulo agudo,
-            se ocupa con el cuerpo deste modo
-            y, el brazo bien tendido,
-            tomar la guarnición para un vestido.
-
-            VICENTA.
-            Entradas y salidas en el juego
-            es lo más importante
-            en los esgrimidores.
-            De los arrendadores
-            que juegan solamente esas heridas
-            aprenderéis entradas y salidas.
-            Oíd, aparadores alto y bajo
-            que de alforjas servís a los corrales
-            donde lleva sus tratos infernales;
-            vieja, que estás tapada
-            con tu boca de abrojo
-            y esgrimes calavera de medio ojo
-            cuando entre las dos yemas de los dedos,
-            con que te tapas, de pellizco cubres
-            la turbamulta de años y de otubres;
-            si en ocasión te vieres, echa mano,
-            ase a una buida,
-            pues que todas las viejas
-            tenéis hijas de ganchos con guedejas,
-            y para el que se os llega,
-            tenéis en la armería
-            contra bolsas ariscas
-            chicotas ginoviscas
-            que, del primero bote
-            de un mayorazgo hacen un jigote.
-            Y tú, vieja maldita que lo ordenas,
-            eres hoja de comes y de cenas.
-            Para heridas de tomo
-            son mejores las pícaras de lomo,
-            aunque en otras empresas
-            valen más las muchachas de tus mesas.
-            También jugando juego de floreado
-            en fruta y ramilletes
-            llevan la madrugona los pobretes,
-            porque ya mosquetera de soplillo
-            no se repara en nada
-            después que anda por las dos Castillas
-            adobar monos como adobar sillas,
-            y en fardos se pregonan por las calles,
-            como antes esteras,
-            mercapiernas, colmillos, cabelleras,
-            y, a modo de vinagre,
-            por sufrir los barrancos y corcovas,
-            hay quien pregone petos por arrobas.
-
-            ALGUACIL.
+           ALGUACIL.
             ¡Abran a la justicia!
 
             MADRE.
