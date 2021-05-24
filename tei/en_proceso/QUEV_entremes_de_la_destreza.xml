@@ -135,130 +135,160 @@
                 <l>Jusepa...</l>
             </sp> 
 
-            PITORRA.
-            Es la infalible:
-            cuando juega es a tierra, es invencible,
-            que con honestidad tan reservada
-            contra las vidas es arma vedada.
-            De Granados también aprender puedes.
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Es la infalible:</l>
+                <l>cuando juega es a tierra, es invencible,</l>
+                <l>que con honestidad tan reservada</l>
+                <l>contra las vidas es arma vedada.</l>
+                <l>De Granados también aprender puedes.</l>
+            </sp> 
 
-            CHILLONA.
-            No sabe sino dar por las paredes.
-            Avendaño es famoso,
-            pues con María Candado y con Antonia,
-            entrambas de arte y de hermosura rara,
-            es el que mejor juega cara a cara.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>No sabe sino dar por las paredes.</l>
+                <l>Avendaño es famoso,</l>
+                <l>pues con María Candado y con Antonia,</l>
+                <l>entrambas de arte y de hermosura rara,</l>
+                <l>es el que mejor juega cara a cara.</l>
+            </sp>
 
-            PITORRA.
-            Por eso es jugador de carantoña.
-            No se descuida Prado,
-            pues en su compañía
-            tray a la madre Monda,
-            vieja que de don Luis y de Carranza
-            tiene todos los textos en la panza.
-            Mas veisla aquí que sale
-            a enseñar la destreza verdadera,
-            embutida de ángulos y líneas.
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Por eso es jugador de carantoña.</l>
+                <l>No se descuida Prado,</l>
+                <l>pues en su compañía</l>
+                <l>tray a la madre Monda,</l>
+                <l>vieja que de don Luis y de Carranza</l>
+                <l>tiene todos los textos en la panza.</l>
+                <l>Mas veisla aquí que sale</l>
+                <l>a enseñar la destreza verdadera,</l>
+                <l>embutida de ángulos y líneas.</l>
+            </sp>
 
-            CHILLONA.
-            A medida me viene del deseo.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>A medida me viene del deseo.</l>
+            </sp> 
 
-            (Sale la madre MONDA con sus tocas de viuda, un casco, un montante, dos espadas de
-            esgrimir; y con ella ANA DE COCA y VICENTA.)
+<!-- mantener corchetes? unificar criterios-->
+           <stage>(Sale la madre MONDA con sus tocas de viuda, un casco, un montante, dos espadas de esgrimir; y con ella ANA DE COCA y VICENTA.)</stage>
 
-            MADRE.
-            Lo que me alegro, niñas, cuando os veo.
-            Parece ahigadada la mozuela.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Lo que me alegro, niñas, cuando os veo.</l>
+                <l>Parece ahigadada la mozuela.</l>
+            </sp>
 
-            CHILLONA.
-            Yo, madre Monda, soy la hija Pela.
-            Llámanme la Chillona.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Yo, madre Monda, soy la hija Pela.</l>
+                <l>Llámanme la Chillona.</l>
+            </sp>
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Tenéis buen ancantuso de persona.</l>
+                <l>Tomá esa espada; quiero ver el aire</l>
+                <l>y el juego que jugáis. Partí.</l>
+            </sp>
 
-            MADRE.
-            Tenéis buen ancantuso de persona.
-            Tomá esa espada; quiero ver el aire
-            y el juego que jugáis. Partí.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>No quiero,</l>
+                <l>que yo con nadie parto.</l>
+            </sp>
 
-            CHILLONA.
-            No quiero,
-            que yo con nadie parto.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Destreza verdadera,</l>
+                <l>no partir con amiga ni tercera.</l>
+            </sp>
 
-            MADRE.
-            Destreza verdadera,
-            no partir con amiga ni tercera.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>No partir y tomarlo todo entero</l>
+                <l>es juego de mi propio calvatrueno.</l>
+            </sp>
 
-            CHILLONA.
-            No partir y tomarlo todo entero
-            es juego de mi propio calvatrueno.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Bueno, bueno, rebueno, mucho bueno.</l>
+                <l>Mari Pitorra, hazla preguntillas.</l>
+                <l>¡Qué espadas estas para en zapatillas!</l>
+                <l>¿Tomáis vos por de dentro o por de fuera?</l>
+            </sp>
+            
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Si me afirmo con una faltiquera,</l>
+                <l>por todas partes tomo,</l>
+                <l>por de dentro y de fuera,</l>
+                <l>por uno y otro lado,</l>
+                <l>y hasta el acero está de mí tomado.</l>
+                <l>¿Qué hará el dinero ajeno?</l>
+            </sp>
 
-            MADRE.
-            Bueno, bueno, rebueno, mucho bueno.
-            Mari Pitorra, hazla preguntillas.
-            ¡Qué espadas estas para en zapatillas!
-            ¿Tomáis vos por de dentro o por de fuera?
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Bueno, bueno, rebueno, mucho bueno.</l>
+                <l>Un águila ha de ser en cuatro días,</l>
+                <l>y en ocho meses ocho mil arpías.</l>
+                <l>Toma, hija, esa espada.</l>
+            </sp>
+            
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Que me place.</l>
+            </sp>
 
-            CHILLONA.
-            Si me afirmo con una faltiquera,
-            por todas partes tomo,
-            por de dentro y de fuera,
-            por uno y otro lado,
-            y hasta el acero está de mí tomado.
-            ¿Qué hará el dinero ajeno?
-
-            MADRE.
-            Bueno, bueno, rebueno, mucho bueno.
-            Un águila ha de ser en cuatro días,
-            y en ocho meses ocho mil arpías.
-            Toma, hija, esa espada.
-
-            CHILLONA.
-            Que me place.
-
-            MADRE.
-            Medio de proporción más verdadero
-            es, Chillona, el dinero.
-            La destreza de todos siempre ha sido
-            -así vulgares como verdaderos-
-            dar y no recibir; pues ten en punto,
-            -por caridad que vais conmigo agora-:
-            La que esgrimiere el jeme por espada
-            reciba mucho, pero no dé nada.
-            En cuanto al afirmarse
-            la que pidió, si el hombre replicase
-            y mudare de plática dormido,
-            afirmarse en lo mismo que ha pedido.
-            Si queréis atajar a un desdichado,
-            pedilde y le veréis luego atajado.
-            Llamo necesitar al enemigo
-            el tomalle la hacienda, de manera,
-            y con tanto cuidado,
-            que le dejéis después necesitado.
-            Allá el tocar el casco es el primero;
-            mas en esta doctrina que yo masco,
-            lo postrero ha de ser el tocar casco.
-            Usábanse en lo viejo
-            estocadas de puño;
-            mas estocada puño es cosa poca,
-            mejor es estocada saya y ropa.
-            Mandoble es deminuto de Mahoma;
-            yo enseño mandoblón a la que toma.
-            Codazos se permiten a las viejas
-            para que en diferentes coyunturas
-            acuerden a las niñas pediduras.
-            Y porque hay hombres, hijas,
-            que traen perros de ayuda
-            -el demonio sea sordo-
-            previniendo sus yerros,
-            quiero enseñaros treta contra perros
-            para que sean los perros inmortales:
-            en treta firme el antubión de reales;
-            la cantidad discreta es la contada,
-            porque la prometida, en el que roba,
-            es la cantidad boba;
-            ángulo agudo, mano de ricubo:
-            en forma de cuchar uñas de encaje,
-            que todo esotro es ángulo salvaje.
-            El toque, Pitorra
+            <sp who="#madre">    
+            <speaker>MADRE.</speaker>
+                <l>Medio de proporción más verdadero</l>
+                <l>es, Chillona, el dinero.</l>
+                <l>La destreza de todos siempre ha sido</l>
+                <l>-así vulgares como verdaderos-</l>
+                <l>dar y no recibir; pues ten en punto,</l>
+                <l>-por caridad que vais conmigo agora-:</l>
+                <l>La que esgrimiere el jeme por espada</l>
+                <l>reciba mucho, pero no dé nada.</l>
+                <l>En cuanto al afirmarse</l>
+                <l>la que pidió, si el hombre replicase</l>
+                <l>y mudare de plática dormido,</l>
+                <l>afirmarse en lo mismo que ha pedido.</l>
+                <l>Si queréis atajar a un desdichado,</l>
+                <l>pedilde y le veréis luego atajado.</l>
+                <l>Llamo necesitar al enemigo</l>
+                <l>el tomalle la hacienda, de manera,</l>
+                <l>y con tanto cuidado,</l>
+                <l>que le dejéis después necesitado.</l>
+                <l>Allá el tocar el casco es el primero;</l>
+                <l>mas en esta doctrina que yo masco,</l>
+                <l>lo postrero ha de ser el tocar casco.</l>
+                <l>Usábanse en lo viejo</l>
+                <l>estocadas de puño;</l>
+                <l>mas estocada puño es cosa poca,</l>
+                <l>mejor es estocada saya y ropa.</l>
+                <l>Mandoble es deminuto de Mahoma;</l>
+                <l>yo enseño mandoblón a la que toma.</l>
+                <l>Codazos se permiten a las viejas</l>
+                <l>para que en diferentes coyunturas</l>
+                <l>acuerden a las niñas pediduras.</l>
+                <l>Y porque hay hombres, hijas,</l>
+                <l>que traen perros de ayuda</l>
+                <l>-el demonio sea sordo-</l>
+                <l>previniendo sus yerros,</l>
+                <l>quiero enseñaros treta contra perros</l>
+                <l>para que sean los perros inmortales:</l>
+                <l>en treta firme el antubión de reales;</l>
+                <l>la cantidad discreta es la contada,</l>
+                <l>porque la prometida, en el que roba,</l>
+                <l>es la cantidad boba;</l>
+                <l>ángulo agudo, mano de ricubo:</l>
+                <l>en forma de cuchar uñas de encaje,</l>
+                <l>que todo esotro es ángulo salvaje.</l>
+                <l>El toque, Pitorra</l>
+            </sp>
 
             PITORRA.
             Ha de ser toque franco.
