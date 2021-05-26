@@ -361,68 +361,87 @@
                 <l>por sufrir los barrancos y corcovas,</l>
                 <l>hay quien pregone petos por arrobas.</l>
             </sp> 
+            
+            <sp who="#alguacil">
+                <speaker>ALGUACIL.</speaker>
+                <l>¡Abran a la justicia!</l>
+            </sp>
 
-           ALGUACIL.
-            ¡Abran a la justicia!
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>La cabeza.</l>
+                <l>Esta justicia tiene mal de piedra,</l>
+                <l>pues pide que le abran.</l>
+            </sp>
 
-            MADRE.
-            La cabeza.
-            Esta justicia tiene mal de piedra,
-            pues pide que le abran.
+            <sp who="#alguacil">
+                <speaker>ALGUACIL.</speaker>
+                <l>¿Qué embelecos se forman y se labran?</l>
+            </sp> 
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Mas líbranos de mal. Sea bien venido</l>
+                <l>su merced del resuello de la cárcel</l>
+                <l>y el señor vaho de perseguir chiflando.</l>
+                <l>Aquí se trata de virtud en todo.</l>
+                <l>Estaba yo instruyendo estas muchachas</l>
+                <l>en toda perfectión de castañeta.</l>
+            </sp>
 
-            ALGUACIL.
-            ¿Qué embelecos se forman y se labran?
+            <sp who="#escribano">
+                <speaker>ESCRIBANO.</speaker>
+                <l>La madre Rastreado es muy perfeta.</l>
+            </sp>
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Soy un gusano. Hijas, alto, al baile</l>
+                <l>que tenéis prevenido</l>
+                <l>y con buena intención ande el bullido.</l>
+                <l>Todo se acaba aquí, mundo malo.</l>
+            </sp>
+            
+            <sp who="#escribano">
+                <speaker>ESCRIBANO.</speaker>
+                <l>Madre Monda, sin causa tienes queja.</l>
+            </sp> 
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                 <!-- otras grandes frases!-->
+                <l>No puede ser sin causa</l>
+                <l>donde hay pluma y tintero, vara y saya,</l>
+                <l>que harán la causa cuando no la haya.</l>
+            </sp>
 
-            MADRE.
-            Mas líbranos de mal. Sea bien venido
-            su merced del resuello de la cárcel
-            y el señor vaho de perseguir chiflando.
-            Aquí se trata de virtud en todo.
-            Estaba yo instruyendo estas muchachas
-            en toda perfectión de castañeta.
+            <stage>(Sale bailando de torneo la CHILLONA. Cantan los MÚSICOS.)</stage>
 
-            ESCRIBANO.
-            La madre Rastreado es muy perfeta.
+            <sp who="#musicos">
+                <speaker>MÚSICOS.</speaker>
+                <l>Allá va con un sombrero,</l>
+                <l>que lleva, por lo de Flandes</l>
+                <l>más plumas que la Provincia,</l>
+                <l>más corchetes que la cárcel.</l>
+                <l>Va con pasos de pasión</l>
+                <l>de crucificar amantes</l>
+                <l>y con donaires sayones</l>
+                <l>que los dineros taladren.</l>
+                <l>El talle, de no dejar</l>
+                <l>aun dineros en agraces,</l>
+                <l>aire de llevar la bolsa</l>
+                <l>al más guardoso en el aire.</l>
+                <l>En los ojos trae por niñas</l>
+                <l>dos mercaderes rapantes,</l>
+                <l>que al rico avariento cuentan</l>
+                <l>en el infierno los reales.</l>
+                <l>Dos demandas por empresa</l>
+                <l>con una letra delante:</l>
+                <l>«Mujer que demanda siempre</l>
+                <l>Satanás se lo demande».</l>
+            </sp>
 
-            MADRE.
-            Soy un gusano. Hijas, alto, al baile
-            que tenéis prevenido
-            y con buena intención ande el bullido.
-            Todo se acaba aquí, mundo malo.
-
-            ESCRIBANO.
-            Madre Monda, sin causa tienes queja.
-
-            MADRE.
-            No puede ser sin causa
-            donde hay pluma y tintero, vara y saya,
-            que harán la causa cuando no la haya.
-
-            (Sale bailando de torneo la CHILLONA. Cantan los MÚSICOS.)
-
-            MÚSICOS.
-            Allá va con un sombrero,
-            que lleva, por lo de Flandes
-            más plumas que la Provincia,
-            más corchetes que la cárcel.
-            Va con pasos de pasión
-            de crucificar amantes
-            y con donaires sayones
-            que los dineros taladren.
-            El talle, de no dejar
-            aun dineros en agraces,
-            aire de llevar la bolsa
-            al más guardoso en el aire.
-            En los ojos trae por niñas
-            dos mercaderes rapantes,
-            que al rico avariento cuentan
-            en el infierno los reales.
-            Dos demandas por empresa
-            con una letra delante:
-            «Mujer que demanda siempre
-            Satanás se lo demande».
-
-            (Párase en su puesto y sale MARI PITORRA. Cantan.)
+            <stage>(Párase en su puesto y sale MARI PITORRA. Cantan.)</stage>
 
             [MÚSICOS.]
             Lleva en sus manos y dedos
