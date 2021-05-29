@@ -443,47 +443,50 @@
 
             <stage>(Párase en su puesto y sale MARI PITORRA. Cantan.)</stage>
 
-            [MÚSICOS.]
-            Lleva en sus manos y dedos
-            a todos los Doce Pares,
-            Galalones por las uñas
-            y por la palma Roldanes.
-            Una pelota en su pala
-            lleva, y escrito delante:
-            «Ha de quedar en pelota
-            quien me dejare que saque».
-            Y para que se acometan
-            y las viseras se calen,
-            los pífanos y las cajas
-            confusas señales hacen.
-            Tan, tan, tan,
-            tan pobres los tiempos van
-            que piden y no nos dan,
-            dan, dan, dan.
-            No de punta en blanco
-            van armadas ya,
-            mas de puño en blancas
-            y de puño en real.
-            Botes de botica
-            no hacen tanto mal
-            como los de uña
-            que en las tiendas dan.
-            No sabe en su tajo
-            el bolsón nadar:
-            viejas remolinos
-            sorben su caudal.
-            Del uñas abajo
-            ¿quién se esconderá?
-            Del uñas arriba
-            no basta volar.
-            Tan, tan, tan,
-            tan pobres los tiempos van
-            que piden y no nos dan,
-            dan, dan, dan, dan.
-            Esta es la justicia
-            que mandan hacer
-            a quien sin dar mucho
-            quiere que le den.
+            <sp who="#musicos">
+                <speaker>[MÚSICOS.]</speaker>
+                <l>Lleva en sus manos y dedos</l>
+                <l>a todos los Doce Pares,</l>
+                <l>Galalones por las uñas</l>
+                <l>y por la palma Roldanes.</l>
+                <l>Una pelota en su pala</l>
+                <l>lleva, y escrito delante:</l>
+                <l>«Ha de quedar en pelota</l>
+                <l>quien me dejare que saque».</l>
+                <l>Y para que se acometan</l>
+                <l>y las viseras se calen,</l>
+                <l>los pífanos y las cajas</l>
+                <l>confusas señales hacen.</l>
+                <l>Tan, tan, tan,</l>
+                <l>tan pobres los tiempos van</l>
+                <l>que piden y no nos dan,</l>
+                <l>dan, dan, dan.</l>
+                <l>No de punta en blanco</l>
+                <l>van armadas ya,</l>
+                <l>mas de puño en blancas</l>
+                <l>y de puño en real.</l>
+                <l>Botes de botica</l>
+                <l>no hacen tanto mal</l>
+                <l>como los de uña</l>
+                <l>que en las tiendas dan.</l>
+                <l>No sabe en su tajo</l>
+                <l>el bolsón nadar:</l>
+                <l>viejas remolinos</l>
+                <l>sorben su caudal.</l>
+                <l>Del uñas abajo</l>
+                <l>¿quién se esconderá?</l>
+                <l>Del uñas arriba</l>
+                <l>no basta volar.</l>
+                <l>Tan, tan, tan,</l>
+                <l>tan pobres los tiempos van</l>
+                <l>que piden y no nos dan,</l>
+                <l>dan, dan, dan, dan.</l>
+                <l>Esta es la justicia</l>
+                <l>que mandan hacer</l>
+                <l>a quien sin dar mucho</l>
+                <l>quiere que le den.</l>
+            </sp>
+
         </div>
     
     </body>
