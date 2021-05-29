@@ -87,37 +87,49 @@
         
         <body>
 
+            <!-- dejar/sacar parentésis?-->
             <stage>(Sale por una puerta la Pironda con mantellina y sombrero, cantando, y Turuleque tras ella.)</stage>
 
-            PIRONDA
-            (Canta.)
-            A la verde orilla
-            de Guadalquivir,
-            damas de Sevilla,
-            alegres venid.
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <stage>(Canta.)</stage>
+                <l>A la verde orilla</l>
+                <l>de Guadalquivir,</l>
+                <l>damas de Sevilla,</l>
+                <l>alegres venid.</l>
+            </sp>
+            
+            <stage>(Salen por la otra puerta la Corruja con el mesmo traje, cantando, y Santurde tras ella.)</stage>
 
-            (Salen por la otra puerta la Corruja con el mesmo traje, cantando, y Santurde tras ella.)
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <stage>(Canta.)</stage>
+                <l>Damas de Triana,</l>
+                <l>ya tenéis aquí</l>
+                <l>quien vuestro festejo</l>
+                <l>ayude a aplaudir.</l>
+            </sp>
 
-            CORRUJA
-            (Canta.)
-            Damas de Triana,
-            ya tenéis aquí
-            quien vuestro festejo
-            ayude a aplaudir.
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <stage>(Canta.)</stage>
+                <l>Pues decid cantando:</l>
+            </sp>
 
-            PIRONDA
-            (Canta.)
-            Pues decid cantando:
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <stage>(Canta.)</stage>
+                <l>Bailando decid:</l>
+            </sp>
 
-            CORRUJA
-            (Canta.)
-            Bailando decid:
-
-            LAS DOS
-            A la verde orilla
-            de Guadalquivir,
-            damas de Sevilla,
-            alegres venid.
+  <!-- Cómo se ponen dos personajes? situación similar a cuando aparece TODOS?-->
+            <sp>
+                <speaker>LAS DOS</speaker>
+                <l>A la verde orilla</l>
+                <l>de Guadalquivir,</l>
+                <l>damas de Sevilla,</l>
+                <l>alegres venid.</l>
+            </sp>
 
             TURULEQUE
             Basta ya, Pironda mía.
