@@ -122,8 +122,9 @@
                 <l>Bailando decid:</l>
             </sp>
 
-  <!-- Cómo se ponen dos personajes? situación similar a cuando aparece TODOS?-->
-            <sp>
+  <!-- Cómo se ponen dos personajes? situación similar a cuando aparece TODOS?
+  Va así??-->
+            <sp who="#pironda #corruja">
                 <speaker>LAS DOS</speaker>
                 <l>A la verde orilla</l>
                 <l>de Guadalquivir,</l>
@@ -131,38 +132,55 @@
                 <l>alegres venid.</l>
             </sp>
 
-            TURULEQUE
-            Basta ya, Pironda mía.
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Basta ya, Pironda mía.</l>
+            </sp>
 
-            SANTURDE
-            Corruja mía, ya basta.
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>Corruja mía, ya basta.</l>
+            </sp>
+        
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <l>Pues, seor Santurde, ¿qué quiere?</l>
+            </sp>
 
-            PIRONDA
-            Pues, seor Santurde, ¿qué quiere?
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <l>Seor Turuleque, ¿qué manda?</l>
+            </sp>
 
-            CORRUJA
-            Seor Turuleque, ¿qué manda?
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Que, sentados a la orilla,</l>
+                <l>gocemos de la algazara</l>
+                <l>que los nadadores tienen</l>
+                <l>apostando a quién más nada.</l>
+            </sp> 
 
-            TURULEQUE
-            Que, sentados a la orilla,
-            gocemos de la algazara
-            que los nadadores tienen
-            apostando a quién más nada.
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>¿Que haya hombres que desto vivan?</l>
+            </sp>
 
-            SANTURDE
-            ¿Que haya hombres que desto vivan?
+          <!-- Entiendo que sigue hablando el mismo personaje. Primero puse el stage dentro del sp, pero me tira inválido el xml. Así que van dos sp-->
+            <stage>(Siéntase.)</stage>
+            
+            <sp who="#santurde">
+                <l>Malditas sean sus almas,</l>
+                <l>que desde aquí estoy temblando,</l>
+                <l>que sin tragarla me traga.</l>
+            </sp>
 
-            (Siéntase.)
-
-            Malditas sean sus almas,
-            que desde aquí estoy temblando,
-            que sin tragarla me traga.
-
-            TURULEQUE
-            Pues yo aseguraros puedo
-            que nunca puse piñata
-            ni probé sorbo de caldo,
-            por estar hecho con agua.
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Pues yo aseguraros puedo</l>
+                <l>que nunca puse piñata</l>
+                <l>ni probé sorbo de caldo,</l>
+                <l>por estar hecho con agua.</l>
+            </sp>
 
             SANTURDE
             Pues yo, amigo, si me veo
