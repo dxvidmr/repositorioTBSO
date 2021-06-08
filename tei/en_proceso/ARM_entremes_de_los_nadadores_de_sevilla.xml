@@ -182,45 +182,66 @@
                 <l>por estar hecho con agua.</l>
             </sp>
 
-            SANTURDE
-            Pues yo, amigo, si me veo
-            acaso en esas andanzas,
-            de vino, en lugar de caldo,
-            hago que llenen mi taza.
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>Pues yo, amigo, si me veo</l>
+                <l>acaso en esas andanzas,</l>
+                <l>de vino, en lugar de caldo,</l>
+                <l>hago que llenen mi taza.</l>
+            </sp>
 
-            PIRONDA
-            Ah, buen hijo, aqueso pido,
-            mira que adelante vayas.
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <l>Ah, buen hijo, aqueso pido,</l>
+                <l>mira que adelante vayas.</l>
+            </sp>
 
-            CORRUJA
-            Escuchen, que a su medida
-            viene esta copla cortada.
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <l>Escuchen, que a su medida</l>
+                <l>viene esta copla cortada.</l>
+            </sp>
 
-            (Canta.)
-            Dijo a la rana el mosquito
-            desde una tinaja:
-            mejor es morir en el vino
-            que vivir en el agua.
+            <stage>(Canta.)</stage>
 
-            SANTURDE
-            <l part="I">¡Vítor la Corruja!<l>
+            <sp who="#corruja">
+                <l>Dijo a la rana el mosquito</l>
+                <l>desde una tinaja:</l>
+                <l>mejor es morir en el vino</l>
+                <l>que vivir en el agua.</l>
+            </sp>
 
-            TURULEQUE
-                            <l part="F">¡Vítor!</l>
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l part="I">¡Vítor la Corruja!</l>
+            </sp>
 
-            (Sale el Mercader y el Negro, gracioso, detrás.)
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l part="F">¡Vítor!</l>
+            </sp>            
+            
+            <stage>(Sale el Mercader y el Negro, gracioso, detrás.)</stage>
 
-            MERCADER
-            <l part="I">Anda, negro.<l>
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="I">Anda, negro.</l>
+            </sp>            
+            
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="F">El neglo anda.</l>
+            </sp>
 
-            NEGRO
-                        <l part="F">El neglo anda.<l>
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>¿Sabes a lo que venimos?</l>
+            </sp>
 
-            MERCADER
-            ¿Sabes a lo que venimos?
-
-            NEGRO
-            <l part="I">No, siolo.<l>
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="I">No, siolo.</l>
+            </sp>
 
             MERCADER
                     <l part="F">En esta playa<l>
