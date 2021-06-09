@@ -243,65 +243,84 @@
                 <l part="I">No, siolo.</l>
             </sp>
 
-            MERCADER
-                    <l part="F">En esta playa<l>
-            se juntan los nadadores
-            de Sevilla y de Triana,
-            donde hacen dos mil apuestas
-            a quién más y mejor nada.
-            Y puesto que te compré
-            por tu habilidad estraña
-            de decirme que eras buzo
-            y que ocho días te pasas,
-            si es necesario, nadando,
-            sin que en Lima, que es tu patria,
-            hubiese quien te igualase...
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="F">En esta playa</l>
+                <l>se juntan los nadadores</l>
+                <l>de Sevilla y de Triana,</l>
+                <l>donde hacen dos mil apuestas</l>
+                <l>a quién más y mejor nada.</l>
+                <l>Y puesto que te compré</l>
+                <l>por tu habilidad estraña</l>
+                <l>de decirme que eras buzo</l>
+                <l>y que ocho días te pasas,</l>
+                <l>si es necesario, nadando,</l>
+                <l>sin que en Lima, que es tu patria,</l>
+                <l>hubiese quien te igualase...</l>
+            </sp>
 
-            NEGRO
-            ¿Yo, siolo?
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="I">¿Yo, siolo?</l>
+            </sp>
 
-            MERCADER
-                        Espera, aguarda.
-            Quiero, apostando por ti,
-            pues es cierta la ganancia,
-            sanear quinientos pesos
-            que costaste.
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="F">Espera, aguarda.</l>
+                <l>Quiero, apostando por ti,</l>
+                <l>pues es cierta la ganancia,</l>
+                <l>sanear quinientos pesos</l>
+                 <!-- Chequear si este es un verso partido... estaba la tabulación en la siguiente linea, pero no estoy segura-->
+                <l part="I">que costaste.</l>
+            </sp>
 
-            NEGRO
-                        ¡Andayo, pavas!
-            Mire vosancé, siolo,
-            que es grandísima binyaca
-            el amo qui mi vindió.
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="F">¡Andayo, pavas!</l>
+                <l>Mire vosancé, siolo,</l>
+                <l>que es grandísima binyaca</l>
+                <l>el amo qui mi vindió.</l>
+            </sp>
 
-            MERCADER
-            Pues vive Dios si me enfada,
-            que el remo de una galera
-            le ponga al perro por maza.
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>Pues vive Dios si me enfada,</l>
+                <l>que el remo de una galera</l>
+                <l>le ponga al perro por maza.</l>
+            </sp>
 
-            NEGRO
-            Turu aqueyo que quisiele
-            con este Antoniyo haga,
-            como usancé no me meta
-            con la maldita dil agua.
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l>Turu aqueyo que quisiele</l>
+                <l>con este Antoniyo haga,</l>
+                <l>como usancé no me meta</l>
+                <l>con la maldita dil agua.</l>
+            </sp>
 
-            TURULEQUE
-            El negro tiene razón.
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>El negro tiene razón.</l>
+            </sp>
 
-            SANTURDE
-            Tomemos esta demanda.
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>Tomemos esta demanda.</l>
+            </sp>
 
-            CORRUJA
-            ¿Por cuánto tu inclinación
-            a esta defensa faltara?
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <l>¿Por cuánto tu inclinación</l>
+                <l>a esta defensa faltara?</l>
+            </sp>
 
-            (Levántase.)
+            <stage>(Levántase.)</stage>
 
             MERCADER
             A las minas del azogue
             irás.
 
             NEGRO
-                De mun buena gana,
+                <l part="F">De mun buena gana,
             que si ayá se tiembra, aquí
             también tiembro de miraya.
 
@@ -340,7 +359,7 @@
             ¡Vive Dios!
 
             SANTURDE
-                        Téngase usted,
+                        <l part="F">Téngase usted,
             que el negro es pieza estremada.
 
             MERCADER
@@ -369,7 +388,7 @@
             ¿Vusancé no me cree?
 
             MERCADER
-                                No.
+                                <l part="F">No.
 
             NEGRO
             Pues una ardilla nos valga;
@@ -394,17 +413,17 @@
             ¿Y contigo?
 
             NEGRO
-                        ¡Hombre, qué rises!
+                        <l part="F">¡Hombre, qué rises!
             ¡Oh, qué gentil patarata!
             Deposita, que mi amo
             por mí diposita.
 
             MERCADER
-                            Vaya.
+                            <l part="F">Vaya.
             Mi dinero es este.
 
             NADADOR
-                            El mío
+                            <l part="F">El mío
             va cabal en esta calza.
             Quién lo ha de tener sepamos.
 
@@ -418,11 +437,11 @@
             (Dale el dinero.)
 
             TURULEQUE
-                            No es muy mala.
+                            <l part="F">No es muy mala.
             ¡Corruja, Pironda...!
 
             LAS DOS
-                                ¿Qué?
+                                <l part="F">¿Qué?
 
             TURULEQUE
             (Ya aqueste cayó en la trampa).
@@ -467,7 +486,7 @@
             Señor amo...
 
             MERCADER
-                        ¿Qué me quieres?
+                        <l part="F">¿Qué me quieres?
 
             NEGRO
             Que aquí una alforjilla traiga
@@ -486,7 +505,7 @@
             ¿Es así?
 
             TURULEQUE
-                    Y aquí está todo.
+                    <l part="F">Y aquí está todo.
 
             MERCADER
             ¿Qué es, moreno, lo que trazas?
@@ -526,7 +545,7 @@
             ¿Nadando ocho días?
 
             NEGRO
-                                Sí.
+                                <l part="F">Sí.
             Pues ¿de qué, siolo, se isipanta?
             De Cartagena salió
             un navío en que yo andaba
@@ -583,7 +602,7 @@
             a tu amo.
 
             NEGRO
-                    Oye usancé,
+                    <l part="F">Oye usancé,
             no se meta en otra danza,
             que juro an Dios y a esta cruz
             que turu esto es patarata.
@@ -602,7 +621,7 @@
             Vamos tras ellos.
 
             TURULEQUE
-                            Espere,
+                            <l part="F">Espere,
             que esa ida es escusada;
             aquí está todo el dinero
             y, pues que fue mal ganada
@@ -611,7 +630,7 @@
             y a usted su bolso.
 
             NEGRO
-                                Pulu Cristu,
+                                <l part="F">Pulu Cristu,
             que ha siro bien sentenciara.
 
             MERCADER
@@ -624,7 +643,7 @@
             daremos fin.
 
             MERCADER
-                        Baila, negro.
+                        <l part="F">Baila, negro.
 
             NEGRO
             Si es pulu mí, mas qui vaya.
@@ -639,13 +658,13 @@
             Y ha de responder cantando.
 
             NEGRO
-            En buen hora.
+            <l part="I">En buen hora.
 
             CORRUJA
-                        Vaya.
+                        <l part="M">Vaya.
 
             PIRONDA
-                                Vaya.
+                               <l part="F">Vaya.
 
             CORRUJA
             (Canta.)
