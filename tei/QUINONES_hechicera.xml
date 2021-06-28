@@ -23,9 +23,6 @@
         <profileDesc>
             <particDesc>
                 <listPerson>
-					<person xml:id="voces">
-						<persName>VOCES</persName>
-					</person>
                     <person xml:id="mohatra">
                         <persName>MOHATRA</persName>
                     </person>
@@ -43,9 +40,6 @@
                     </person>
                     <person xml:id="alguacil">
                         <persName>ALGUACIL</persName>
-                    </person>
-                    <person xml:id="todos">
-                        <persName>TODOS</persName>
                     </person>
                     <person xml:id="musicos">
                         <persName>MÚSICOS</persName>
@@ -95,7 +89,7 @@
                     Salen DOÑA MOHATRA y DOÑA PERINOLA, y dicen dentro.
                 </stage>    
 
-                <sp who="#voces">
+                <sp who="#badulaque">
                     <speaker>VOCES</speaker>
                     <l>¡Fuego!, ¡fuego!</l>
                 </sp>
@@ -812,7 +806,7 @@
                     <l>para estar siguro destos!</l>
                 </sp>
 
-                <sp who="#todos">
+                <sp who="#chicolio #criado #alguacil">
                     <speaker>TODOS</speaker>
                     <l>¡Perinola, Perinola!</l>
                 </sp>
