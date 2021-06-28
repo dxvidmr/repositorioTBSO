@@ -15,8 +15,8 @@
         </publicationStmt>
         <sourceDesc>
             <bibl>
-                Cotarelo y Mori, E. (1911). Colección de entremeses, Vol. II, Universidad de Granada (2000) (pp. 722-725)
-            </bibl>
+				Edición realizada a partir de Cotarelo y Mori, E. (1911). Colección de entremeses, Vol. II, Universidad de Granada (2000) (pp. 722-725)            
+			</bibl>
         </sourceDesc>
         </fileDesc>
 		<profileDesc>
@@ -37,6 +37,9 @@
 					<person xml:id="criada">
 						<persName>Criada</persName>
 					</person>
+					<person xml:id="musicos">
+						<persName>Músicos</persName>
+					</person>
 				</listPerson>
 			</particDesc>
 			<textClass>
@@ -54,7 +57,7 @@
 				Entremés del marión
 			</head>
 			<castList>
-				<head>FIGURAS DÉL:</head>
+				<head>FIGURAS:</head>
 				<castItem>
 					<role corresp="#catalina">CATALINA</role>
 				</castItem>
@@ -71,14 +74,13 @@
 					<role corresp="#criada">UNA CRIADA</role>
 				</castItem>
 				<castItem>
-					<role corresp="#">MÚSICOS</role>
+					<role corresp="#musicos">MÚSICOS</role>
 				</castItem>
 			</castList>
 		</front>
 
 	<body>
 		<div>
-		
 
 			<stage>(Salen CATALINA y JUANA y ZURRÓN)</stage>
 
@@ -428,13 +430,13 @@
 			<stage>(Sale una tapada.)</stage>
 
 			<sp who="#zurron">
-				<speaker>[ZURRÓN]</speaker>
+				<speaker>ZURRÓN</speaker>
 				<l>Este sí que es galán y no vinagres</l>
 				<l part="I">sin cuenta ni razón.</l>
 			</sp>
 
 			<sp who="#marion">
-				<speaker>[MARIÓN]</speaker>
+				<speaker>MARIÓN</speaker>
 				<l part="F">¡Jesús eterno!</l>
 				<l>¿Tapadas en mi casa? ¡Lindo aliño!</l>
 				<l part="I">Medraremos por cierto.</l>
@@ -516,7 +518,7 @@
 				<l>Si bailan bien, la burla les perdono.</l>
 			</sp>
 
-			<sp>
+			<sp who="#musicos #catalina #juana #zurron">
 			<stage>(Cantan.)</stage>
 				<l>Éranse dos niñas</l>
 				<l>bellas como el sol,</l>
