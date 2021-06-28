@@ -63,34 +63,34 @@
     
             <stage>Salen MARI PITORRA y la CHILLONA, emplazándose en el tablado. Echa el manto por debajo del brazo como capa, y la PITORRA hace con él un rebozo a zurdas.</stage>
 
-            <sp who="pitorra">
+            <sp who="#pitorra">
                 <speaker>PITORRA.</speaker>
                 <l>Arrojamiento tienes de muchacho.</l>
             </sp>
 
-            <sp who="chillona">
+            <sp who="#chillona">
                 <speaker>CHILLONA.</speaker>
                 <l>Yo soy hombre y mujer y marimacho.</l>
             </sp>
             
-            <sp who="pitorra">
+            <sp who="#pitorra">
                 <speaker>PITORRA.</speaker>
                 <l>¿Inclinada a las armas?</l>
             </sp>
 
-            <sp who="chilona">
+            <sp who="#chilona">
                 <speaker>CHILLONA.</speaker>
                 <l>Tanto cuanto.</l>
                 <l>¿No has oído nombrar a la Chillona?</l>
             </sp>
 
-            <sp who="pitorra">
+            <sp who="#pitorra">
                 <speaker>PITORRA.</speaker>
                 <l>Ya, ya; eres magnífica persona,</l>
                 <l>famosa esgrimidora.</l>
             </sp>
 
-            <sp who="chillona">
+            <sp who="#chillona">
                 <speaker>CHILLONA.</speaker>
                 <l>El natural alabo,</l>
                 <l>pues las de puño en un cerrojo clavo;</l>
@@ -102,325 +102,391 @@
                 <l>y pretendo saber la verdadera.</l>
             </sp>
 
-            <sp who="pitorra"> 
+            <sp who="#pitorra"> 
                 <speaker>PITORRA.</speaker>
                 <l>Colérica pareces.</l>
             </sp>
 
+            <sp who="#chillona">            
+                <speaker>CHILLONA.</speaker>
+                <l>Yo soylo, soylo mucho.</l>
+            </sp>
+
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Es para la destreza pestilencia,</l>
+                <l>pues por cualquiera cosa</l>
+                <l>se te subirá el humo a las narices.</l>
+                <l>Dícenme que es Morales gran maestro.</l>
+            </sp>
+
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>El maestro mayor es hoy Morales,</l>
+                <l>que todo lo deshace y lo derrueca</l>
+                <l>jugando con su niña de muñeca.</l>
+                <l>Y aunque es Morales la destreza mesma,</l>
+                <l>tiene malos reveses la cuaresma.</l>
+                <l>Isabel Ana es toda juego limpio,</l>
+                <l>y con ella y con Robles se me acuerda</l>
+                <l>que hiere con el arco y con la cuerda,</l>
+                <l>y Treviño es un rayo</l>
+                <l>aunque riñe lo más como lacayo.</l>
+                <l>Jusepa...</l>
+            </sp> 
+
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Es la infalible:</l>
+                <l>cuando juega es a tierra, es invencible,</l>
+                <l>que con honestidad tan reservada</l>
+                <l>contra las vidas es arma vedada.</l>
+                <l>De Granados también aprender puedes.</l>
+            </sp> 
+
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>No sabe sino dar por las paredes.</l>
+                <l>Avendaño es famoso,</l>
+                <l>pues con María Candado y con Antonia,</l>
+                <l>entrambas de arte y de hermosura rara,</l>
+                <l>es el que mejor juega cara a cara.</l>
+            </sp>
+
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Por eso es jugador de carantoña.</l>
+                <l>No se descuida Prado,</l>
+                <l>pues en su compañía</l>
+                <l>tray a la madre Monda,</l>
+                <l>vieja que de don Luis y de Carranza</l>
+                <l>tiene todos los textos en la panza.</l>
+                <l>Mas veisla aquí que sale</l>
+                <l>a enseñar la destreza verdadera,</l>
+                <l>embutida de ángulos y líneas.</l>
+            </sp>
+
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>A medida me viene del deseo.</l>
+            </sp> 
+
+<!-- mantener corchetes? unificar criterios-->
+           <stage>(Sale la madre MONDA con sus tocas de viuda, un casco, un montante, dos espadas de esgrimir; y con ella ANA DE COCA y VICENTA.)</stage>
+
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Lo que me alegro, niñas, cuando os veo.</l>
+                <l>Parece ahigadada la mozuela.</l>
+            </sp>
+
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Yo, madre Monda, soy la hija Pela.</l>
+                <l>Llámanme la Chillona.</l>
+            </sp>
             
-            CHILLONA.
-            Yo soylo, soylo mucho.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Tenéis buen ancantuso de persona.</l>
+                <l>Tomá esa espada; quiero ver el aire</l>
+                <l>y el juego que jugáis. Partí.</l>
+            </sp>
 
-            PITORRA.
-            Es para la destreza pestilencia,
-            pues por cualquiera cosa
-            se te subirá el humo a las narices.
-            Dícenme que es Morales gran maestro.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>No quiero,</l>
+                <l>que yo con nadie parto.</l>
+            </sp>
 
-            CHILLONA.
-            El maestro mayor es hoy Morales,
-            que todo lo deshace y lo derrueca
-            jugando con su niña de muñeca.
-            Y aunque es Morales la destreza mesma,
-            tiene malos reveses la cuaresma.
-            Isabel Ana es toda juego limpio,
-            y con ella y con Robles se me acuerda
-            que hiere con el arco y con la cuerda,
-            y Treviño es un rayo
-            aunque riñe lo más como lacayo.
-            Jusepa...
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Destreza verdadera,</l>
+                <l>no partir con amiga ni tercera.</l>
+            </sp>
 
-            PITORRA.
-            Es la infalible:
-            cuando juega es a tierra, es invencible,
-            que con honestidad tan reservada
-            contra las vidas es arma vedada.
-            De Granados también aprender puedes.
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>No partir y tomarlo todo entero</l>
+                <l>es juego de mi propio calvatrueno.</l>
+            </sp>
 
-            CHILLONA.
-            No sabe sino dar por las paredes.
-            Avendaño es famoso,
-            pues con María Candado y con Antonia,
-            entrambas de arte y de hermosura rara,
-            es el que mejor juega cara a cara.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Bueno, bueno, rebueno, mucho bueno.</l>
+                <l>Mari Pitorra, hazla preguntillas.</l>
+                <l>¡Qué espadas estas para en zapatillas!</l>
+                <l>¿Tomáis vos por de dentro o por de fuera?</l>
+            </sp>
+            
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Si me afirmo con una faltiquera,</l>
+                <l>por todas partes tomo,</l>
+                <l>por de dentro y de fuera,</l>
+                <l>por uno y otro lado,</l>
+                <l>y hasta el acero está de mí tomado.</l>
+                <l>¿Qué hará el dinero ajeno?</l>
+            </sp>
 
-            PITORRA.
-            Por eso es jugador de carantoña.
-            No se descuida Prado,
-            pues en su compañía
-            tray a la madre Monda,
-            vieja que de don Luis y de Carranza
-            tiene todos los textos en la panza.
-            Mas veisla aquí que sale
-            a enseñar la destreza verdadera,
-            embutida de ángulos y líneas.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Bueno, bueno, rebueno, mucho bueno.</l>
+                <l>Un águila ha de ser en cuatro días,</l>
+                <l>y en ocho meses ocho mil arpías.</l>
+                <l>Toma, hija, esa espada.</l>
+            </sp>
+            
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Que me place.</l>
+            </sp>
 
-            CHILLONA.
-            A medida me viene del deseo.
+            <sp who="#madre">    
+            <speaker>MADRE.</speaker>
+                <l>Medio de proporción más verdadero</l>
+                <l>es, Chillona, el dinero.</l>
+                <l>La destreza de todos siempre ha sido</l>
+                <l>-así vulgares como verdaderos-</l>
+                <l>dar y no recibir; pues ten en punto,</l>
+                <l>-por caridad que vais conmigo agora-:</l>
+                <l>La que esgrimiere el jeme por espada</l>
+                <l>reciba mucho, pero no dé nada.</l>
+                <l>En cuanto al afirmarse</l>
+                <l>la que pidió, si el hombre replicase</l>
+                <l>y mudare de plática dormido,</l>
+                <l>afirmarse en lo mismo que ha pedido.</l>
+                <l>Si queréis atajar a un desdichado,</l>
+                <l>pedilde y le veréis luego atajado.</l>
+                <l>Llamo necesitar al enemigo</l>
+                <l>el tomalle la hacienda, de manera,</l>
+                <l>y con tanto cuidado,</l>
+                <l>que le dejéis después necesitado.</l>
+                <l>Allá el tocar el casco es el primero;</l>
+                <l>mas en esta doctrina que yo masco,</l>
+                <l>lo postrero ha de ser el tocar casco.</l>
+                <l>Usábanse en lo viejo</l>
+                <l>estocadas de puño;</l>
+                <l>mas estocada puño es cosa poca,</l>
+                <l>mejor es estocada saya y ropa.</l>
+                <l>Mandoble es deminuto de Mahoma;</l>
+                <l>yo enseño mandoblón a la que toma.</l>
+                <l>Codazos se permiten a las viejas</l>
+                <l>para que en diferentes coyunturas</l>
+                <l>acuerden a las niñas pediduras.</l>
+                <l>Y porque hay hombres, hijas,</l>
+                <l>que traen perros de ayuda</l>
+                <l>-el demonio sea sordo-</l>
+                <l>previniendo sus yerros,</l>
+                <l>quiero enseñaros treta contra perros</l>
+                <l>para que sean los perros inmortales:</l>
+                <l>en treta firme el antubión de reales;</l>
+                <l>la cantidad discreta es la contada,</l>
+                <l>porque la prometida, en el que roba,</l>
+                <l>es la cantidad boba;</l>
+                <l>ángulo agudo, mano de ricubo:</l>
+                <l>en forma de cuchar uñas de encaje,</l>
+                <l>que todo esotro es ángulo salvaje.</l>
+                <l>El toque, Pitorra</l>
+            </sp>
+            
+            <sp who="#pitorra">
+                <speaker>PITORRA.</speaker>
+                <l>Ha de ser toque franco.</l>
+            </sp>
+            
+            <sp who="#chillona">
+                <speaker>CHILLONA.</speaker>
+                <l>Que sólo el franco toque.</l>
+            </sp>
 
-            (Sale la madre MONDA con sus tocas de viuda, un casco, un montante, dos espadas de
-            esgrimir; y con ella ANA DE COCA y VICENTA.)
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Podréis servir de pestes a San Roque.</l>
+                <l>La conclusión, que llaman treta rara,</l>
+                <l>se hace desta manera</l>
+                <!-- noramala??-->
+                <l>-atiendan noramala,</l>
+                <l>que les daré, por Cristo, dos hurgones-:</l>
+                <l>vase a la espada abriendo ángulo agudo,</l>
+                <l>se ocupa con el cuerpo deste modo</l>
+                <l>y, el brazo bien tendido,</l>
+                <l>tomar la guarnición para un vestido.</l>
+            </sp> 
 
-            MADRE.
-            Lo que me alegro, niñas, cuando os veo.
-            Parece ahigadada la mozuela.
+            <sp who="#vicenta">
+                <speaker>VICENTA.</speaker>
+                <l>Entradas y salidas en el juego</l>
+                <l>es lo más importante</l>
+                <l>en los esgrimidores.</l>
+                <l>De los arrendadores</l>
+                <l>que juegan solamente esas heridas</l>
+                <l>aprenderéis entradas y salidas.</l>
+                <l>Oíd, aparadores alto y bajo</l>
+                <l>que de alforjas servís a los corrales</l>
+                <l>donde lleva sus tratos infernales;</l>
+                <l>vieja, que estás tapada</l>
+                <l>con tu boca de abrojo</l>
+                <l>y esgrimes calavera de medio ojo</l>
+                <l>cuando entre las dos yemas de los dedos,</l>
+                <l>con que te tapas, de pellizco cubres</l>
+                <l>la turbamulta de años y de otubres;</l>
+                <l>si en ocasión te vieres, echa mano,</l>
+                <l>ase a una buida,</l>
+                <l>pues que todas las viejas</l>
+                <l>tenéis hijas de ganchos con guedejas,</l>
+                <l>y para el que se os llega,</l>
+                <l>tenéis en la armería</l>
+                <l>contra bolsas ariscas</l>
+                <l>chicotas ginoviscas</l>
+                <l>que, del primero bote</l>
+                <l>de un mayorazgo hacen un jigote.</l>
+                <l>Y tú, vieja maldita que lo ordenas,</l>
+                <l>eres hoja de comes y de cenas.</l>
+                <l>Para heridas de tomo</l>
+                <l>son mejores las pícaras de lomo,</l>
+                <l>aunque en otras empresas</l>
+                <l>valen más las muchachas de tus mesas.</l>
+                <l>También jugando juego de floreado</l>
+                <l>en fruta y ramilletes</l>
+                <l>llevan la madrugona los pobretes,</l>
+                <l>porque ya mosquetera de soplillo</l>
+                <l>no se repara en nada</l>
+                <l>después que anda por las dos Castillas</l>
+                <l>adobar monos como adobar sillas,</l>
+                <l>y en fardos se pregonan por las calles,</l>
+                <l>como antes esteras,</l>
+                <l>mercapiernas, colmillos, cabelleras,</l>
+                <l>y, a modo de vinagre,</l>
+                <l>por sufrir los barrancos y corcovas,</l>
+                <l>hay quien pregone petos por arrobas.</l>
+            </sp> 
+            
+            <sp who="#alguacil">
+                <speaker>ALGUACIL.</speaker>
+                <l>¡Abran a la justicia!</l>
+            </sp>
 
-            CHILLONA.
-            Yo, madre Monda, soy la hija Pela.
-            Llámanme la Chillona.
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>La cabeza.</l>
+                <l>Esta justicia tiene mal de piedra,</l>
+                <l>pues pide que le abran.</l>
+            </sp>
 
-            MADRE.
-            Tenéis buen ancantuso de persona.
-            Tomá esa espada; quiero ver el aire
-            y el juego que jugáis. Partí.
+            <sp who="#alguacil">
+                <speaker>ALGUACIL.</speaker>
+                <l>¿Qué embelecos se forman y se labran?</l>
+            </sp> 
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Mas líbranos de mal. Sea bien venido</l>
+                <l>su merced del resuello de la cárcel</l>
+                <l>y el señor vaho de perseguir chiflando.</l>
+                <l>Aquí se trata de virtud en todo.</l>
+                <l>Estaba yo instruyendo estas muchachas</l>
+                <l>en toda perfectión de castañeta.</l>
+            </sp>
 
-            CHILLONA.
-            No quiero,
-            que yo con nadie parto.
+            <sp who="#escribano">
+                <speaker>ESCRIBANO.</speaker>
+                <l>La madre Rastreado es muy perfeta.</l>
+            </sp>
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                <l>Soy un gusano. Hijas, alto, al baile</l>
+                <l>que tenéis prevenido</l>
+                <l>y con buena intención ande el bullido.</l>
+                <l>Todo se acaba aquí, mundo malo.</l>
+            </sp>
+            
+            <sp who="#escribano">
+                <speaker>ESCRIBANO.</speaker>
+                <l>Madre Monda, sin causa tienes queja.</l>
+            </sp> 
+            
+            <sp who="#madre">
+                <speaker>MADRE.</speaker>
+                 <!-- otras grandes frases!-->
+                <l>No puede ser sin causa</l>
+                <l>donde hay pluma y tintero, vara y saya,</l>
+                <l>que harán la causa cuando no la haya.</l>
+            </sp>
 
-            MADRE.
-            Destreza verdadera,
-            no partir con amiga ni tercera.
+            <stage>(Sale bailando de torneo la CHILLONA. Cantan los MÚSICOS.)</stage>
 
-            CHILLONA.
-            No partir y tomarlo todo entero
-            es juego de mi propio calvatrueno.
+            <sp who="#musicos">
+                <speaker>MÚSICOS.</speaker>
+                <l>Allá va con un sombrero,</l>
+                <l>que lleva, por lo de Flandes</l>
+                <l>más plumas que la Provincia,</l>
+                <l>más corchetes que la cárcel.</l>
+                <l>Va con pasos de pasión</l>
+                <l>de crucificar amantes</l>
+                <l>y con donaires sayones</l>
+                <l>que los dineros taladren.</l>
+                <l>El talle, de no dejar</l>
+                <l>aun dineros en agraces,</l>
+                <l>aire de llevar la bolsa</l>
+                <l>al más guardoso en el aire.</l>
+                <l>En los ojos trae por niñas</l>
+                <l>dos mercaderes rapantes,</l>
+                <l>que al rico avariento cuentan</l>
+                <l>en el infierno los reales.</l>
+                <l>Dos demandas por empresa</l>
+                <l>con una letra delante:</l>
+                <l>«Mujer que demanda siempre</l>
+                <l>Satanás se lo demande».</l>
+            </sp>
 
-            MADRE.
-            Bueno, bueno, rebueno, mucho bueno.
-            Mari Pitorra, hazla preguntillas.
-            ¡Qué espadas estas para en zapatillas!
-            ¿Tomáis vos por de dentro o por de fuera?
+            <stage>(Párase en su puesto y sale MARI PITORRA. Cantan.)</stage>
 
-            CHILLONA.
-            Si me afirmo con una faltiquera,
-            por todas partes tomo,
-            por de dentro y de fuera,
-            por uno y otro lado,
-            y hasta el acero está de mí tomado.
-            ¿Qué hará el dinero ajeno?
+            <sp who="#musicos">
+                <speaker>[MÚSICOS.]</speaker>
+                <l>Lleva en sus manos y dedos</l>
+                <l>a todos los Doce Pares,</l>
+                <l>Galalones por las uñas</l>
+                <l>y por la palma Roldanes.</l>
+                <l>Una pelota en su pala</l>
+                <l>lleva, y escrito delante:</l>
+                <l>«Ha de quedar en pelota</l>
+                <l>quien me dejare que saque».</l>
+                <l>Y para que se acometan</l>
+                <l>y las viseras se calen,</l>
+                <l>los pífanos y las cajas</l>
+                <l>confusas señales hacen.</l>
+                <l>Tan, tan, tan,</l>
+                <l>tan pobres los tiempos van</l>
+                <l>que piden y no nos dan,</l>
+                <l>dan, dan, dan.</l>
+                <l>No de punta en blanco</l>
+                <l>van armadas ya,</l>
+                <l>mas de puño en blancas</l>
+                <l>y de puño en real.</l>
+                <l>Botes de botica</l>
+                <l>no hacen tanto mal</l>
+                <l>como los de uña</l>
+                <l>que en las tiendas dan.</l>
+                <l>No sabe en su tajo</l>
+                <l>el bolsón nadar:</l>
+                <l>viejas remolinos</l>
+                <l>sorben su caudal.</l>
+                <l>Del uñas abajo</l>
+                <l>¿quién se esconderá?</l>
+                <l>Del uñas arriba</l>
+                <l>no basta volar.</l>
+                <l>Tan, tan, tan,</l>
+                <l>tan pobres los tiempos van</l>
+                <l>que piden y no nos dan,</l>
+                <l>dan, dan, dan, dan.</l>
+                <l>Esta es la justicia</l>
+                <l>que mandan hacer</l>
+                <l>a quien sin dar mucho</l>
+                <l>quiere que le den.</l>
+            </sp>
 
-            MADRE.
-            Bueno, bueno, rebueno, mucho bueno.
-            Un águila ha de ser en cuatro días,
-            y en ocho meses ocho mil arpías.
-            Toma, hija, esa espada.
-
-            CHILLONA.
-            Que me place.
-
-            MADRE.
-            Medio de proporción más verdadero
-            es, Chillona, el dinero.
-            La destreza de todos siempre ha sido
-            -así vulgares como verdaderos-
-            dar y no recibir; pues ten en punto,
-            -por caridad que vais conmigo agora-:
-            La que esgrimiere el jeme por espada
-            reciba mucho, pero no dé nada.
-            En cuanto al afirmarse
-            la que pidió, si el hombre replicase
-            y mudare de plática dormido,
-            afirmarse en lo mismo que ha pedido.
-            Si queréis atajar a un desdichado,
-            pedilde y le veréis luego atajado.
-            Llamo necesitar al enemigo
-            el tomalle la hacienda, de manera,
-            y con tanto cuidado,
-            que le dejéis después necesitado.
-            Allá el tocar el casco es el primero;
-            mas en esta doctrina que yo masco,
-            lo postrero ha de ser el tocar casco.
-            Usábanse en lo viejo
-            estocadas de puño;
-            mas estocada puño es cosa poca,
-            mejor es estocada saya y ropa.
-            Mandoble es deminuto de Mahoma;
-            yo enseño mandoblón a la que toma.
-            Codazos se permiten a las viejas
-            para que en diferentes coyunturas
-            acuerden a las niñas pediduras.
-            Y porque hay hombres, hijas,
-            que traen perros de ayuda
-            -el demonio sea sordo-
-            previniendo sus yerros,
-            quiero enseñaros treta contra perros
-            para que sean los perros inmortales:
-            en treta firme el antubión de reales;
-            la cantidad discreta es la contada,
-            porque la prometida, en el que roba,
-            es la cantidad boba;
-            ángulo agudo, mano de ricubo:
-            en forma de cuchar uñas de encaje,
-            que todo esotro es ángulo salvaje.
-            El toque, Pitorra
-
-            PITORRA.
-            Ha de ser toque franco.
-
-            CHILLONA.
-            Que sólo el franco toque.
-
-            MADRE.
-            Podréis servir de pestes a San Roque.
-            La conclusión, que llaman treta rara,
-            se hace desta manera
-            -atiendan noramala,
-            que les daré, por Cristo, dos hurgones-:
-            vase a la espada abriendo ángulo agudo,
-            se ocupa con el cuerpo deste modo
-            y, el brazo bien tendido,
-            tomar la guarnición para un vestido.
-
-            VICENTA.
-            Entradas y salidas en el juego
-            es lo más importante
-            en los esgrimidores.
-            De los arrendadores
-            que juegan solamente esas heridas
-            aprenderéis entradas y salidas.
-            Oíd, aparadores alto y bajo
-            que de alforjas servís a los corrales
-            donde lleva sus tratos infernales;
-            vieja, que estás tapada
-            con tu boca de abrojo
-            y esgrimes calavera de medio ojo
-            cuando entre las dos yemas de los dedos,
-            con que te tapas, de pellizco cubres
-            la turbamulta de años y de otubres;
-            si en ocasión te vieres, echa mano,
-            ase a una buida,
-            pues que todas las viejas
-            tenéis hijas de ganchos con guedejas,
-            y para el que se os llega,
-            tenéis en la armería
-            contra bolsas ariscas
-            chicotas ginoviscas
-            que, del primero bote
-            de un mayorazgo hacen un jigote.
-            Y tú, vieja maldita que lo ordenas,
-            eres hoja de comes y de cenas.
-            Para heridas de tomo
-            son mejores las pícaras de lomo,
-            aunque en otras empresas
-            valen más las muchachas de tus mesas.
-            También jugando juego de floreado
-            en fruta y ramilletes
-            llevan la madrugona los pobretes,
-            porque ya mosquetera de soplillo
-            no se repara en nada
-            después que anda por las dos Castillas
-            adobar monos como adobar sillas,
-            y en fardos se pregonan por las calles,
-            como antes esteras,
-            mercapiernas, colmillos, cabelleras,
-            y, a modo de vinagre,
-            por sufrir los barrancos y corcovas,
-            hay quien pregone petos por arrobas.
-
-            ALGUACIL.
-            ¡Abran a la justicia!
-
-            MADRE.
-            La cabeza.
-            Esta justicia tiene mal de piedra,
-            pues pide que le abran.
-
-            ALGUACIL.
-            ¿Qué embelecos se forman y se labran?
-
-            MADRE.
-            Mas líbranos de mal. Sea bien venido
-            su merced del resuello de la cárcel
-            y el señor vaho de perseguir chiflando.
-            Aquí se trata de virtud en todo.
-            Estaba yo instruyendo estas muchachas
-            en toda perfectión de castañeta.
-
-            ESCRIBANO.
-            La madre Rastreado es muy perfeta.
-
-            MADRE.
-            Soy un gusano. Hijas, alto, al baile
-            que tenéis prevenido
-            y con buena intención ande el bullido.
-            Todo se acaba aquí, mundo malo.
-
-            ESCRIBANO.
-            Madre Monda, sin causa tienes queja.
-
-            MADRE.
-            No puede ser sin causa
-            donde hay pluma y tintero, vara y saya,
-            que harán la causa cuando no la haya.
-
-            (Sale bailando de torneo la CHILLONA. Cantan los MÚSICOS.)
-
-            MÚSICOS.
-            Allá va con un sombrero,
-            que lleva, por lo de Flandes
-            más plumas que la Provincia,
-            más corchetes que la cárcel.
-            Va con pasos de pasión
-            de crucificar amantes
-            y con donaires sayones
-            que los dineros taladren.
-            El talle, de no dejar
-            aun dineros en agraces,
-            aire de llevar la bolsa
-            al más guardoso en el aire.
-            En los ojos trae por niñas
-            dos mercaderes rapantes,
-            que al rico avariento cuentan
-            en el infierno los reales.
-            Dos demandas por empresa
-            con una letra delante:
-            «Mujer que demanda siempre
-            Satanás se lo demande».
-
-            (Párase en su puesto y sale MARI PITORRA. Cantan.)
-
-            [MÚSICOS.]
-            Lleva en sus manos y dedos
-            a todos los Doce Pares,
-            Galalones por las uñas
-            y por la palma Roldanes.
-            Una pelota en su pala
-            lleva, y escrito delante:
-            «Ha de quedar en pelota
-            quien me dejare que saque».
-            Y para que se acometan
-            y las viseras se calen,
-            los pífanos y las cajas
-            confusas señales hacen.
-            Tan, tan, tan,
-            tan pobres los tiempos van
-            que piden y no nos dan,
-            dan, dan, dan.
-            No de punta en blanco
-            van armadas ya,
-            mas de puño en blancas
-            y de puño en real.
-            Botes de botica
-            no hacen tanto mal
-            como los de uña
-            que en las tiendas dan.
-            No sabe en su tajo
-            el bolsón nadar:
-            viejas remolinos
-            sorben su caudal.
-            Del uñas abajo
-            ¿quién se esconderá?
-            Del uñas arriba
-            no basta volar.
-            Tan, tan, tan,
-            tan pobres los tiempos van
-            que piden y no nos dan,
-            dan, dan, dan, dan.
-            Esta es la justicia
-            que mandan hacer
-            a quien sin dar mucho
-            quiere que le den.
         </div>
     
     </body>

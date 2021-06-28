@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+    type="application/xml" 
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title>Entremés de los nadadoders de Sevilla y de Triana</title>
+            <author>Gil Lópz de Armesto</author>
+            <editor>Pamela Gionco</editor>
+        </titleStmt>
+        <publicationStmt>
+            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                Huerta Calvo, J. y Gómez Sánchez-Ferrer, G. (????) Sainetes y entremeses representados y cantados de Gil López de Armesto. CORTBE.
+            </bibl>
+        </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+ <!-- los nombres de los personajes y roles estaban en minúscula. Hay que ponerlos en mayúscula??-->
+					<person xml:id="pironda">
+						<persName>La Pironda</persName>
+					</person>
+                    <person xml:id="corruja">
+                        <persName>La Corruja</persName>
+                    </person>
+                    <person xml:id="santurde">
+                        <persName>Santurde</persName>
+                    </person>
+                    <person xml:id="turuleque">
+                        <persName>Turuleque</persName>
+                    </person>
+                    <person xml:id="mercader">
+                        <persName>Un mercader</persName>
+                    </person>
+                    <person xml:id="negro">
+                        <persName>Un negro</persName>
+                    </person>
+                    <person xml:id="nadado">
+                        <persName>Un nadado</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <keywords>
+                    <term type="genreTitle">entremés</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <head>
+                Entremés de los nadadores de Sevilla y de Triana
+            </head>
+            <castList>
+                <head>Figuras</head>
+                <castItem>
+                    <role corresp="#pironda">La Pironda</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#corruja">La Corruja</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#santurde">Santurde</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#turuleque">Turuleque</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#mercader">Un mercader</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#negro">Un negro</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#nadado">Un nadado</role>
+                </castItem>
+            </castList>
+        </front>
+        
+        <body>
+
+            <!-- dejar/sacar parentésis?-->
+            <stage>(Sale por una puerta la Pironda con mantellina y sombrero, cantando, y Turuleque tras ella.)</stage>
+
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <stage>(Canta.)</stage>
+                <l>A la verde orilla</l>
+                <l>de Guadalquivir,</l>
+                <l>damas de Sevilla,</l>
+                <l>alegres venid.</l>
+            </sp>
+            
+            <stage>(Salen por la otra puerta la Corruja con el mesmo traje, cantando, y Santurde tras ella.)</stage>
+
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <stage>(Canta.)</stage>
+                <l>Damas de Triana,</l>
+                <l>ya tenéis aquí</l>
+                <l>quien vuestro festejo</l>
+                <l>ayude a aplaudir.</l>
+            </sp>
+
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <stage>(Canta.)</stage>
+                <l>Pues decid cantando:</l>
+            </sp>
+
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <stage>(Canta.)</stage>
+                <l>Bailando decid:</l>
+            </sp>
+
+  <!-- Cómo se ponen dos personajes? situación similar a cuando aparece TODOS?
+  Va así??-->
+            <sp who="#pironda #corruja">
+                <speaker>LAS DOS</speaker>
+                <l>A la verde orilla</l>
+                <l>de Guadalquivir,</l>
+                <l>damas de Sevilla,</l>
+                <l>alegres venid.</l>
+            </sp>
+
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Basta ya, Pironda mía.</l>
+            </sp>
+
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>Corruja mía, ya basta.</l>
+            </sp>
+        
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <l>Pues, seor Santurde, ¿qué quiere?</l>
+            </sp>
+
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <l>Seor Turuleque, ¿qué manda?</l>
+            </sp>
+
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Que, sentados a la orilla,</l>
+                <l>gocemos de la algazara</l>
+                <l>que los nadadores tienen</l>
+                <l>apostando a quién más nada.</l>
+            </sp> 
+
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>¿Que haya hombres que desto vivan?</l>
+            </sp>
+
+          <!-- Entiendo que sigue hablando el mismo personaje. Primero puse el stage dentro del sp, pero me tira inválido el xml. Así que van dos sp-->
+            <stage>(Siéntase.)</stage>
+            
+            <sp who="#santurde">
+                <l>Malditas sean sus almas,</l>
+                <l>que desde aquí estoy temblando,</l>
+                <l>que sin tragarla me traga.</l>
+            </sp>
+
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Pues yo aseguraros puedo</l>
+                <l>que nunca puse piñata</l>
+                <l>ni probé sorbo de caldo,</l>
+                <l>por estar hecho con agua.</l>
+            </sp>
+
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>Pues yo, amigo, si me veo</l>
+                <l>acaso en esas andanzas,</l>
+                <l>de vino, en lugar de caldo,</l>
+                <l>hago que llenen mi taza.</l>
+            </sp>
+
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <l>Ah, buen hijo, aqueso pido,</l>
+                <l>mira que adelante vayas.</l>
+            </sp>
+
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <l>Escuchen, que a su medida</l>
+                <l>viene esta copla cortada.</l>
+            </sp>
+
+            <stage>(Canta.)</stage>
+
+            <sp who="#corruja">
+                <l>Dijo a la rana el mosquito</l>
+                <l>desde una tinaja:</l>
+                <l>mejor es morir en el vino</l>
+                <l>que vivir en el agua.</l>
+            </sp>
+
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l part="I">¡Vítor la Corruja!</l>
+            </sp>
+
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l part="F">¡Vítor!</l>
+            </sp>            
+            
+            <stage>(Sale el Mercader y el Negro, gracioso, detrás.)</stage>
+
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="I">Anda, negro.</l>
+            </sp>            
+            
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="F">El neglo anda.</l>
+            </sp>
+
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>¿Sabes a lo que venimos?</l>
+            </sp>
+
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="I">No, siolo.</l>
+            </sp>
+
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="F">En esta playa</l>
+                <l>se juntan los nadadores</l>
+                <l>de Sevilla y de Triana,</l>
+                <l>donde hacen dos mil apuestas</l>
+                <l>a quién más y mejor nada.</l>
+                <l>Y puesto que te compré</l>
+                <l>por tu habilidad estraña</l>
+                <l>de decirme que eras buzo</l>
+                <l>y que ocho días te pasas,</l>
+                <l>si es necesario, nadando,</l>
+                <l>sin que en Lima, que es tu patria,</l>
+                <l>hubiese quien te igualase...</l>
+            </sp>
+
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="I">¿Yo, siolo?</l>
+            </sp>
+
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="F">Espera, aguarda.</l>
+                <l>Quiero, apostando por ti,</l>
+                <l>pues es cierta la ganancia,</l>
+                <l>sanear quinientos pesos</l>
+                 <!-- Chequear si este es un verso partido... estaba la tabulación en la siguiente linea, pero no estoy segura-->
+                <l part="I">que costaste.</l>
+            </sp>
+
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="F">¡Andayo, pavas!</l>
+                <l>Mire vosancé, siolo,</l>
+                <l>que es grandísima binyaca</l>
+                <l>el amo qui mi vindió.</l>
+            </sp>
+
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>Pues vive Dios si me enfada,</l>
+                <l>que el remo de una galera</l>
+                <l>le ponga al perro por maza.</l>
+            </sp>
+
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l>Turu aqueyo que quisiele</l>
+                <l>con este Antoniyo haga,</l>
+                <l>como usancé no me meta</l>
+                <l>con la maldita dil agua.</l>
+            </sp>
+
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>El negro tiene razón.</l>
+            </sp>
+
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l>Tomemos esta demanda.</l>
+            </sp>
+
+            <sp who="#corruja">
+                <speaker>CORRUJA</speaker>
+                <l>¿Por cuánto tu inclinación</l>
+                <l>a esta defensa faltara?</l>
+            </sp>
+
+            <stage>(Levántase.)</stage>
+
+            MERCADER
+            A las minas del azogue
+            irás.
+
+            NEGRO
+                <l part="F">De mun buena gana,
+            que si ayá se tiembra, aquí
+            también tiembro de miraya.
+
+            MERCADER
+            ¿De qué servías en Lima?
+
+            NEGRO
+            De andar por cayes y prazas
+            vendiendo maní tustaro,
+            pipián, leche cuajara,
+            charque, tamales, maíz,
+            camarón, chochoca, paltas,
+            ají, chicha, chiltomates,
+            plantanicos y guayabas,
+            congrejo con su candillo
+            y con salpimienta papas,
+            y otras dos mil pulquerías
+            y, cuando me lo mandaban,
+            tomando la guitariya
+            con las molenas bailaba.
+            Molenica di Congo, zanbanbú.
+
+            (Saca una guitarra y canta.)
+
+            Qué garano me pongo, zanbanbú,
+            que mañana me caso, ayúrame tú,
+            zanbanbú, zanbanbú.
+
+            MERCADER
+            ¿Callarás, negro u demonio?
+
+            NEGRO
+            Ya, siolo, el neglo caya.
+
+            MERCADER
+            ¡Vive Dios!
+
+            SANTURDE
+                        <l part="F">Téngase usted,
+            que el negro es pieza estremada.
+
+            MERCADER
+            Quinientas piezas mejores
+            me costó, pese a su alma.
+
+            (Sale el Nadador.)
+
+            NADADOR
+            ¿Hay aquí alguno que quiera
+            nadar cien pesos de plata?
+
+            TURULEQUE
+            Sí hubiera, si el río fuera
+            una cuba de cazalla.
+
+            PIRONDA
+            Y aun a dos sorbos que dieras,
+            en qué nadar te faltara.
+
+            MERCADER
+            Hijo, aquesta es ocasión.
+            Deja, Antoñuelo, las chanzas.
+
+            NEGRO
+            ¿Vusancé no me cree?
+
+            MERCADER
+                                <l part="F">No.
+
+            NEGRO
+            Pues una ardilla nos valga;
+            a tura lo que yo riga,
+            riga que sí, y luego traya
+            lo que yo piriere al punto.
+
+            MERCADER
+            En buen hora, pues ¿qué aguardas?
+
+            NEGRO
+            ¿Es vusancé aquel que quiere
+            perder cien pesos de prata?
+
+            NADADOR
+            Yo, negro, ganarlos quiero.
+
+            NEGRO
+            Eso es si con otro nara.
+
+            NADADOR
+            ¿Y contigo?
+
+            NEGRO
+                        <l part="F">¡Hombre, qué rises!
+            ¡Oh, qué gentil patarata!
+            Deposita, que mi amo
+            por mí diposita.
+
+            MERCADER
+                            <l part="F">Vaya.
+            Mi dinero es este.
+
+            NADADOR
+                            <l part="F">El mío
+            va cabal en esta calza.
+            Quién lo ha de tener sepamos.
+
+            NEGRO
+            Tura aquesta es gente honrada.
+
+            NADADOR
+            Pues tomad y al que ganare
+            lo entregaréis.
+
+            (Dale el dinero.)
+
+            TURULEQUE
+                            <l part="F">No es muy mala.
+            ¡Corruja, Pironda...!
+
+            LAS DOS
+                                <l part="F">¿Qué?
+
+            TURULEQUE
+            (Ya aqueste cayó en la trampa).
+
+            MERCADER
+            No pongo duda, señor,
+            de la mucha confianza
+            que se debe hacer de vos,
+            pero estáis con estas damas
+            y no nos podréis seguir
+            ni será razón dejarlas.
+
+            TURULEQUE
+            Aqueso no os dé cuidado,
+            que es antes la confianza.
+
+            PIRONDA
+            [Aparte.]
+            (Que te pierdes, avariento).
+
+            CORRUJA
+            [Aparte.]
+            (Codicioso, que te clavas).
+
+            MERCADER
+            Pues mi dinero es aqueste:
+            tras cada real se va el alma.
+
+            (Dale un beso.)
+
+            NADADOR
+            Moreno, ¿no te desnudas?
+
+            NEGRO
+            Pues ya me resnuro, branca.
+
+            MERCADER
+            Por mi honra mira, Antoñuelo.
+
+            NEGRO
+            (Mijor dirá por su prata).
+            Señor amo...
+
+            MERCADER
+                        <l part="F">¿Qué me quieres?
+
+            NEGRO
+            Que aquí una alforjilla traiga
+            con un pidazo de queso
+            y en bota, no en calabasa,
+            un poco de vino bueno.
+
+            SANTURDE
+            Aguarda, Antoñuelo, aguarda,
+            que todo lo que has pedido
+            traían aquestas damas
+            para almorzar y, por verte,
+            lo darán de buena gana.
+
+            LAS DOS
+            ¿Es así?
+
+            TURULEQUE
+                    <l part="F">Y aquí está todo.
+
+            MERCADER
+            ¿Qué es, moreno, lo que trazas?
+
+            NEGRO
+            Calle usancé, ¡oh, pulu Cristu!,
+            que va volara su prata.
+            Venga y, en nombre de Dios,
+
+            (Pónese las alforjas.)
+
+            la ato, pulu que no caya,
+            y al agua, seor nararor.
+
+            NADADOR
+            ¿No dirá para qué carga
+            con bota, alforjas y queso?
+
+            NEGRO
+            ¡Qué plegunta tan gayarda,
+            qué chapetón nararor,
+            juro por mi santiguara,
+            cago cargo di consiensia
+            de ganarle: no repara
+            que si estamos ayá ocho rías
+            narando, es fuerza que aya
+            algo que comer. ¡Jesús,
+            qué grandísima inorancia!
+            Mile usté lo que le rigo,
+            que si un ojo se le salta,
+            deste vino y de este queso
+            no le daré una migaja,
+            y así usancé se plevenga
+            que curaplilé mi palabra.
+
+            NADADOR
+            ¿Nadando ocho días?
+
+            NEGRO
+                                <l part="F">Sí.
+            Pues ¿de qué, siolo, se isipanta?
+            De Cartagena salió
+            un navío en que yo andaba
+            y, por quedarme dormido
+            aquella noche en la praya,
+            se partió y, al dispertar,
+            vi que las velas hincharas
+            iban y ya tan lejos que
+            apenas se rivisiba.
+            Pues resnúrome animoso
+            y me di tan buena maña
+            que a diez días le alcancé
+            a la vista de La Habana.
+
+            SANTURDE
+            De allende el mar, miente el Negro,
+            difícil es la probanza.
+
+            MERCADER
+            Digo que el que le vendió
+            no mintió en lo que nadaba.
+
+            TURULEQUE
+            Yo me escurro con la apuesta
+            porque, después de acabada,
+            hallen el que gana y pierde:
+            uno nada, otro no nada.
+            Corruja, vente conmigo.
+
+            SANTURDE
+            Pironda, ¿qué es lo que aguardas?
+
+            CORRUJA
+            Mamola, seor codicioso.
+
+            PIRONDA
+            No deseche aquesa maula.
+
+            (Vanse los cuatro.)
+
+            NADADOR
+            Negro u demonio, ¿qué dices?
+            Pues ¿con aquesta ventaja
+            he de competir contigo?
+            Yo doy por bien empleada
+            la pérdida, por no ver
+            mi vida tan arriesgada.
+
+            NEGRO
+            ¿Pus la gente branca teme?
+
+            MERCADER
+            Abraza, Antoñuelo, abraza
+            a tu amo.
+
+            NEGRO
+                    <l part="F">Oye usancé,
+            no se meta en otra danza,
+            que juro an Dios y a esta cruz
+            que turu esto es patarata.
+
+            MERCADER
+            Vos, hidalgo, bien podéis
+            darme... ¿Qué es lo que me pasa?
+            Huyose con el dinero.
+
+            NEGRO
+            ¡Oh, grandísima vinyaca!
+
+            (Vuelven a salir los cuatro.)
+
+            MERCADER
+            Vamos tras ellos.
+
+            TURULEQUE
+                            <l part="F">Espere,
+            que esa ida es escusada;
+            aquí está todo el dinero
+            y, pues que fue mal ganada
+            la apuesta, al seor nadador
+            le vuelvo a entregar su calza
+            y a usted su bolso.
+
+            NEGRO
+                                <l part="F">Pulu Cristu,
+            que ha siro bien sentenciara.
+
+            MERCADER
+            Mi ojo quiero y no más.
+
+            CORRUJA
+            Aguarde usted, no se vaya,
+            que, ayudándonos su negro,
+            con cierto baile a su usanza
+            daremos fin.
+
+            MERCADER
+                        <l part="F">Baila, negro.
+
+            NEGRO
+            Si es pulu mí, mas qui vaya.
+
+            CORRUJA
+            Pues, seor moreno, yo empiezo.
+
+            NEGRO
+            Y yo la isicucho, branca.
+
+            PIRONDA
+            Y ha de responder cantando.
+
+            NEGRO
+            <l part="I">En buen hora.
+
+            CORRUJA
+                        <l part="M">Vaya.
+
+            PIRONDA
+                               <l part="F">Vaya.
+
+            CORRUJA
+            (Canta.)
+            Camaroncitos
+            zambullidores,
+            debajo la puente
+            están los mejores.
+
+            NEGRO
+            (Canta.)
+            Camarones.
+
+            CORRUJA
+            Chiquiticos.
+
+            PIRONDA
+            Y zambullidores.
+
+            NEGRO
+            Con pimienta.
+
+            CORRUJA
+            Con limones.
+
+            LAS DOS
+            Estos camaroncicos se comen.
+
+
+            CORRUJA
+            Es un pescadillo
+            de tantos primores...
+
+            NEGRO
+            ... que sirve de salsa
+            solo oír su nombre.
+
+            PIRONDA
+            Es quien da a los bailes
+            mudanzas conformes.
+
+            NEGRO
+            Y es el alegría
+            de todos los sones.
+            Camarones.
+
+            CORRUJA
+            Chiquiticos.
+
+            PIRONDA
+            E zambullidores.
+
+            NEGRO
+            Con pimienta.
+
+            CORRUJA
+            Con limones.
+
+            LAS DOS
+            Estos camaroncicos se comen.
+
+        </body>
+
+    </text>
+
+</TEI>
