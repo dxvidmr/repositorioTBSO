@@ -17,7 +17,7 @@ Este repositorio es parte de un proyecto de investigación personal sobre la apl
 | Entremés de lo que pasa en una venta | Quiñones de Benavente | TXT |
 | Entremés de los ladrones y el reloj | Quiñones de Benavente | TXT |
 | Entremés de los maldicientes | Quiñones de Benavente | TXT |
-| Entremés del marión | Quiñones de Benavente | TXT |
+| Entremés del marión | Quiñones de Benavente | TXT, TEI |
 | Entremés del ventero | Quiñones de Benavente | TXT |
 | Entremés famoso de Otáñez y el fariseo | Quiñones de Benavente | TXT |
 | Entremés famoso y nuevo de los sacristanes | Quiñones de Benavente | TXT |
