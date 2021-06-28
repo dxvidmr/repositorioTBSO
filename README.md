@@ -9,7 +9,7 @@ Este repositorio es parte de un proyecto de investigación personal sobre la apl
 ### Obras incluidas en el repositorio 
 | TÍTULO | AUTOR | FORMATO |
 | -- | -- | -- |
-| El juego del hombre | Quiñones de Benavente | TXT |
+| El juego del hombre | Quiñones de Benavente | TXT, TEI |
 | Don Satisfecho, el moño y la cabellera | Quiñones de Benavente | TXT |
 | El barbero | Quiñones de Benavente | TXT |
 | Entremés de la hechicera | Quiñones de Benavente | TXT, TEI|
