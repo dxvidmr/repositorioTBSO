@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+    type="application/xml" 
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title></title>
+            <author></author>
+            <editor></editor>
+        </titleStmt>
+        <publicationStmt>
+            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+    
+            </bibl>
+        </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="">
+                        <persName></persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <keywords>
+                    <term type="genreTitle"></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <head>
+            </head>
+            <castList>
+                <head></head>
+                <castItem>
+                    <role corresp="#"></role>
+                </castItem>
+            </castList>
+        </front>
+
+        <body>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>
