@@ -315,45 +315,59 @@
 
             <stage>(Levántase.)</stage>
 
-            MERCADER
-            A las minas del azogue
-            irás.
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>A las minas del azogue</l>
+                <l part="I">irás.</l>
+            </sp>
+            
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="F">De mun buena gana,</l>
+                <l>que si ayá se tiembra, aquí</l>
+                <l>también tiembro de miraya.</l>
+            </sp>
 
-            NEGRO
-                <l part="F">De mun buena gana,
-            que si ayá se tiembra, aquí
-            también tiembro de miraya.
+            <sp who="mercader">
+                <speaker>MERCADER</speaker>
+                <l>¿De qué servías en Lima?</l>
+            </sp>
 
-            MERCADER
-            ¿De qué servías en Lima?
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l>De andar por cayes y prazas</l>
+                <l>vendiendo maní tustaro,</l>
+                <l>pipián, leche cuajara,</l>
+                <l>charque, tamales, maíz,</l>
+                <l>camarón, chochoca, paltas,</l>
+                <l>ají, chicha, chiltomates,</l>
+                <l>plantanicos y guayabas,</l>
+                <l>congrejo con su candillo</l>
+                <l>y con salpimienta papas,</l>
+                <l>y otras dos mil pulquerías</l>
+                <l>y, cuando me lo mandaban,</l>
+                <l>tomando la guitariya</l>
+                <l>con las molenas bailaba.</l>
+                <l>Molenica di Congo, zanbanbú.</l>
+            </sp>
 
-            NEGRO
-            De andar por cayes y prazas
-            vendiendo maní tustaro,
-            pipián, leche cuajara,
-            charque, tamales, maíz,
-            camarón, chochoca, paltas,
-            ají, chicha, chiltomates,
-            plantanicos y guayabas,
-            congrejo con su candillo
-            y con salpimienta papas,
-            y otras dos mil pulquerías
-            y, cuando me lo mandaban,
-            tomando la guitariya
-            con las molenas bailaba.
-            Molenica di Congo, zanbanbú.
+            <stage>(Saca una guitarra y canta.)</stage>
+            
+            <sp who="#negro">
+                <l>Qué garano me pongo, zanbanbú,</l>
+                <l>que mañana me caso, ayúrame tú,</l>
+                <l>zanbanbú, zanbanbú.</l>
+            </sp>
 
-            (Saca una guitarra y canta.)
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>¿Callarás, negro u demonio?</l>
+            </sp>
 
-            Qué garano me pongo, zanbanbú,
-            que mañana me caso, ayúrame tú,
-            zanbanbú, zanbanbú.
-
-            MERCADER
-            ¿Callarás, negro u demonio?
-
-            NEGRO
-            Ya, siolo, el neglo caya.
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l>Ya, siolo, el neglo caya.</l>
+            </sp>
 
             MERCADER
             ¡Vive Dios!
