@@ -369,46 +369,66 @@
                 <l>Ya, siolo, el neglo caya.</l>
             </sp>
 
-            MERCADER
-            ¡Vive Dios!
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l part="I">¡Vive Dios!</l>
+            </sp>
 
-            SANTURDE
-                        <l part="F">Téngase usted,
-            que el negro es pieza estremada.
+            <sp who="#santurde">
+                <speaker>SANTURDE</speaker>
+                <l part="F">Téngase usted,</l>
+                <l>que el negro es pieza estremada.</l>
+            </sp>
 
-            MERCADER
-            Quinientas piezas mejores
-            me costó, pese a su alma.
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>Quinientas piezas mejores</l>
+                <l>me costó, pese a su alma.</l>
+            </sp> 
 
-            (Sale el Nadador.)
+           <stage>(Sale el Nadador.)</stage>
 
-            NADADOR
-            ¿Hay aquí alguno que quiera
-            nadar cien pesos de plata?
+            <sp who="#nadador">
+                <speaker>NADADOR</speaker>
+                <l>¿Hay aquí alguno que quiera</l>
+                <l>nadar cien pesos de plata?</l>
+            </sp>
 
-            TURULEQUE
-            Sí hubiera, si el río fuera
-            una cuba de cazalla.
+            <sp who="#turuleque">
+                <speaker>TURULEQUE</speaker>
+                <l>Sí hubiera, si el río fuera</l>
+                <l>una cuba de cazalla.</l>
+            </sp>
 
-            PIRONDA
-            Y aun a dos sorbos que dieras,
-            en qué nadar te faltara.
+            <sp who="#pironda">
+                <speaker>PIRONDA</speaker>
+                <l>Y aun a dos sorbos que dieras,</l>
+                <l>en qué nadar te faltara.</l>
+            </sp>
 
-            MERCADER
-            Hijo, aquesta es ocasión.
-            Deja, Antoñuelo, las chanzas.
+            <sp who="#mercader">
+                <speaker>MERCADER</speaker>
+                <l>Hijo, aquesta es ocasión.</l>
+                <l>Deja, Antoñuelo, las chanzas.</l>
+            </sp>
 
-            NEGRO
-            ¿Vusancé no me cree?
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l part="I">¿Vusancé no me cree?</l>
+            </sp>
 
-            MERCADER
-                                <l part="F">No.
+            <sp>
+                <speaker>MERCADER</speaker>
+                <l part="F">No.</l>
+            </sp>
 
-            NEGRO
-            Pues una ardilla nos valga;
-            a tura lo que yo riga,
-            riga que sí, y luego traya
-            lo que yo piriere al punto.
+            <sp who="#negro">
+                <speaker>NEGRO</speaker>
+                <l>Pues una ardilla nos valga;</l>
+                <l>a tura lo que yo riga,</l>
+                <l>riga que sí, y luego traya</l>
+                <l>lo que yo piriere al punto.</l>
+            </sp>
 
             MERCADER
             En buen hora, pues ¿qué aguardas?
