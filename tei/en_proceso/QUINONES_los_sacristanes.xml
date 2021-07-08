@@ -5,25 +5,41 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-        <titleStmt>
-            <title></title>
-            <author></author>
-            <editor></editor>
-        </titleStmt>
-        <publicationStmt>
-            <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
-        </publicationStmt>
-        <sourceDesc>
-            <bibl>
-    
-            </bibl>
-        </sourceDesc>
+            <titleStmt>
+                <title>Entremés famoso y nuevo de los sacristanes</title>
+                <author>Luis Quiñones de Benavente</author>
+                <editor>David Merino Recalde</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Distribuido bajo licencia CC BY-NC-SA 4.0</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Madroñal, Abraham (ed.), Nuevos entremeses, Kassel, Reichenberger, 1996.
+                    Extraído de: Biblioteca Virtual Miguel de Cervantes (2002) http://www.cervantesvirtual.com/nd/ark:/59851/bmc4t6j0
+                </bibl>
+            </sourceDesc>
         </fileDesc>
         <profileDesc>
             <particDesc>
                 <listPerson>
-                    <person xml:id="">
-                        <persName></persName>
+                    <person xml:id="luisa">
+                        <persName>Luisa</persName>
+                    </person>
+                    <person xml:id="isabel">
+                        <persName>Isabel</persName>
+                    </person>
+                    <person xml:id="tararira">
+                        <persName>Tararira</persName>
+                    </person>
+                    <person xml:id="talega">
+                        <persName>Talega</persName>
+                    </person>
+                    <person xml:id="monillo">
+                        <persName>Monillo</persName>
+                    </person>
+                    <person xml:id="vecino">
+                        <persName>Vecino</persName>
                     </person>
                 </listPerson>
             </particDesc>
@@ -38,17 +54,1019 @@
     <text>
         <front>
             <head>
+                Entremés famoso y nuevo de los sacristanes
             </head>
             <castList>
                 <head></head>
                 <castItem>
-                    <role corresp="#"></role>
+                    <role corresp="#luisa">LUISA</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#isabel">ISABEL</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#tararira">TARARIRA, su padre</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#talega">TALEGA, sacristán</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#monillo">MONILLO, sacristán</role>
+                </castItem>
+                <castItem>
+                    <role corresp="#vecino">Un VECINO</role>
                 </castItem>
             </castList>
         </front>
 
         <body>
             <div>
+<stage>(Sale LUISA huyendo de TARARIRA, vejete, que saca un palo en la mano, y ISABEL se pone en medio.)</stage>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <stage>(En voz alta.) </stage>
+    <l>¡Justicia, ay que me matan!</l>
+    <l>¡Ay qué plaga!</l>
+    <l>¡Ay que quiere dolerme!</l>
+    <l>¡Ay que me amaga, ay!</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l>Yo os mataré, raída.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>¡Ay que no daré un cuarto por mi vida, ay!</l>
+</sp>
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+    <l>¿Por qué se enoja con mi hermana, padre?</l>
+    <l part="I">¿Qué la ha visto?</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+	<l part="F">Por vida de tu madre,</l>
+    <l>muy gran desenvoltura.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>¡Ay que jura, señores! ¡Ay que jura</l>
+    <l>y no le llevan luego a Peralvillo, ay!</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l>¿Por qué habláis al sacristán Monillo?</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l part="I">Porque soy su mujer.</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+	<l part="F">¿De un picarote?</l>
+    <stage>(Alza el palo.) </stage>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>¡Ay, que me pudo dar con el garrote!</l>
+    <l>Fue milagro no darme,</l>
+    <l>no faltaron diez pies para alcanzarme.</l>
+</sp>
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+    <l>Calle, señor, que yo sé que mi hermana</l>
+    <l part="I">no se querrá casar.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+	<l part="F">Hasta mañana.</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l>¡No en mis días, picaña!</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l part="I">¡Aquí de Dios, del rey!</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+	<l part="F">Calla, demonio.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>¡Que me impiden mi santo matrimonio!</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+<l>¡Casar con un monillo! De decillo</l>
+<l>me da gota coral. ¡Con un monillo!</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>Si el monillo no más le hace embarazo,</l>
+    <l>yo le diré, señor, que sea monazo.</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l part="I">¿Conmigo chanzas?</l>
+    <stage>(Amágala.)</stage> 
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+	<l part="F">¡Ay, que un pistolete</l>
+    <l part="I">me dispara!</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l part="F">¡Jesús, qué testimonio!</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>¡Y me impide mi santo matrimonio, ay!</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l>Ahora bien, yo pondré remedio en esto.</l>
+    <l part="I">Voyme pues.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+	<l part="F">Eso no. No has de irte.</l>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+    <l>Aunque te pese, he de irme.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l part="I">¡Socorro, ténganle!</l>
+    <stage>(Agárrale y él se desase y se va.)</stage>
+</sp>
+
+<sp who="#tararira">
+    <speaker>TARARIRA</speaker>
+	<l part="F">¡Suelta, demonio!</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>¡Que va a impedir mi santo matrimonio, ay!</l>
+</sp>
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+    <l>¿Qué es esto, que no lo entiendo?</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>Casarme, para que lo entiendas,</l>
+    <l>con un sacristán de aljófar,</l>
+    <l>con un monito de perlas</l>
+    <l>más enjuto que un verano,</l>
+    <l>más largo que una cuaresma,</l>
+    <l>con más manos que un menudo</l>
+    <l>y más pies que seis poetas.</l>
+</sp>
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+<l>¡Ay, Luisa, que tengo yo</l>
+<l>otro trasgo de bayeta,</l>
+<l>otro degüella-bodigos,</l>
+<l>y otro apura-vinajeras!</l>
+<l>Mas es para lo de Dios,</l>
+<l>porque en oyendo una hembra</l>
+<l>casamiento, se la comen</l>
+<l>pulgas, sapos y culebras;</l>
+<l>la asadura la pellizcan,</l>
+<l>las entrañas la alcancean,</l>
+<l>el corazón se le bulle</l>
+<l>y los ojos se le alegran.</l>
+</sp>
+
+<stage>(Sale el sacristán TALEGA.)</stage>
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+    <l>Belisa, que bultun tuun</l>
+    <l>usque ad animan penetrat</l>
+    <l>faciendo en mi coran bobis</l>
+    <l>aleluyan sempiternan.</l>
+    <l>Permitad voluntas tua</l>
+    <l>que sacristanus Talega</l>
+    <l>deoculorumque tuorun</l>
+    <l>agradabuntur merezca.</l>
+</sp>
+
+<stage>(Sale el sacristán MONILLO.)</stage>
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+    <l>Ludovica, cuyus manus</l>
+    <l>sunt in latina litera</l>
+    <l>mantequillarun me fecit</l>
+    <l>para mi requien eternan.</l>
+    <l>Da consuelun tamañitun</l>
+    <l>a tristis anima mea</l>
+    <l>qui mecun senper morietur</l>
+    <l>qui tecun vivit et regnat.</l>
+</sp>
+
+<sp>
+    <speaker>ISABEL</speaker>
+    <l>Mira si te dije yo</l>
+    <l>de las partes reverendas</l>
+    <l>de mi Talega, Luisa.</l>
+</sp>
+
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+    <l>Seré talega perpetua,</l>
+    <l>adonde guardes la ropa,</l>
+    <l>saca donde harina tengas,</l>
+    <l>escriño para algarrobas</l>
+    <l>y costal para las eras.</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>Repara tú en mi Monillo,</l>
+    <l>conocerás la excelencia</l>
+    <l>que tiene en la narrativa.</l>
+</sp>
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+    <l>Monillo de tu taberna</l>
+    <l>seré usque ad morten, Luisa,</l>
+    <l>y, si Dios casarme deja,</l>
+    <l>yo tendré in brevis oracio</l>
+    <l>de monos la casa llena.</l>
+    <l>Mis hijos serán monarcas,</l>
+    <l>monacillos de la Iglesia,</l>
+    <l>monicongos, monipodios,</l>
+    <l>para que digan de veras</l>
+    <l>que es mi casa Tetuán</l>
+    <l>donde la monas se engendran.</l>
+    <l>Bien haya mi cholla, amén.</l>
+</sp>
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+    <l>Bien haya, amén, mi mollera.</l>
+</sp>
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+    <l>Tú conmigo eres un niño.</l>
+</sp>
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+    <l>Tú conmigo eres de teta.</l>
+</sp>
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+    <l>Yo soy poeta in utroque.</l>
+</sp>
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+    <l>¿Quién deja de ser poeta?</l>
+</sp>
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+    <l>A la prueba y punto en boca.</l>
+</sp>
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+    <l>Punto en boca y a la prueba.</l>
+</sp>
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+    <l>Júzguenlo Isabel y Luisa.</l>
+</sp>
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+    <l part="I">Digan ellos.</l>
+</sp>
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+	<l part="F">Oigan ellas.</l>
+    <l>Y va un villancico hecho</l>
+    <l>hogaño a la Madalena.</l>
+    <stage>(Hace que glosa.)</stage>
+    <l>La bendita Madalena</l>
+    <l>lavó a Dios con su melena,</l>
+    <l>este sí cristianos que es</l>
+    <l>el verdadero Lavapiés,</l>
+    <l>este sí que es buen barrio, buscalde,</l>
+    <l>donde viven los santos de balde</l>
+    <l>por toda la vida, que no por un mes.</l>
+    <l>Y responden a tres, responden a tres</l>
+    <l>diciendo un capón:</l>
+    <l>«La Madalena no es por San Antón»,</l>
+    <l>y repite un organista:</l>
+    <l>«Ni San Antón por San Juan Bautista»,</l>
+    <l>cuando en tono süave dice un ministril:</l>
+    <l>«Norabuena vengáis, abril,</l>
+    <l>qué galán venís, qué galán venís,</l>
+    <l>aunque os cueste dos maravedís».</l>
+</sp>
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l part="I">Mala cosa.</l>
+</sp>
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+	<l part="F">Linda cosa.</l>
+</sp>
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+<l>¿Aquesto es lindo? Así tenga</l>
+<l>el pago de Jesucristo.</l>
+<l>Va mi villancico, aprenda,</l>
+<l>al señor Santo Domingo,</l>
+<l>que nació con una estrella,</l>
+<l>con una estrella en la frente.</l>
+<l>Santo Domingo nació,</l>
+<l>ansí lo naciera yo</l>
+<l>pero quiso mi pecado</l>
+<l>que no naciese estrellado,</l>
+<l>porque pretende Patillas</l>
+<l>que vivan los hombres hechos tortillas</l>
+<l>y en saliendo con lo que fragua</l>
+<l>los pasa por fuego como por agua</l>
+<l>y deja a los afligidos</l>
+<l>con alcrebite mejidos</l>
+<l>hasta que dice desde su centro:</l>
+<l>«-Martinillo, mi amo, mételos dentro»</l>
+<l>y el mundo le respondió,</l>
+<l>admirándose del malo:</l>
+<l>-«Ay, que ha cantado el demonio del palo,</l>
+<l>ay que el demonio de palo cantó».</l>
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+    <l>Excelente troba.</l>
+</sp>
+
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+				Miente
+quien lo dice o quien lo piensa.
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+Recipe mi bonetorum.
+  (Tíranse los bonetes y llama el viejo.) 
+
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+¿Non me cascasti la testa?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+¡Que se matan en latín!
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+¡Que en romance se aporrean!
+
+(Dentro vejete.)
+
+
+TARARIRA
+Abrid aquí, doncellitas.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+¡Mi padre!
+
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+			Peor es esta.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Aquí nos mata a las dos.
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+Bobillas, no tengan pena
+que prevenidos venimos
+para lo que sucediera.
+Tráiganos presto un brasero.
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+Aquí está.
+
+TARARIRA
+			Abrid, malas hembras.
+ (Dentro.) 
+
+
+(Quítanse las sotanillas y quedan con unos justillos, y pónese a gatas TALEGA, la boca junto al brasero. MONILLO le tira y afloja de los pies como fuelles. Sopla TALEGA y llénase de ceniza. Sale el viejo y un VECINO.)
+
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+Voy a abrir.
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+			Bien puedes ir.
+
+
+<sp who="#talega">
+    <speaker>TALEGA</speaker>
+Quedito, que me despiernas.
+
+(Salen ahora TARARIRA y el VECINO.)
+
+
+TARARIRA
+Búsqueme vusted la casa.
+
+VECINO
+Eso déjelo a mi cuenta,160
+que aunque estuviera nublado
+y sacristanes lloviera
+no quedara ni aun memoria.
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+¡A garrotazos la pierdas!
+
+VECINO
+Pero, ¿qué es esto, compadre?
+ (Véenlos.)  
+
+TARARIRA
+¡Oigan! ¿Qué tramoya es esta?
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+Son los fuelles del herrero
+que pidió que se estuvieran
+aquí mientras que venía
+con la llave de su puerta.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Y soplan que es maravilla,
+porque esta figura, esta,
+ (A MONILLO.) 
+
+en torciéndola anda el fuelle.
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+Tuerza, señor padre, tuerza.
+  (Tuerce ISABEL.)  
+
+
+<sp who="#monillo">
+    <speaker>MONILLO</speaker>
+Torcida tengas la boca.
+ (Tuerce el viejo.) 
+						¡Ay!
+
+¡Ay, que el brazo me derrienga!
+
+(Tuerce el viejo y soplan los fuelles.)
+
+
+TARARIRA
+Cada día hay, ¡vive Cristo!
+en la cortecosas nuevas.
+Vecino, llegue a torcer.
+
+MONILLO
+Otra torcedura.
+
+VECINO
+				Apenas
+han llegado cuando sopla.
+ (Tuerce el VECINO.) 
+
+MONILLO
+Soplada el alma te veas
+de un médico soplavidas.
+
+TALEGA
+Con la mucha polvareda
+perdimos a doña Vista.
+
+TARARIRA
+Hijas, decid cuando vuelva
+al herrero que se lleve
+sus fuelles en hora buena
+porque son muy peligrosos
+los fuelles junto a las fuellas.
+ (Vanse los dos.) 
+
+VECINO
+¿Qué queréis destas muchachas?
+
+TARARIRA
+Vos lo veréis a la vuelta.
+
+TALEGA
+Monillo tiene la culpa
+ (Levántase.) 
+
+de estar yo desta manera.
+
+MONILLO
+¿Y de estar yo sin un brazo
+quién tiene culpa, Talega?
+
+TALEGA
+Es mal hecho.
+
+MONILLO
+			Y mal pensado.
+
+TALEGA
+No me tengan.
+
+MONILLO
+			Sí le tengan.
+
+(Riñen y ellas se ponen de por medio.)
+
+
+TARARIRA
+  (Dentro.) 
+
+Luisa, Isabel.
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+			¡Ay!, que vuelve
+mi padre.
+
+TALEGA
+		Dimos en tierra
+con la maraña.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+			Cuitados,
+yo los libraré, no teman.
+Póngase él en cuatro pies
+ (A TALEGA.) 
+
+y échale tú una carpeta,
+échese él encima y calle.
+
+MONILLO
+¿Yo encima?
+
+TALEGA
+			¿De eso se queja?
+¿Hiciera más si debajo
+sus cinco arrobas sufriera?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>Dame esa sábana.
+
+(Pónese TALEGA a gatas y cúbrenle con una carpeta. Échase MONILLO encima, boca arriba, y cúbrenle con una sábana, dejándole la cara descubierta. Toma LUISA un cedazo con harina y cierne sobre él, y salen el viejo y VECINO. Dice dentro primero.)
+
+
+TARARIRA
+				¡Hola!
+¿He de derribar las puertas?
+
+MONILLO
+¡Presto, que viene endiablado!
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Cierre los ojos y alerta.
+
+MONILLO
+Alerta y cierre los ojos,
+¿está borracha, doncella?
+
+TALEGA
+Que no se haga pesado
+que se derrienga la bestia.
+
+(Sale TARARIRA.)
+
+
+TARARIRA
+¿Habíades de abrir hoy?
+  (Ahora sale con el VECINO.)
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+Señor, es mañana fiesta
+y está mi hermana ocupada
+en cerner.
+
+VECINO
+			Diga ¿en qué piensa
+que persigue estas muchachas?
+
+TARARIRA
+¿Dónde está Luisa?
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+					En la artesa
+cerniendo y cantando.
+
+VECINO
+					¿Ve
+cómo no hay nada que tema?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+ (Canta.) 
+
+Dime de qué te temes,
+de qué te temes.
+
+MONILLO
+Témome, vida mía,
+que no me ciegues.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+  (Canta.) 
+
+Dime qué señas tiene
+mi enamorado.
+
+MONILLO
+Tiene el rostro molicio
+y enharinado.
+
+TARARIRA
+Basta que yo me engañe.
+¿Qué hacéis, hija?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Mis haciendas.
+
+TARARIRA
+				Lograda tan buena hija.
+
+VECINO
+Son las dos unas corderas.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+  (Canta.) 
+
+¿Qué me dice la artesa,
+viendo su rostro?
+
+MONILLO
+Que las Carnestolendas
+son por el Corpus.
+
+TARARIRA
+Mirad qué os digo, mocitas.
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+¿Qué me mandas?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+				¿Qué me ordenas?
+
+TARARIRA
+¿Qué hay del sacristán Monillo?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Ya se me acabó esa tema.
+
+TARARIRA
+Juraldo.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+		Si bien le quiero,
+reviente.
+
+VECINO
+		Y pues no revienta
+verdad dice.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+			Y, si no, ciegue.
+
+TARARIRA
+Créolo.
+
+(Hablan aparte el viejo, hijas y VECINO.)
+
+
+TALEGA
+		Señora artesa,
+no lo puedo ya sufrir.
+
+MONILLO
+Pues, señor banco, paciencia.
+
+(Riñen los sacristanes. Velo el viejo.)
+
+
+TARARIRA
+¿Qué es aquello?
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+				Con el peso
+el banco se bambolea.
+
+TARARIRA
+Pues para que esté seguro
+vusted, que tiene más fuerza
+átele con esa soga.
+
+(Átalos el VECINO con una soga, afirmando el pie.)
+
+
+VECINO
+Que me place.
+
+MONILLO
+			¡Santa Tecla!
+Un pie me ha metido dentro
+y un güeso me ha echado fuera.
+
+TARARIRA
+Mientras ato yo a estas dos
+echad ahí una caldera
+de agua hirviendo.
+
+(Átalas a ellas espaldas con espaldas y ellos se levantan atados.)
+
+
+MONILLO
+				¡Aquí de Dios
+que sin ser lechón me pelan!
+
+TARARIRA
+Vaya a una.
+
+VECINO
+			Vaya a una.
+
+(Como les dan con los matapecados van dando vueltas ellos y ellas.)
+
+
+TALEGA
+Miren que yerran la cuenta,
+porque dicen «vaya a una»
+y a todos cuatro nos pegan.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+¡Ay, que me matan, Monillo!
+
+MONILLO
+¿Y acá huelga la madera?
+
+
+<sp who="#isabel">
+    <speaker>ISABEL</speaker>
+Talega, que me acrebillan.
+
+TALEGA
+Isabel, que me desuellan.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Monillo, a mí me dan muerte.
+
+MONILLO
+Luisa, a mí me dan carena.
+
+ISABEL
+Talega, que me deshacen.
+
+TALEGA
+Isabel, que me palmean.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Padre lindo, padre santo.
+
+MONILLO
+Suegro de todas maneras.
+
+ISABEL
+Padre, yo me llamo a engaño.
+
+TALEGA
+Suegro, yo me llamo Iglesia.
+
+VECINO
+Casaldos, que esto es crueldad.
+
+TARARIRA
+Más estoy que una manteca
+de tierno, ya desataldos
+y cásense en hora buena.
+
+MONILLO
+Noramala será ya.
+
+TALEGA
+Vaya de baile y de fiesta.
+ (Desátalos el VECINO.) 
+
+
+(Cantan y bailan.)
+
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Si yo me caso, señores,
+ (Canta.) 
+
+muy buena disculpa tengo,
+porque es malilla sin guarda
+doncella con padre viejo.
+
+(Repiten los dos versos postreros. Baila.)
+
+
+MONILLO
+Yo, calvajusto de entrambos,
+que el que se casa sin seso
+es marido rey de bastos,
+que le baldan por momentos.
+
+(Repiten y bailan todos.)
+
+
+ISABEL
+Con tonto y rico me caso,
+y pues doy mano en el juego
+ (Lo mismo.)  
+
+yo robaré la figura295
+y descartaráme el tiempo.
+
+TALEGA
+Yo caso con moza y pobre,
+perro con muy poco riesgo,
+que soy hombre y cada mano
+ (Lo mismo.) 
+
+los tres matadores tengo.
+
+TARARIRA
+Para que piedras me tiren
+basta decir que soy suegro,
+que como a malas lanzadas
+ (Lo mismo.) 
+
+morimos a malos yernos.
+MONILLO
+Todo lo tienen bueno
+los casamientos,
+todo lo tienen bueno
+sino los suegros.
+
+(Repiten.)
+
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+De las suegras y suegros
+no hay obra buena.
+
+TARARIRA
+Claro está pues que hacen
+yernos y nueras.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Parejitas corren
+suegros y cardos,
+pues no son de provecho
+sin enterrallos.
+
+(Todo lo repiten la música y bailan todos con que se da fin al entremés famoso de los dos sacristanes.)
+
+
+TALEGA
+Vaya de baile y de fiesta.
+
+MONILLO
+Toquen y baile Luisa.
+
+
+<sp who="#luisa">
+    <speaker>LUISA</speaker>
+Yo bailaré enhorabuena.
+
+(Baile LUISA sola con que se da fin al entremés.)
+
+
+Quítase el baile deste entremés.
+
+
+
+FIN
+
+
+
+
             </div>
         </body>
     </text>
