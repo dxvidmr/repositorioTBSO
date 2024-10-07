@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
-    type="application/xml" 
-    schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
         <titleStmt>
@@ -19,7 +18,7 @@
 			</bibl>
         </sourceDesc>
         </fileDesc>
-		<profileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
 			<particDesc>
 				<listPerson>
 					<person xml:id="catalina">
@@ -86,7 +85,7 @@
 
 			<sp who="#catalina">
 				<speaker>CATALINA</speaker>
-				<l>Vámonos poco a poco, hermana Juana,</l>
+				<l>Vámonos poco a poco, hermana <persName>Juana</persName>,</l>
 				<l>que es mucha mi razón y más mi cólera,</l>
 				<l>y ya sabéis que no sufro cosquillas.</l>
 			</sp>
@@ -103,7 +102,7 @@
 				<l>¡Ay, que me llama vieja! Pues, ¡menguada!,</l>
 				<l>cree verás deshechos tus engaños.</l>
 				<l>Señores, tengo yo catorce años.</l>
-				<l>Apártate, Zurrón, por vida mía,</l>
+				<l>Apártate, <persName type="fictional">Zurrón</persName>, por vida mía,</l>
 				<l>déjame que lo escriba en un retablo:</l>
 				<l>aetatis suae cuatrocientos años.</l>
 			</sp>
